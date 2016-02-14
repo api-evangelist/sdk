@@ -1,0 +1,62 @@
+[
+	{
+		"id": "xwpAgQV9rE2if8qUezJ9UD2n32m6JYFUI7eLKyckSeHyWYeIuo8s123E116cmfz3L1MZUHhVvDPaZpikz6ZYwjYVjA117117",
+		"name": "APIMATIC",
+		"summary": "When you use APIMATIC to manage SDKs, they provide you with an editor for adding, editing, and deleting the details of each API. When you bundles this with their multi-format API definition format import and export, the platform quickly becomes an API design tool as well as a platform for generating your SDKs.",
+		"details": "When you use APIMATIC to manage SDKs, they provide you with an editor for adding, editing, and deleting the details of each API. When you bundles this with their multi-format API definition format import and export, the platform quickly becomes an API design tool as well as a platform for generating your SDKs.",
+		"website": "https://www.apimatic.io/",
+		"twitter": "https://twitter.com/apimatic",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
+		"tags": null
+	},
+	{
+		"id": "SkaAkkWeK6lJLIpM116yaGKIChA4b9sp3v4DAMFy8hk2YdVgPbHCh12376Nc9hF123a9OtcX2NDL1SAj5as06HCF6KzA117117",
+		"name": "REST United",
+		"summary": "Our mission is to help REST API providers easily create SDKs in different programming languages with easy-to-follow documentation and code samples while software developers can effortlessly consume the REST API by following the SDK installation instruction and using the code samples within minutes.",
+		"details": "Our mission is to help REST API providers easily create SDKs in different programming languages with easy-to-follow documentation and code samples while software developers can effortlessly consume the REST API by following the SDK installation instruction and using the code samples within minutes.",
+		"website": "http://restunited.com/",
+		"twitter": "https://twitter.com/restunited",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
+		"tags": null
+	},
+	{
+		"id": "WzalvI5wnosx4R91w4zj6F6wzAtRulccX7Vrt20KocozIlYm116rFDxCsYjNmj0116ptv123WnKlxgk0sKr4fBdxNmIg117117",
+		"name": "SDK Critic",
+		"summary": "SDK Critic is a rating and review website for iOS and OS X frameworks. Consult SDK Critic to determine how hesitant you should be about using an unfamiliar framework and which parts of it you should be particularly wary of, based on the consensus of the developer community.",
+		"details": "SDK Critic is a rating and review website for iOS and OS X frameworks. Consult SDK Critic to determine how hesitant you should be about using an unfamiliar framework and which parts of it you should be particularly wary of, based on the consensus of the developer community.",
+		"website": "http://www.sdkcritic.com/",
+		"twitter": "",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
+		"tags": null
+	},
+	{
+		"id": "db4123Owz123iHWUrSeM3jUKa12323Fii5siUV3jkS9mIb7vOVU1LKRNhnzwi3Kbs51if2NXhXktRSriPV0RpNFBtgUg117117",
+		"name": "SDKs.io",
+		"summary": "SDKS.IO is, at heart, a store for SDKs allowing people to create their own, download other SDKs and, most importantly, search through our database of SDKs. We automatically look through existing API repositories including Mashape to bring you a comprehensive list of the SDK world.",
+		"details": "SDKS.IO is, at heart, a store for SDKs allowing people to create their own, download other SDKs and, most importantly, search through our database of SDKs. We automatically look through existing API repositories including Mashape to bring you a comprehensive list of the SDK world.",
+		"website": "http://sdks.io/",
+		"twitter": "https://twitter.com/sdksio",
+		"github": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
+		"tags": null
+	}
+]
