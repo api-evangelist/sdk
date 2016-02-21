@@ -1,244 +1,949 @@
 [
 	{
-		"building_block_id": "Ob2UELB9TS4kN5QvOTycWOIYOmmOXPeVygDs8Co6VoqUoDEylc5ybuU116eNBbreWuZRAS0lKkvz8duo4AvYXxWQ117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "C Sharp",
-		"about": "An SDK available in the C Sharp / C# programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "1"
+		"category_name": "Languages",
+		"building_blocks": [
+			{
+				"building_block_id": "dk3B123hg116FrWSn1MuS8K3vTvcAcm5F6SCnn2SOZNtZ54117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "C Sharp",
+				"about": "An SDK available in the C Sharp / C# programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "62Z2iONVIPznlPjeNMFXqOtheLkTkmoxlxJybUFGPtY117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Objective-C",
+				"about": "An SDK available in the Objective-C programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "271165LjBZSNIkeXI24N0iGWIXUIl5dsm8123iN2o4vjSgg117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Java for Android",
+				"about": "An SDK available in the Java programming language, with consideration specifically tailored for Android.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "nhzHW2VUWOlAHatGv7lxCqAw7qfUFE116Wrg1CHaHwTBI117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Java for JVM",
+				"about": "An SDK available in the Java programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "lH1166afZXv6dilwYz5yDjNm6116l1Y6PPOrwidLghbgkTw117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "PHP",
+				"about": "An SDK available in the PHP programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "nf9YBYeSIt5116SP9H116tEop3bsQA3PRZz0GgqKSOc6FeU117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Python",
+				"about": "An SDK available in the Python programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "opQ0Lwlw8lZEH9CMSNGo9TfTv7X4EYfK6icmJ1S6OtI117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "AngularJS",
+				"about": "An SDK available in the JavaScript programming language, with consideration specifically tailored for use in the Angular framework.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "NNQ4lCOVLhPW8MkreU1bWOqqeW6JqDa21j7cFGr4oc8117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Ruby",
+				"about": "An SDK available in the Ruby programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "w4wP7dZuQQGNJSXXeKIO9xd6DtRwD76ZXEkXxeT116t8k117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Node.js",
+				"about": "An SDK available in the Node.js programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "9",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "YsFlJnpVs7qogW8y5UTumnpsKYXIftv0quC6BfEvDww117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Go",
+				"about": "An SDK available in the Go programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "10",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "aB116116pcxjYRWG123DSjDDZjqr123TklVislIBA079KA1166nZY117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Scala",
+				"about": "An SDK available in the Scala programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "11",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "X6JPKXrjcqKKABh74wpu116jrH6EXfGZtxskaoaTNtMoA117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "ActionScript",
+				"about": "An SDK available in the ActionScript programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "12",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "BL9p38116y12311624QxDdky0dT52LIk7GWcxWqBo654R123gvE117",
+				"building_block_category_id": "fUVGp9FoTWvjpyv7Mzto9bwNxyhqQ9w1SV38wikhkYk117",
+				"name": "Swift",
+				"about": "An SDK available in the Swift programming language, with consideration specifically tailored for the language.",
+				"category_id": "257",
+				"category": "Languages",
+				"category_about": "What SDK generation capabilities are available? These SDKs might be hand crafted, or auto generated, but should be available in a variety of languages, encouraging the jumpstarting of integrations by a wide as possible audience.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "13",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "B3Nh5w36r0Ic1gx2ZsKIqW0uCaAocpXjvMFKuNIBqeUGbFkjg6HQc116FCvn0H5ABxf123zOV7D9CUFP7Bgma116hzUQ117117",
-		"building_block_category_id": "OhLKYx16qQq2hcBLhbB5w4MpZ9D6JLE1168ZzpEfaKKeevqaIl6XdTRTROZuCgU7FGS2Jbl45GlDcV4AdM9gDoyg117117",
-		"name": "Import OpenAPI Spec",
-		"about": "Allow for importing of API definitions using OpenAPI specification format, for generation of SDKs.",
-		"category_id": "258",
-		"category": "Import / Export",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "1"
+		"category_name": "Overview",
+		"building_blocks": [
+		]
 	},
 	{
-		"building_block_id": "Ckbz6GhFNtWE109W116yrZH2vt98O4k123H38UhQcZN8JVztR123WGG1T116C79XUlVDO4wPGM123zojxTCR42z53VkcVi2Q117117",
-		"building_block_category_id": "LQhcbh1dtFV4dovx9bceCzZVQbM6u1zoIFHxTLHg123ck1V1236LJH3116ZUTPyffb5UQsecUjxxO5CY7pT9G1umsj2A117117",
-		"name": "List SDK",
-		"about": "Are SDKs listed in an easy to find location, where developers can browse them easily? A simple list goes a long way in making them found.",
-		"category_id": "259",
-		"category": "Discovery",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "1"
+		"category_name": "Import / Export",
+		"building_blocks": [
+			{
+				"building_block_id": "3w6Fay4j5nxEQwaiu7uPJJSB2Hceg9sbTVae9dWUD8E117",
+				"building_block_category_id": "7FmfTZRzfIfyu123drgKKriB116Et9LoNJvFfVWQTMGGlno117",
+				"name": "Import OpenAPI Spec",
+				"about": "Allow for importing of API definitions using OpenAPI specification format, for generation of SDKs.",
+				"category_id": "258",
+				"category": "Import / Export",
+				"category_about": "Like most other stops along the modern API life cycle, the SDK portion is being defined by a range of common API definition formats, which allow APIs to be imported and exported as needed.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "ECy9iq5Z22APOze3dTWLa116ScJX9am6Jo11685WVbUBBHg117",
+				"building_block_category_id": "7FmfTZRzfIfyu123drgKKriB116Et9LoNJvFfVWQTMGGlno117",
+				"name": "Import RAML",
+				"about": "Allow for importing of API definitions using RAML format, for generation of SDKs.",
+				"category_id": "258",
+				"category": "Import / Export",
+				"category_about": "Like most other stops along the modern API life cycle, the SDK portion is being defined by a range of common API definition formats, which allow APIs to be imported and exported as needed.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "116MeEHN5123NpXve69AO8t7pIahZLaMTocZgC7Jmy2EuNc117",
+				"building_block_category_id": "7FmfTZRzfIfyu123drgKKriB116Et9LoNJvFfVWQTMGGlno117",
+				"name": "Import API Blueprint",
+				"about": "Allow for importing of API definitions using API Blueprint format, for generation of SDKs.",
+				"category_id": "258",
+				"category": "Import / Export",
+				"category_about": "Like most other stops along the modern API life cycle, the SDK portion is being defined by a range of common API definition formats, which allow APIs to be imported and exported as needed.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "W116I32e5awXw2so3MCCxKHdLDzNA123DRfCaDsctWw9wtE117",
+				"building_block_category_id": "7FmfTZRzfIfyu123drgKKriB116Et9LoNJvFfVWQTMGGlno117",
+				"name": "Import WADL",
+				"about": "Allow for importing of API definitions using WADL format, for generation of SDKs.",
+				"category_id": "258",
+				"category": "Import / Export",
+				"category_about": "Like most other stops along the modern API life cycle, the SDK portion is being defined by a range of common API definition formats, which allow APIs to be imported and exported as needed.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "BWcEAK2O4USOLjhhScSv4kMwmnqhBp8LtAOTmrhC3Uo117",
+				"building_block_category_id": "7FmfTZRzfIfyu123drgKKriB116Et9LoNJvFfVWQTMGGlno117",
+				"name": "Import Postman",
+				"about": "Allow for importing of API definitions using Postman format, for generation of SDKs.",
+				"category_id": "258",
+				"category": "Import / Export",
+				"category_about": "Like most other stops along the modern API life cycle, the SDK portion is being defined by a range of common API definition formats, which allow APIs to be imported and exported as needed.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "tWEpmg1gy32etmCxl5Z123Y3duXRoSLTBe1Uos43Z1160VgwxbbH91vtcTaL116t13hvPZbs1zZqM1jNwGQ116FfIH3rDg117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Objective-C",
-		"about": "An SDK available in the Objective-C programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "2"
+		"category_name": "Mobile Solutions",
+		"building_blocks": [
+			{
+				"building_block_id": "aLnMFQoeZzPH73CFBoz08IAoOhk3i6v6s123Blx9Q4e84117",
+				"building_block_category_id": "4UttDgugCYdR886Jk8hfkGvth28TUvryKreOc8AXOSk117",
+				"name": "Mobile Overview",
+				"about": "An overview page, dedicated to mobile application development, giving equal time to each platform, including iOS, Android, and Windows.",
+				"category_id": "6",
+				"category": "Mobile Solutions",
+				"category_about": "There are many overlaps with mobile in the regular SDK portion of this research, but some providers are publishing more resources specifically dedicated to the support of mobile integrations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "uu1nieUjFIMnjKMhFPln8k9b4jYPuSQVr3nYcXoowRA117",
+				"building_block_category_id": "4UttDgugCYdR886Jk8hfkGvth28TUvryKreOc8AXOSk117",
+				"name": "iOS SDK",
+				"about": "Providing mobile focused SDKs for developers to build IOS mobile applications on top of an API.",
+				"category_id": "6",
+				"category": "Mobile Solutions",
+				"category_about": "There are many overlaps with mobile in the regular SDK portion of this research, but some providers are publishing more resources specifically dedicated to the support of mobile integrations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-iphone.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "xbx0KcKr123o0lfKinY947ZrE5WK9JZxKPKvuYZMQfdOc117",
+				"building_block_category_id": "4UttDgugCYdR886Jk8hfkGvth28TUvryKreOc8AXOSk117",
+				"name": "Android SDK",
+				"about": "Providing mobile focused SDKs for developers to build Android mobile applications on top of an API.",
+				"category_id": "6",
+				"category": "Mobile Solutions",
+				"category_about": "There are many overlaps with mobile in the regular SDK portion of this research, but some providers are publishing more resources specifically dedicated to the support of mobile integrations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-android.jpg",
+				"image_width": "150",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "JVyrMzrF4JN2WDEI71xvDMJyj116xp6pygbSTNE116BgMtQ117",
+				"building_block_category_id": "4UttDgugCYdR886Jk8hfkGvth28TUvryKreOc8AXOSk117",
+				"name": "HTML5",
+				"about": "Providing mobile focused SDKs for developers to build HTML5 mobile applications on top of an API.",
+				"category_id": "6",
+				"category": "Mobile Solutions",
+				"category_about": "There are many overlaps with mobile in the regular SDK portion of this research, but some providers are publishing more resources specifically dedicated to the support of mobile integrations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html5.png",
+				"image_width": "150",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "dn6GRttCdRk8ise74TS7hRWolb7SieMCjS8TusXEMYo117",
+				"building_block_category_id": "4UttDgugCYdR886Jk8hfkGvth28TUvryKreOc8AXOSk117",
+				"name": "Appery.io",
+				"about": "Providing mobile focused SDKs for developers to build mobile applications on top of an API, using Appery.io.",
+				"category_id": "6",
+				"category": "Mobile Solutions",
+				"category_about": "There are many overlaps with mobile in the regular SDK portion of this research, but some providers are publishing more resources specifically dedicated to the support of mobile integrations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-appery.png",
+				"image_width": "150",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "DZmO3IHm1164NB3OTjaK4ogqG7larv02F2d1uD4adF123123s117",
+				"building_block_category_id": "4UttDgugCYdR886Jk8hfkGvth28TUvryKreOc8AXOSk117",
+				"name": "Windows Mobile SDK",
+				"about": "Providing mobile focused SDKs for developers to build Windows mobile applications on top of an API.",
+				"category_id": "6",
+				"category": "Mobile Solutions",
+				"category_about": "There are many overlaps with mobile in the regular SDK portion of this research, but some providers are publishing more resources specifically dedicated to the support of mobile integrations.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "aGJ2UGriS91v123vqd1T7p4gmMSF48G116WU5P4Tw392Fv8f7SORQJtOArOwTKm5I116303116tdevOWSrdkku79H4FqNg117117",
-		"building_block_category_id": "OhLKYx16qQq2hcBLhbB5w4MpZ9D6JLE1168ZzpEfaKKeevqaIl6XdTRTROZuCgU7FGS2Jbl45GlDcV4AdM9gDoyg117117",
-		"name": "Import RAML",
-		"about": "Allow for importing of API definitions using RAML format, for generation of SDKs.",
-		"category_id": "258",
-		"category": "Import / Export",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "2"
+		"category_name": "Platform Development Kits (PDK)",
+		"building_blocks": [
+			{
+				"building_block_id": "D0kYB8tGtaZvkyGUoMmRkYOQXfFS4ns0fR6e7SEuajg117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "Wordpress",
+				"about": "Providing ready to go WordPress integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their WordPress site(s).",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "RlWMJb116R9KMU27RvYhN2tOadXqaBSilaxGM8qc6Tzhc117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "Heroku",
+				"about": "Providing ready to go Heroku integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their Heroku platform account.",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "2fLL116KTjsgGp4koiRvVfbTKU9fNXH123rnYJCfIoD5116Ng117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "Drupal",
+				"about": "Providing ready to go Drupal integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their Drupal site(s).",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "4VmS8muccKZ123OCnxgh5bpmbiVGsNHKSjbvzfM4ImbDA117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "SalesForce",
+				"about": "Providing ready to go SalesForce integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their SalesForce account.",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "grMUmWMMRMHuJqw20yKOLggjfcDk116KNqR6zxTdoC0Ks117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "Joomla",
+				"about": "Providing ready to go Joomla integration, allowing developers, and sometimes even non-developers to immediately put an API to use through their Joomla account.",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "5",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "qs8Idod116WzjelvcOo9yY3c5DgG7tzfVqgxPxTjuOkVM117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "Google App Engine",
+				"about": "Providing ready to go Google App Engine integration, allowing developers, and sometimes even non-developers to immediately put an API to use through the Google Cloud platform.",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "6",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "fUrEvNxfgksZPuWt5QqTs4qIj0116Cb4DX2b9hfLst0qU117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "Chrome Extension",
+				"about": "Providing ready to go Google Chrome browser integration, allowing developers, and sometimes even non-developers to immediately put an API to use in their browser, with a Google Chrome extension.",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "7",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "s31rGg0Kry4VrGobd3uilCXiMTVSTZjO0pxFT2pzE9w117",
+				"building_block_category_id": "NqP95RcOuKJSR5HbGYXEjTyF123T7b123sbBIbKH0zY0SAE117",
+				"name": "Firefox Add-On",
+				"about": "Providing ready to go Mozilla Firefox browser integration, allowing developers, and sometimes even non-developers to immediately put an API to use in their browser, with a Mozilla Firefox add-on.",
+				"category_id": "120",
+				"category": "Platform Development Kits (PDK)",
+				"category_about": "Beyond language specific SDKs, there are a growing number of platforms who make platform specific SDKs available, assisting developers in successfully integrating with existing 3rd party platforms.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "8",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "rrNzEZ116N116uiOP4HWMxj3GfK7yMrWk2DRKOubwaLRFUNXAwKE4t0SfwE6beWkib81BJnlYU2FfUdJDTO123cTVTaA117117",
-		"building_block_category_id": "LQhcbh1dtFV4dovx9bceCzZVQbM6u1zoIFHxTLHg123ck1V1236LJH3116ZUTPyffb5UQsecUjxxO5CY7pT9G1umsj2A117117",
-		"name": "Search SDK",
-		"about": "Is there the ability to search for SDKs, using a single index dedicated to them, or possibly using Github's already available search mechanisms.",
-		"category_id": "259",
-		"category": "Discovery",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "2"
+		"category_name": "Single Page Applications (SPA)",
+		"building_blocks": [
+			{
+				"building_block_id": "P4DDlG116oTouwGW2BD3EFv2CHqFIdGLNLKDTgZiRBtxI117",
+				"building_block_category_id": "G8Zm2z4NL1zxlBa8BvdhNGwYrXtEY8Mf3okk123q3KzTg117",
+				"name": "Angular.js",
+				"about": "Providing developers with AngularJS framework integration, allowing them to build single page applications using API resources.",
+				"category_id": "130",
+				"category": "Single Page Applications (SPA)",
+				"category_about": "Like platform development kits, Single Page Applications or SPAs are playing an increasingly central role in API development. There are a number of considerations for API providers, when it comes to supporting SPA integration and developments.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Ww7rzikfH7KivYrZWXYJnz116OINJWmnlI6X3N0GSV9LE117",
+				"building_block_category_id": "G8Zm2z4NL1zxlBa8BvdhNGwYrXtEY8Mf3okk123q3KzTg117",
+				"name": "React.js",
+				"about": "Providing developers with React.js framework integration, allowing them to build single page applications using API resources.",
+				"category_id": "130",
+				"category": "Single Page Applications (SPA)",
+				"category_about": "Like platform development kits, Single Page Applications or SPAs are playing an increasingly central role in API development. There are a number of considerations for API providers, when it comes to supporting SPA integration and developments.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "jqrvwGV5hCY9O3TTzYLHQ9PaxgWTDcZW9WqjVf4K14F2VOXpXJWQHdxgnBW1ZiUFLZKXbdAk1txmKVUK4hyoVQ117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Java for Android",
-		"about": "An SDK available in the Java programming language, with consideration specifically tailored for Android.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "3"
-	},
-	{
-		"building_block_id": "6oPBsFdR9Oo123wTotn7m4LA3vnJVQHsnxDnTdbBaFutQnTelGv1233cQW7TUP2ml8LAzhhoKw3OaRepWFcp123y2cMQ117117",
-		"building_block_category_id": "OhLKYx16qQq2hcBLhbB5w4MpZ9D6JLE1168ZzpEfaKKeevqaIl6XdTRTROZuCgU7FGS2Jbl45GlDcV4AdM9gDoyg117117",
-		"name": "Import API Blueprint",
-		"about": "Allow for importing of API definitions using API Blueprint format, for generation of SDKs.",
-		"category_id": "258",
-		"category": "Import / Export",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "3"
-	},
-	{
-		"building_block_id": "YDeObvz3VgLnFtiARgJCi123NwfQQbXsGxeCHvXvn6T2xPkNEkZSgRo116dNbp3VwC2chdwurM123QGsRvpE0QMMjUkQ117117",
-		"building_block_category_id": "LQhcbh1dtFV4dovx9bceCzZVQbM6u1zoIFHxTLHg123ck1V1236LJH3116ZUTPyffb5UQsecUjxxO5CY7pT9G1umsj2A117117",
-		"name": "Browse SDK",
-		"about": "Is there a browseable directory of SDKs, that developers can use to find the SDK that they need? Potentially giving more information than just a listing.",
-		"category_id": "259",
-		"category": "Discovery",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "3"
-	},
-	{
-		"building_block_id": "zFO7yVhwS1KDcfBrxHfzPGK2ZR123hALU116Trz8sfOwyl123iVbQoJ15xu65lrHDYXahw1160qBntiQaNKKB6CJdqCtWQ117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Java for JVM",
-		"about": "An SDK available in the Java programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "4"
-	},
-	{
-		"building_block_id": "MaBodosM2dVrONR6bhMVhDV4fPBnQ1168nLd123jg8B5n116dj4123Nc116qONsXLDb1itqLWy0vfRJL2VB8qdCVdaWBxkkw117117",
-		"building_block_category_id": "OhLKYx16qQq2hcBLhbB5w4MpZ9D6JLE1168ZzpEfaKKeevqaIl6XdTRTROZuCgU7FGS2Jbl45GlDcV4AdM9gDoyg117117",
-		"name": "Import WADL",
-		"about": "Allow for importing of API definitions using WADL format, for generation of SDKs.",
-		"category_id": "258",
-		"category": "Import / Export",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "4"
-	},
-	{
-		"building_block_id": "5pEpsFYbRzYmqr3idD7Xnih116ZYpT0d54jECVvh3Yc1232xmRB5116fQzYgyahq31165JS0CiD116JV8C3F116rtxsszN75BQ117117",
-		"building_block_category_id": "LQhcbh1dtFV4dovx9bceCzZVQbM6u1zoIFHxTLHg123ck1V1236LJH3116ZUTPyffb5UQsecUjxxO5CY7pT9G1umsj2A117117",
-		"name": "Rating",
-		"about": "Are SDKs rated, allowing for various quality considerations around their value and usage in other API integrations, allowing developers to find the best SDKs possible.",
-		"category_id": "259",
-		"category": "Discovery",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "4"
-	},
-	{
-		"building_block_id": "YGprOuh98116fwx745116ENZ8XpyBheobnPtOrFkI1k9cqy6S123YoAZia5YI1L5VfFQkyX123qrbIFVO0qNpZJyMelLeg117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "PHP",
-		"about": "An SDK available in the PHP programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "5"
-	},
-	{
-		"building_block_id": "ZmJAcOjt7z4Fkc91hNuPGtwKQmOZ11ifp6UqizzK5ybowB6tkxBxMAKtEMkxCD34A3ivNm6bWaBL9116dU8QZNzw117117",
-		"building_block_category_id": "OhLKYx16qQq2hcBLhbB5w4MpZ9D6JLE1168ZzpEfaKKeevqaIl6XdTRTROZuCgU7FGS2Jbl45GlDcV4AdM9gDoyg117117",
-		"name": "Import Postman",
-		"about": "Allow for importing of API definitions using Postman format, for generation of SDKs.",
-		"category_id": "258",
-		"category": "Import / Export",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "5"
-	},
-	{
-		"building_block_id": "HN2QK2hv3LFRfYb1161236O0kyAB7SqJfbd123Sa0nfSf2spXERsyZvFD4tGEbWKwXKzDKdA4iH2dspU9JooJyw8g1166A117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Python",
-		"about": "An SDK available in the Python programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "6"
-	},
-	{
-		"building_block_id": "AusNDF116RBgSKOlHm225M0uIyVYxBAJy9ApHGSqmWr1kE43Wk25aSR123GdobtAynB1KHP3a4BBT5V123u1L123ipFkyA117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "AngularJS",
-		"about": "An SDK available in the JavaScript programming language, with consideration specifically tailored for use in the Angular framework.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "7"
-	},
-	{
-		"building_block_id": "Lv116Khkb73n3gA3JEnpcciInsTfLaynXZfPl8QHJfjh7MMgvtelg2VUrCHa743P0Sr8pzFh8KKJZpegVWdbvWDw117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Ruby",
-		"about": "An SDK available in the Ruby programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "8"
-	},
-	{
-		"building_block_id": "VRmewn9Ic8bqIrNTHA5fhVGQlnb4LEuXh3RnyM1SgizcShipGw5123ZZ41162RRwHnZmCAbNb8lJDxiSkaqjyMJVyA117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Node.js",
-		"about": "An SDK available in the Node.js programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "9"
-	},
-	{
-		"building_block_id": "SEcU2xOOJMLEEjoV7Z1vGuJwzzuUyRu4XbazSnJmrEDA2JxKSTypIWnXApzDrKZgYah123wFXjDH116Wf6U1xPd5Ww117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Go",
-		"about": "An SDK available in the Go programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "10"
-	},
-	{
-		"building_block_id": "v43sKSg12314sUtETjE24t09Q46mvIwOH2kEfJ49rI116I0116s6B9Gt5FmUStgrwmPycVaeOWDb7116zf6Fe1TwJIOGcg117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Scala",
-		"about": "An SDK available in the Scala programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "11"
-	},
-	{
-		"building_block_id": "lzWpJTpWarT5XW15oAmIlYIFwmNP7WypEc2dopxkFlM77Ahw5l48otcnHo2izUVsT123MjPRuATZaCQB8yEGYPeg117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "ActionScript",
-		"about": "An SDK available in the ActionScript programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "12"
-	},
-	{
-		"building_block_id": "q1239HHcYSRqIWVE3Ga83yvH9HzNoIF88AaaVsrA116wtm123KG6eidbiPVJrO0c2WAdg9twCcD38xA8UodMbrER116AZQ117117",
-		"building_block_category_id": "UWDl9fpHQkVPhbMKePYjzI4Fx5fUNRk4zNZHZs0Gua5xnEz4eF9OS8p81nGmlemZ123a1O7wNnLQI9Gr9rjJbM6w117117",
-		"name": "Swift",
-		"about": "An SDK available in the Swift programming language, with consideration specifically tailored for the language.",
-		"category_id": "257",
-		"category": "General SDKs",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "13"
+		"category_name": "Discovery",
+		"building_blocks": [
+			{
+				"building_block_id": "AiYu5lWWGge4dlRPz8wsCe5LX8gBuUJVVpiXYLklNrM117",
+				"building_block_category_id": "1236bWKZ2iWRdNSJqWE9Y4zGyblG0925oGGsAbbXbwfAA117",
+				"name": "List SDK",
+				"about": "Are SDKs listed in an easy to find location, where developers can browse them easily? A simple list goes a long way in making them found.",
+				"category_id": "259",
+				"category": "Discovery",
+				"category_about": "How are SDKs discovered by developers during development? What are the considerations for making sure existing SDK efforts get found.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "PFeEoXy09qXXbBzdiWhf116Lt0r9DsdAM1Q30Man5QrG0117",
+				"building_block_category_id": "1236bWKZ2iWRdNSJqWE9Y4zGyblG0925oGGsAbbXbwfAA117",
+				"name": "Search SDK",
+				"about": "Is there the ability to search for SDKs, using a single index dedicated to them, or possibly using Githubs already available search mechanisms.",
+				"category_id": "259",
+				"category": "Discovery",
+				"category_about": "How are SDKs discovered by developers during development? What are the considerations for making sure existing SDK efforts get found.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "nEWDzKBoVk5NT4bJuw71et123R2zYNJ2oAjP3VYcxGTIA117",
+				"building_block_category_id": "1236bWKZ2iWRdNSJqWE9Y4zGyblG0925oGGsAbbXbwfAA117",
+				"name": "Browse SDK",
+				"about": "Is there a browseable directory of SDKs, that developers can use to find the SDK that they need? Potentially giving more information than just a listing.",
+				"category_id": "259",
+				"category": "Discovery",
+				"category_about": "How are SDKs discovered by developers during development? What are the considerations for making sure existing SDK efforts get found.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "IkZy9B7Sy9LgFCFTr96Soh1Yeyf7iSHPZYGVmF13y7o117",
+				"building_block_category_id": "1236bWKZ2iWRdNSJqWE9Y4zGyblG0925oGGsAbbXbwfAA117",
+				"name": "Rating",
+				"about": "Are SDKs rated, allowing for various quality considerations around their value and usage in other API integrations, allowing developers to find the best SDKs possible.",
+				"category_id": "259",
+				"category": "Discovery",
+				"category_about": "How are SDKs discovered by developers during development? What are the considerations for making sure existing SDK efforts get found.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png",
+				"category_hex": "#A626AA",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	}
 ]
