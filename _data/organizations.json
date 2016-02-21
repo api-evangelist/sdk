@@ -7,12 +7,20 @@
 		"website": "https://www.apimatic.io/",
 		"twitter": "https://twitter.com/apimatic",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
-		"tags": null
+		"tags": [
+			"SDK",
+			"Design"
+		]
 	},
 	{
 		"id": "SkaAkkWeK6lJLIpM116yaGKIChA4b9sp3v4DAMFy8hk2YdVgPbHCh12376Nc9hF123a9OtcX2NDL1SAj5as06HCF6KzA117117",
@@ -22,12 +30,45 @@
 		"website": "http://restunited.com/",
 		"twitter": "https://twitter.com/restunited",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png",
-		"tags": null
+		"tags": [
+			"Testing",
+			"SDK",
+			"Documentation",
+			"Debugging",
+			"API Management SDK"
+		]
+	},
+	{
+		"id": "IcUhxU4u9fJ31A3JoysW5TqoBz2LYOssChVtUeTGiUqz9KDsJlbP2x2AsNRmqo9r8gF677jpSYSc0zUpZHu116bQ117117",
+		"name": "SafeDK",
+		"summary": false,
+		"details": "",
+		"website": null,
+		"twitter": null,
+		"github": null,
+		"apisjson_url": null,
+		"sdksio_url": null,
+		"postman_url": null,
+		"portal_url": null,
+		"base_url": null,
+		"blog": null,
+		"blogrss": null,
+		"logo": null,
+		"logo_width": null,
+		"screenshot": null,
+		"tags": [
+			"SDK"
+		]
 	},
 	{
 		"id": "WzalvI5wnosx4R91w4zj6F6wzAtRulccX7Vrt20KocozIlYm116rFDxCsYjNmj0116ptv123WnKlxgk0sKr4fBdxNmIg117117",
@@ -37,12 +78,20 @@
 		"website": "http://www.sdkcritic.com/",
 		"twitter": "",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
-		"tags": null
+		"tags": [
+			"SDKs",
+			"SDK"
+		]
 	},
 	{
 		"id": "db4123Owz123iHWUrSeM3jUKa12323Fii5siUV3jkS9mIb7vOVU1LKRNhnzwi3Kbs51if2NXhXktRSriPV0RpNFBtgUg117117",
@@ -52,11 +101,18 @@
 		"website": "http://sdks.io/",
 		"twitter": "https://twitter.com/sdksio",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
-		"tags": null
+		"tags": [
+			"SDK"
+		]
 	}
 ]
