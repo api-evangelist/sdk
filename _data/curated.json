@@ -1,483 +1,1003 @@
 [
 	{
-		"curated_id": "uxofgCUiCBH1a2cKOPHzZc12D3Of123123CxClkTuf7WH123XtZWilXVZssKC47BTJ8y2MQcN8Cri3oQ7z6noV4iFB123g117117",
+		"curated_id": "5Da116U63872z116WxiorQMtG8VgfwQSCQwIyOEjGU8vbku0jxfZpWZWLHB0on1R116p2Mig43oZ3aqOr123QoNWausWdQ117117",
 		"item_date": "2016-09-02 00:00:00",
-		"title": "XPath for Selenium IDE",
-		"url": "https://dzone.com/articles/xpath-implementation-for-selenium-ide?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"title": "Announcement Brightcove Native Player SDKs deprecating support for Widevine Classic",
+		"url": "https://support.brightcove.com/en/video-cloud/docs/announcement-brightcove-native-player-sdks-deprecating-support-widevine-classic",
+		"domain": "support.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123TUca4U123KU116yH1uqNZjYbyuoqhhciluqq5z760U2NjX123OEyh0LfFmiq2763zWMch2HP5DoLVVln15mPqJcCcMw117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "Brightcove Player SDK for tvOS",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-tvos/index.html#Integrations",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bsk8Y116lV8HolWzJA16NEHIUHhYaPt1bDTU1TqlMI12302OUDcZ3WMq123cIXeQitVBGW4ubtth2BzmEcAEWJwyNUWg117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "Content Security DRM with the Native Player SDKs",
+		"url": "Content Security (DRM) with the Native Player SDKs",
+		"domain": "",
+		"image": ""
+	},
+	{
+		"curated_id": "116RuauRQWiwfJmw1Rgn6lm116hLz6pgmxxTTGTxpsOUyHl5izcTW08898jQWPzdY0ARklg6kqXxpU116N85DI8CMmfQ117117",
+		"item_date": "2016-08-23 00:00:00",
+		"title": "Acrobits Mobile SDK Quick Start Guide",
+		"url": "http://ap.bandwidth.com/docs/mobile-voipvoice-client-sdks/acrobits-mobile-sdk-quick-start-guide/",
+		"domain": "ap.bandwidth.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116oVS116C9xNEnChitOtoPO43it0xXyX51tS116dpvtg1cHGUw3A6IwrfBwL4jW116e0M3ux2DB123SQEaI6AXyFAgBHUtQ117117",
+		"item_date": "2016-08-17 00:00:00",
+		"title": "Hands in the air for Census City SDK team",
+		"url": "http://www.esa.doc.gov/under-secretary-blog/hands-air-census-city-sdk-team",
+		"domain": "www.esa.doc.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "tDXK6cezhu9J0EC48B1r8JjK00Tz3rBAPG3dxvmleLyezybjzprcZ4uwmy99qQHS9Irv0TsZNPcnW03C0yG123zg117117",
+		"item_date": "2016-08-19 00:00:00",
+		"title": "Understanding Events with the Native SDK",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/getting-started/understanding-events.html#Common_ad_events",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XgQznBEHXuiM0BYBS8CVohuMcK8djr3XYzoUr3Y2DxtprOU3T11OCW1bhqwUPxR20yfdKxd123dw1k3v9uBC3Hbg117117",
+		"item_date": "2016-08-02 00:00:00",
+		"title": "The Periodic Table of App Data SDKs",
+		"url": "https://www.mparticle.com/periodictable/",
+		"domain": "www.mparticle.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NvFFUKrNlxt5xJNThNbZXN1165vPHQXyRiwI123FPYFKukiKmuNb3q3pWMa0tOTc54uzEyFeW123HOniZ6QYuW5Vidpw117117",
+		"item_date": "2016-08-03 09:02:23",
+		"title": "Tweet Today were introducing an entirely new Android application built on  Box Android SDKs",
+		"url": "https://twitter.com/BoxPlatform/statuses/760868423572135937",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "x2qS9O0OOpdRLmzUpLHiKdwXkgZwNEczKStREFo3lwxKUe4nE9yQVuf0tymy123PltJ9KhYwWoPFKWJkHSmLLu9g117117",
+		"item_date": "2016-08-04 00:00:00",
+		"title": "Matching APIs to SDKs  long tail of Web API client libraries",
+		"url": "http://www.apiful.io/intro/2016/08/05/matching-api-to-sdk.html",
+		"domain": "www.apiful.io",
+		"image": ""
+	},
+	{
+		"curated_id": "BPxlPQ8v8ZLBAIGZXESgu6csFlKDYnSe9GDvLafmoCLemo3gUeXVJGQmzFxRHkoi49CM9vqxBt4B6LvpbPLJ0g117117",
+		"item_date": "2016-08-04 00:00:00",
+		"title": "Code samples for Ruby new library",
+		"url": "https://browshot.com/blog/2016/08/code-samples-ruby-new-library.html",
+		"domain": "browshot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GqYbLOaeopfsFj9n75Np116YEti1J104SbzH123KBGS1FGGlhdpgPqty7s85W116Kn123UlG4iSkUP1lIEzmTSw123iWt0rg117117",
+		"item_date": "2016-08-04 00:00:00",
+		"title": "Importing the Mobile Ads SDK with Firebase",
+		"url": "https://firebase.googleblog.com/2016/08/importing-mobile-ads-sdk-with-firebase.html",
+		"domain": "firebase.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "t5LJG123Q8naePUr0123qIx1123Bx116jntk5QUluxAaoQiTtJxI116iDqYna46kI98WYoEpgSGp6GqnXFWJDM2a123w3hfDjw117117",
+		"item_date": "2016-08-01 00:00:00",
+		"title": "Net Admin Starter Kit NET",
+		"url": "https://codecanyon.net/item/net-admin-starter-kit/17260689",
+		"domain": "codecanyon.net",
+		"image": ""
+	},
+	{
+		"curated_id": "XEI2Mm2lVHd2fMZ27SZKvyjq5ScjwAjrJNQp3EAazrzvifo116IMRfUIY123nhpgGC1160sZDygnS0eGfMJyOBRJzxpg117117",
+		"item_date": "2016-07-28 17:58:00",
+		"title": "Tweet You can download our latest phonegap SDK here httpstcoyuhk97cFow",
+		"url": "https://twitter.com/LoginRadius/statuses/758828890894708736",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123V57pZiFyoiK4116vMhVP7SLl6s116GCreU1FA746eP5116bRojTaeQFJa11D9DGrfhG8TiiDAt5sQhwUY712350B123L1166A117117",
+		"item_date": "2016-07-22 00:00:00",
+		"title": "Brightcove Player SDK for Android Code Snippets",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/samples/code-examples.html#Seek_without_ads",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RSCvTah7uEJ123H5A1SX57x123Q0bIyuRRJjE1162MsPVHpXnTmQnG50E0xXAE0NOJHGwyZJKuBgviodrlLXJjeSodvg117117",
+		"item_date": "2016-07-21 10:25:59",
+		"title": "Tweet Ever wondered what SDKs are installed in the top ecomm apps Thanks to MightySignal weve got your answer",
+		"url": "https://twitter.com/mParticles/statuses/756178421433167873",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2bq73mNZOrtheZKuzT9lwjGpzWfm116yK0Q0Bw5KhP2V8s5cLVogOOJtDcdE5MOiqefOofS2XXQAodW6Sr2sDQAA117117",
+		"item_date": "2016-07-20 00:00:00",
+		"title": "Infographic The Top 5 Marketing SDKs For Ecommerce Apps",
+		"url": "http://blog.mparticle.com/infographic-the-5-most-popular-marketing-sdks/",
+		"domain": "blog.mparticle.com",
+		"image": ""
+	},
+	{
+		"curated_id": "l3IAumskjj8ssTZG123dDPVMxz1vbPig6Kf123a123RT1x1Oq116PVdalnJc3go7C116o4yWjfiGVTWQFGOiLU7XtoRToj123Q117117",
+		"item_date": "2016-07-20 00:00:00",
+		"title": "Google Adds Marker Clustering to Maps SDK for iOS",
+		"url": "http://www.programmableweb.com/news/google-adds-marker-clustering-to-maps-sdk-ios/brief/2016/07/20",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xJXGoHVtsF116JZfj5116yDLno7xse4InrtX42xntGVAHzrzw62123JL0298wRhD5ADMelW123XSWDxx3RPAOKl6mVKhRg117117",
+		"item_date": "2016-07-19 00:00:00",
+		"title": "Announcing the Alexa Skills Kit for Nodejs",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx213D2XQIYH864/Announcing-the-Alexa-Skills-Kit-for-Node-js",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NyRFe7Mfhb9B116MzpJFU4dasU7wsvvhsFkzjhjr7sqmX4Kb1233fSMi2ChrMKgk17dEM5OlrgrGtc57rl0Vyr116wKQ117117",
+		"item_date": "2016-07-18 00:00:00",
+		"title": "Installing the Red Hat Container Development Kit CDK 21 Release",
+		"url": "https://dzone.com/articles/installing-the-red-hat-container-development-kit-c-4",
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "773k9n5FH116PdJdqyOK59qjJGv7fFJL6LKZrebrJOHW123X5A8QGO4I7vPbhUOzBo3xNWPpXJVK5lm2L1ZmhW5vMA117117",
-		"item_date": "2016-08-31 00:00:00",
-		"title": "Atom 110 and 111 beta",
-		"url": "http://blog.atom.io/2016/08/31/atom-1-10-and-1-11-beta.html",
-		"domain": "blog.atom.io",
+		"curated_id": "MlYLV2TxoEp69aqq116uFjtFj7Lbpo2123P8J9dBc123s5FCZtf116hb1L1230Ye123M5TRUXzp3116tBsQaEtNqbcfI802xqpUg117117",
+		"item_date": "2016-07-17 00:00:00",
+		"title": "Facebook Announces OpenSource Swift SDK Beta for iOS",
+		"url": "https://www.infoq.com/news/2016/07/facebook-swift-sdk",
+		"domain": "www.infoq.com",
 		"image": ""
 	},
 	{
-		"curated_id": "m9V123nGYOtJpmng116T0YxEX116mXgkhBrc02bGXG9xzWn3sdmyaRsI7ZW7bAf1230SlfjSOXO2nV8xEsCAnizcT0X4QA117117",
-		"item_date": "2016-08-25 00:00:00",
-		"title": "The Evolution and Future of IDEs",
-		"url": "https://dzone.com/articles/the-evolution-and-future-of-ides",
+		"curated_id": "zs2LySiCNb123iJvlIjfSjf1Kl116HnMMf2xWJjpf4XPPg0KJvFWbfxDaRG9V116Uyazt116HqR84fQhd116xSfLUQtz7YDw117117",
+		"item_date": "2016-07-15 00:00:00",
+		"title": "Native view annotations in our latest iOS SDK",
+		"url": "https://www.mapbox.com/blog/ios-3.3.0/",
+		"domain": "www.mapbox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kp1jsK123zUt1s8InVM1USJgV0PV7eKzOT5UsrePcrDvn2116EsPAS1236eA5f2pEurlm5Buht123XTzOZ9lMc5yp1165K123Q117117",
+		"item_date": "2016-07-15 00:00:00",
+		"title": "Facebook Rolls Out Swift SDK Adds Features To Graph API 27",
+		"url": "http://www.programmableweb.com/news/facebook-rolls-out-swift-sdk-adds-features-to-graph-api-2.7/2016/07/15",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uJh1IVdXb4G40xzbpxu35rWJ1164paXyT0faxiwO6heDoNaNmWQNiAAGU5NMV6eba9123DlGMTNB8xD7rVPvsGky2Q117117",
+		"item_date": "2016-07-14 00:00:00",
+		"title": "Facebook launches Swift SDK in beta",
+		"url": "http://venturebeat.com/2016/07/14/facebook-launches-swift-sdk-in-beta/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cBBewMj5RUzmbDE6312370iOsaW5dg7zCKKxqI27D19QUtRQg3hvXjsYh0z67EfnYlAqKyPXGaiZ7K123Tne49EkCA117117",
+		"item_date": "2016-07-14 00:00:00",
+		"title": "Introducing the Box Nodejs SDK",
+		"url": "https://www.box.com/blog/introducing-box-nodejs-sdk/",
+		"domain": "www.box.com",
+		"image": ""
+	},
+	{
+		"curated_id": "jWX9E0nwepAWrsSugyNtVIbhTG6uTiJZRreNwddk1XA3TvsVWzpX1OfynKsIX0LG7zhYeqeKKG0tHgR61162116fDg117117",
+		"item_date": "2016-07-11 00:00:00",
+		"title": "Couchbase PHP SDK 220  Example With Full Text Search",
+		"url": "https://dzone.com/articles/php-sdk-220-example-with-full-text-search",
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "BYZyb0QGJ123viwSpTMWBUmwTm1U51kZ6xmJztSMB8vhnisE116RR2sE3LruXGHgq6OgX1GW0ygowJc123s4NbumYsag117117",
-		"item_date": "2016-08-22 00:00:00",
-		"title": "Never leave your Java IDE with Google Cloud Tools for IntelliJ plugin",
-		"url": "https://cloudplatform.googleblog.com/2016/08/never-leave-your-Java-IDE-with-Google-Cloud-Tools-for-IntelliJ-plugin.html",
-		"domain": "cloudplatform.googleblog.com",
+		"curated_id": "v7tdvmxlg1uer2oJB6kO4l9GYzv10v6I4YxfMPPWTosO6zIPGJc6Q7123rUNTPiT123CFWLXRhPyvb70p116FDNmZpjg117117",
+		"item_date": "2016-07-11 00:00:00",
+		"title": "Hyperwallet Expands Dev Toolkit with New API Functionality and SDKs",
+		"url": "http://www.programmableweb.com/news/hyperwallet-expands-dev-toolkit-new-api-functionality-and-sdks/announcement/2016/07/11",
+		"domain": "www.programmableweb.com",
 		"image": ""
 	},
 	{
-		"curated_id": "OINqlB0D123SH0qxsVLzTT8F74lVt39uGnedgcKyIf4NMhRqLvOsG41164g2H3wbdcwJ4WLuPlv123Nd8sVfZlOPRWGw117117",
-		"item_date": "2016-08-08 00:00:00",
-		"title": "How to Use React with Visual Studio and ASPNET Web API",
-		"url": "https://blog.pusher.com/how-to-use-react-with-visual-studio-and-asp-net-web-api/",
-		"domain": "blog.pusher.com",
+		"curated_id": "Ez85N3HuzNHfxMxo9T45Gs01VH7ceE57vscvttNFXOpZ3OO2Wb2dcQAR1236xq09LSKw92npoaHB5EbeCKvmAtNw117117",
+		"item_date": "2016-07-11 00:00:00",
+		"title": "Salesforce Mobile SDK 42 release",
+		"url": "https://developer.salesforce.com/blogs/developer-relations/2016/07/salesforce-mobile-sdk-4-2-release.html",
+		"domain": "developer.salesforce.com",
 		"image": ""
 	},
 	{
-		"curated_id": "123k3ymlP1hSvXxXA0omr7N6DCwOkhJh5FSOeKhBQGNqyd6GpoI123116vLm7zJcYDQSMKJQoT116jX064QUfoFsPx64QQ117117",
-		"item_date": "2016-08-03 00:00:00",
-		"title": "How to update REST API Client from a Swagger file in Visual Studio",
-		"url": "http://stackoverflow.com/questions/38750877/how-to-update-rest-api-client-from-a-swagger-file-in-visual-studio",
-		"domain": "stackoverflow.com",
-		"image": ""
-	},
-	{
-		"curated_id": "iiEX123XLWweOK116pb4FeyH5qJpSoOLsPXJ0Bud2123HANgXEsEfeVtjJU451Zj4KBMQ12kxFPetRArnHN8TOTxMPEA117117",
-		"item_date": "2016-07-16 08:04:47",
-		"title": "Amazons AWS buys Cloud9 to add more development tools to its web services stack",
-		"url": "https://techcrunch.com/2016/07/14/amazons-aws-buys-cloud9-to-add-more-development-tools-to-its-web-services-stack/",
+		"curated_id": "DWVjoG123L2IqLSUSueq79atVnXSLoR3eXkBJVVBq0dmHWRdkRV7vKirvmFTKIcm0Vgmm1164D123116cIwLyidEtHYQKg117117",
+		"item_date": "2016-07-11 00:00:00",
+		"title": "Anki is opening Cozmos SDK to makers developers and educators",
+		"url": "https://techcrunch.com/2016/07/11/cozmo-sdk/",
 		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
-		"curated_id": "4H65GjsqO6x40Qtc0CxP123sA5kvcP4sEtQG5OTeHNug42VsRd13aKadfKoEikaRAtHhfwM2VfQgWBowx2KwRU8w117117",
-		"item_date": "2016-07-14 00:00:00",
-		"title": "Amazon buys popular cloudbased IDE Cloud9 for use with AWS",
-		"url": "http://thenextweb.com/dd/2016/07/14/amazon-buys-cloud9-aws/",
-		"domain": "thenextweb.com",
+		"curated_id": "F123bZhTKLPeKQx5K1D94whM7G4123cQVIsxOfoWEHrnYJepKOe6MVS8pR3SmJEPUAxrq116T8xvSunvYIRDHH9XbYew117117",
+		"item_date": "2016-04-22 00:00:00",
+		"title": "Pushwoosh Mac OS X SDK Update",
+		"url": "https://www.pushwoosh.com/pushwoosh-mac-os-x-sdk-update/",
+		"domain": "www.pushwoosh.com",
 		"image": ""
 	},
 	{
-		"curated_id": "HZBrGHM07WmIA3wmiGc3qBtFU1162qnIw123QNLcQ12394p9jSYOYV116IDD70lnb123YWOMqbwAsnOsOtr4qUu123JnRgDn2w117117",
-		"item_date": "2016-07-14 00:00:00",
-		"title": "Amazons AWS acquires cloudbased IDE startup Cloud9",
-		"url": "http://www.zdnet.com/article/amazons-aws-acquires-cloud-based-ide-startup-cloud9/",
+		"curated_id": "V3QkiuIR123t116zSLbdIPojsc61saeKgxg3edaKEymFQHx4LFl6qqqPB55SVt8t123GEbGOLtapLcfpOLFdR2kMaBJw117117",
+		"item_date": "2016-04-27 00:00:00",
+		"title": "Kinvey Launches Xamarin 30 SDK Early Adopter Program",
+		"url": "http://www.kinvey.com/kinvey-launches-xamarin-3-0-sdk-early-adopter-program/",
+		"domain": "www.kinvey.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Cx2XSfjLVFwyRCgtIxuol6MiwCV7mxe6GeCRpGNhPUw9e9JVvTLzHL3JivUhsaZI123lI22jCofAwnsIy2lzvl3A117117",
+		"item_date": "2016-05-11 00:00:00",
+		"title": "Cacoo  Adobe Creative SDK The Birth of an Integration",
+		"url": "https://nulab-inc.com/blog/cacoo/cacoo-adobe-creative-cloud/",
+		"domain": "nulab-inc.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6BX2sNOxzTpxGRSuLxwuo47dCzfLlFSsf116caEh3D116Qmcz8QpZkdJHfmbL8AgbrPMPI116d3ANcMNMtFdUCO3twmw117117",
+		"item_date": "2016-05-11 00:00:00",
+		"title": "gestureai  Easy to use  gesture recognition technology and SDK",
+		"url": "http://gesture.ai",
+		"domain": "gesture.ai",
+		"image": ""
+	},
+	{
+		"curated_id": "11612fO1QkpqMdBULUakvy123dxXP9S4yLv116Fs7wai116hK4LMaHpaoWe48VEhCDEsGu6SBgutj8V0Swiv5Cpe7LDbtw117117",
+		"item_date": "2016-05-18 00:00:00",
+		"title": " Meetup How to Build a Bulletproof SDK",
+		"url": "https://yahoodevelopers.tumblr.com/post/144573710188/meetup-how-to-build-a-bulletproof-sdk#_=_",
+		"domain": "yahoodevelopers.tumblr.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zd5EPFtOTaMIiFEiKeVx111ytfx116vbi88aIdjtc5cAm43IH2PJAMNJlg4pbCo9HH28QNuiNd5FpMXFWrrWx2Sg117117",
+		"item_date": "2016-05-19 00:00:00",
+		"title": "Updated Java PHP NET SDKs for QuickBooks Online Now Available",
+		"url": "https://developer.intuit.com/hub/blog/2016/05/19/updated-java-php-net-sdks-for-quickbooks-online-now-available",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7RbJn8NnrxIGEDnwmDuxP3fi43Dp6i7um3EcYMhwcakMrobALld9JME3c6YfdXet0EKYRMQHoRGkky7Z5z32NA117117",
+		"item_date": "2016-05-23 00:00:00",
+		"title": "Oculus Platform SDK Download",
+		"url": "http://www.softpedia.com/get/Programming/SDK-DDK/Oculus-Platform-SDK.shtml",
+		"domain": "www.softpedia.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OrRUHpcCQydk2CnVq1SeN33axU6LsgO4123udeoHWg7lC9QxodhPOHyDDr6b319Gc8NCVN38knmpdR9116nSnFHurQ117117",
+		"item_date": "2016-05-25 00:00:00",
+		"title": "Configuring Nginx With Splunk REST API  SDK Compatibility",
+		"url": "http://blogs.splunk.com/2016/05/25/configuring-nginx-with-splunk-rest-api-sdk-compatibility/",
+		"domain": "blogs.splunk.com",
+		"image": ""
+	},
+	{
+		"curated_id": "74q5AUtJl2kGum1vQYVHUAP0v9uq5F123x2v0SD5DmOe5DJbiz4aoDk116rsSsYQUivrqMxWuq5mcuJaUNAqKluZYQ117117",
+		"item_date": "2016-05-25 00:00:00",
+		"title": "Apples Siri SDK Too late to duel Amazon Echo Google Assistant",
+		"url": "http://www.zdnet.com/article/apples-siri-sdk-too-late-to-duel-amazon-echo-google-assistant/",
 		"domain": "www.zdnet.com",
 		"image": ""
 	},
 	{
-		"curated_id": "tFkAewMQCmpQbIj4cK2V3XPHctSJxFuJHryjbZDr71239vEVowwdEL7zI803Z626aBomJbeSq6VOXHQ2npg56CpA117117",
-		"item_date": "2016-05-13 00:00:00",
-		"title": "Create a Desktop App With Angular 2 and Electron",
-		"url": "https://dzone.com/articles/create-a-desktop-app-with-angular-2-and-electron",
-		"domain": "dzone.com",
-		"image": ""
-	},
-	{
-		"curated_id": "UhhQDgG7a116RaPmbE1Tvj0vTLrAEgnn123ZzrMsc3kGh71Q1MZgR84k7hNbrwAV116NJzjllRLm2H6vX17wBasT2f8g117117",
-		"item_date": "2016-07-10 00:00:00",
-		"title": "Presentation Improvements for Eclipse JavaScript Tooling",
-		"url": "https://www.infoq.com/presentations/jsdt",
-		"domain": "www.infoq.com",
-		"image": ""
-	},
-	{
-		"curated_id": "gzyxCXOhXhumu8BELFpr0HK1JjfJimM1cqqDMlhzKMkJNq5ouBtlM116SK9ijfAAxsrzDKGcm9rHBGOFncj5135A117117",
-		"item_date": "2016-07-10 00:00:00",
-		"title": "Presentation Eclipse the IDE for IoT",
-		"url": "https://www.infoq.com/presentations/eclipse-iot-esp8266",
-		"domain": "www.infoq.com",
-		"image": ""
-	},
-	{
-		"curated_id": "ljCHBJLIMxXY0OlS0LrkiI123NgCV0IHqNNsjojX309dJk4MetSe116d4v60wz7SH1IQKP65Yz5oB1IRF40vVLPmxQ117117",
-		"item_date": "2016-05-18 00:00:00",
-		"title": "Handson with Eclipse Che Simplifying of Configuring Commands",
-		"url": "http://blog.codenvy.com/simplifying-configuring-commands-command-configuration-api/",
-		"domain": "blog.codenvy.com",
-		"image": ""
-	},
-	{
-		"curated_id": "9j123RW6p1V9AzDqNfDUlfkUysgRnZfS123q59I3QDi1162PP4PwAN2pdfoO3V116wjy2Lr1BPrXgVNO2PRwlVtlsCAcOg117117",
-		"item_date": "2016-05-19 00:00:00",
-		"title": "New Eclipse Download Page",
-		"url": "https://dzone.com/articles/new-eclipse-download-page",
-		"domain": "dzone.com",
-		"image": ""
-	},
-	{
-		"curated_id": "tiH6FJsSsSEz1xnOtFiPrd3116jeQfGEwB38r116yxv8HNC2DFkOZ2EBSYzSPEXxJd7meTHnYQTzP123bD7jYeApiwjQ117117",
-		"item_date": "2016-05-27 00:00:00",
-		"title": "Pinegrow  Atom  The perfect IDE for the web",
-		"url": "http://pinegrow.com/pinegrow-atom.html",
-		"domain": "pinegrow.com",
-		"image": ""
-	},
-	{
-		"curated_id": "v1Dhkd123KIcjJ6JSPOhj0HYebbBC72uoFDXU3D7P8n462Sis123G1230GYJWm9dNFw332niUeUC116VXoRsUlul116qHbxQ117117",
+		"curated_id": "xsh69MWbj5cZAx7hPImb6t7MemnRDJUsioz5xC6d09Bu9cZUYqn116IVFeeiWbO116123UtYCAGlKLsrMOt6CSfW116ElA117117",
 		"item_date": "2016-06-06 00:00:00",
-		"title": "Macros Return to Visual Studio",
-		"url": "https://www.infoq.com/news/2016/06/vs-macros",
-		"domain": "www.infoq.com",
+		"title": "The new JavaScript Management SDK",
+		"url": "https://www.contentful.com/blog/2016/06/02/js-cma-sdk-v1/",
+		"domain": "www.contentful.com",
 		"image": ""
 	},
 	{
-		"curated_id": "MwGW116FCZJmsIK8AQ116HIbN1liD33SX4ciZjzpXS31oRIPb4kU7dXDpqCdpA5ciCWSztUe6NYhGxlMwyHxajCcDw117117",
-		"item_date": "2016-06-14 00:00:00",
-		"title": "Push Your Webpage to GitHub Repository through Visual Studio",
-		"url": "http://www.codeproject.com/Tips/1106478/Push-Your-Webpage-to-GitHub-Repository-through-Vis",
-		"domain": "www.codeproject.com",
+		"curated_id": "28C0p4O25mBCkEdQ123u6o116EU7HKxUwxaENkEGp8gqwlIvMcYp0gMFgcyH937uRz75123dq9n61GUSGUzGzc9fNEnQ117117",
+		"item_date": "2016-06-10 00:00:00",
+		"title": "Firebase Authentication With the Firebase 30 SDK and Auth0 Integration",
+		"url": "https://dzone.com/articles/firebase-authentication-with-the-firebase-30-sdk-a",
+		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "SKZZEDN1238tQRfDY9YaaU123UkCgmqrxG4jSz123NWKHsX6CFbs7iqXxo68dmIZEpFzCfQQq2ICiGTjqPxicgu6W7bg117117",
-		"item_date": "2016-06-22 00:00:00",
-		"title": "Handson with Codenvy Painless Contribution with Pull Request Plugin",
-		"url": "http://blog.codenvy.com/hands-codenvy-painless-contribution-codenvy-pull-request-plugin/",
-		"domain": "blog.codenvy.com",
+		"curated_id": "p1Xch7MHhb6RSZnA70cKEVkC66wHlPTbI9iM9VW0S7d7v5WCskIJTeP8fMjuYZDorTdRbb26t802RoHT1cmaTw117117",
+		"item_date": "2016-06-17 00:00:00",
+		"title": "MulesoftQuality SDKs for Your APIs in Minutes",
+		"url": "https://dzone.com/articles/mulesoft-quality-sdks-for-your-apis-in-minutes",
+		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "iuW3abkgQaDamb2SFpTaCs3TPoIeNbaFIFuK9QWYoJb8LeOYitU78aGGRO79eHmcfUIODWJ123TCQP6iRo0YWpgA117117",
+		"curated_id": "Diy6CF0QHZEOKsNaGofe5pMd61qqem3zbCcG7dIGxkCbFkxVMXtZY2iN82Us66AGeBzOQXuFr0HD5eifBqq3Cw117117",
+		"item_date": "2016-07-06 00:00:00",
+		"title": "Node JS Dropbox  Upgrade from Version 1 to Version 2",
+		"url": "https://cloudrail.com/node-js-dropbox-upgrade-version-1-version-2-cloudrail/",
+		"domain": "cloudrail.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dZ2Co4YOgP123LhB4mdW8oHx2haxd116GzKXC2AaTev43iYtSp8iX67TXAzoyW6IBG61164L9V123fNKpX116I5ImoTqCcIg117117",
 		"item_date": "2016-07-04 00:00:00",
-		"title": "How to test API endpoint using Atom and RAML",
-		"url": "https://stackoverflow.com/questions/38220086/testing-spring-mvc-api-no-qualifying-bean-found",
-		"domain": "stackoverflow.com",
+		"title": "NET Core client for REST API",
+		"url": "https://www.freelancer.com/projects/C-Sharp-Programming/NET-Core-client-for-REST/",
+		"domain": "www.freelancer.com",
 		"image": ""
 	},
 	{
-		"curated_id": "9waPQR4OtKaow1p9ElzXzTAVyXlDeyoN123OhF6xyy77gSQYbwZFsa0Rb67xMJ1C96meaSDM5rNile6pi116Dc8KKA117117",
+		"curated_id": "d4S1spcyWdoKG4owfO0UhzONS96K1Ugu7rYnp6H123ga80UMOkNf9Ghj8er6V0TSFzK3b6LmVmje4YYBNHjlI9Cw117117",
+		"item_date": "2016-06-23 00:00:00",
+		"title": "Introducing a Modernized Braintree JavaScript SDK",
+		"url": "https://www.braintreepayments.com/blog/introducing-a-modernized-braintree-javascript-sdk/",
+		"domain": "www.braintreepayments.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LQ0K4WGgmFnOaFwP123HS8agEkdPIix1OrQGGqMeBbPsZhzFTWLQ4XFTSkJiFCR9Mcq49nBRm611649weA0VbjJ116UQ117117",
 		"item_date": "2016-06-27 00:00:00",
-		"title": "Announcement Eclipse Che Now a Strategic Platform for Red Hat",
-		"url": "http://blog.codenvy.com/announcement-eclipse-che-now-strategic-platform-red-hat/",
-		"domain": "blog.codenvy.com",
+		"title": "New Google Cast SDK released for Android and iOS",
+		"url": "https://developers.googleblog.com/2016/06/new-google-cast-sdk-released-for.html",
+		"domain": "developers.googleblog.com",
 		"image": ""
 	},
 	{
-		"curated_id": "pR998wnbZ6116WGlq0PO116UHju1doj0EwbWE8zhMrnUUGOFxDJV3i7SkWMLrUhYF4123RK2icp89cGCjF8V73nFVMMw117117",
-		"item_date": "2016-06-27 00:00:00",
-		"title": "Press Release Red Hat Codenvy and Microsoft Collaborate on Language Server Protocol",
-		"url": "http://blog.codenvy.com/press-release/",
-		"domain": "blog.codenvy.com",
+		"curated_id": "oey116YZuRozuOawu5U0U3iVcgDyEu4DedJo5R123B5foFpEKF2F116yGj9evTflM5VRrtFic70ya49CqA3XfU81238C2Q117117",
+		"item_date": "2016-06-28 00:00:00",
+		"title": "Enhancements to the QuickBooks NET SDK Documentation",
+		"url": "https://developer.intuit.com/hub/blog/2016/06/28/enhancements-to-the-quickbooks-net-sdk-documentation",
+		"domain": "developer.intuit.com",
 		"image": ""
 	},
 	{
-		"curated_id": "B3gmd4D8bkt0DQKGAAstdl34pDZn7G0BI1168123G123e123Wvbfkx5PckpmBrXqGblxFfjQpqrSafX1qB6DC60pYNkc3w117117",
-		"item_date": "2016-06-03 00:00:00",
-		"title": "Sourcegraph for GitHub  Browse and search GitHub like an IDE",
-		"url": "https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack",
-		"domain": "chrome.google.com",
+		"curated_id": "tRy6ZsDWIp81v3oJuc5Ifc9G3BTqqBAwYx0dwxAsWEoWoTv0nBZtsEFVVjHLXvlOIp5w116dMiYo9ekeY7zAjOxQ117117",
+		"item_date": "2016-07-01 00:00:00",
+		"title": "Content Security DRM with the Native Player SDKs",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/guides/drm.html",
+		"domain": "docs.brightcove.com",
 		"image": ""
 	},
 	{
-		"curated_id": "VkMMJx0RkJJG7D63i7NIHlFO4nSnXcYa0aI7tk6weaKwemPCQQvc1235nk88mJ31123t8116SFgUKCjVatuaybI7I2BA117117",
-		"item_date": "2016-05-12 00:00:00",
-		"title": "Building Rest Service Made Easy Using Eclipse Plugin",
-		"url": "https://dzone.com/articles/building-rest-service-made-easy-using-eclipse-plug",
+		"curated_id": "5i9gvUyDPREtfgWm50sVqV9tP116YiUZwVT6zNX1167kToBwT5og7i8P6NlWTPeZ51prl116X2plS5PDtYGVXSmszXAw117117",
+		"item_date": "2016-07-01 00:00:00",
+		"title": "Understanding Events with the Native SDK",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/getting-started/understanding-events.html",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FUEJX2CSR69vTNOEkl116bhNgQg5IOlZt1NG1F123AZU1O116q9q4qf2H116QsG9bsLcN0dnExOs1nl11gabQ3w1166yMwtA117117",
+		"item_date": "2016-06-28 00:00:00",
+		"title": "iOS developers will love our new Countly iOS SDK Here is our changelog",
+		"url": "http://blog.count.ly/post/146595818033/ios-developers-will-love-our-new-countly-ios-sdk#_=_",
+		"domain": "blog.count.ly",
+		"image": ""
+	},
+	{
+		"curated_id": "08116zX116Ag3NiMmNzXIJ2q7DOVXLhB116YGw3X1kb3q0xPNn038CgKSRSkL2oSugwWPwpHvy7b3otwSUvW123j204saQ117117",
+		"item_date": "2016-06-21 00:00:00",
+		"title": "FlaskAsk A New Python Framework for Rapid Alexa Skills Kit Development",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx14R0IYYGH3SKT/Flask-Ask-A-New-Python-Framework-for-Rapid-Alexa-Skills-Kit-Development",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L3iUofUMVL5FrDX2MFqr116LztYRYK5M4yenxKfkyNgNinHOMrj096dupBo9W1169H7bHdT3qBMIjWCsshGEgIoufg117117",
+		"item_date": "2016-05-20 00:00:00",
+		"title": "Brightcove Player SDK for iOS Code Snippets",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-ios/samples/code-examples.html#Setting_the_buffer_size",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tat2hfPE43MRBVn3L3dr9UbtZh4OiKiL5vj1DpOnY3D123Vkl8ew03fqFE123ujtOeQ4mowaOkrTv1iSmxMN5wJ9cQ117117",
+		"item_date": "2016-05-20 00:00:00",
+		"title": "Brightcove Player SDK for Android Code Snippets",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/samples/code-examples.html#Setting_the_buffer_size",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7a3Lss116kylZ01QQCcCYDTXkjrfR116sq0rPXpYk6j9EvxbzMPVgDzC6Q515yzmlWRImCf0AfrIUyQAbb30IStOyQ117117",
+		"item_date": "2016-01-26 00:00:00",
+		"title": "Announcing BigMLs SDK for Swift",
+		"url": "https://blog.bigml.com/2016/01/26/announcing-bigmls-sdk-for-swift/",
+		"domain": "blog.bigml.com",
+		"image": ""
+	},
+	{
+		"curated_id": "viqvZ116xuCmsarYHZQUi9sEtUQxOTjVVYHBf123116xZ2VJzGvGqmaeBnrKYaBrM123JyCDBJSu3D8J6X4IfSACrR116DQA117117",
+		"item_date": "2016-05-09 00:00:00",
+		"title": "Brightcove Player SDK for iOS Code Snippets",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-ios/samples/code-examples.html#Programmatically_add_cue_points",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wU116W7DOx116FP6VCMQ7kXKVBLIBWW5LNh123nbzNrcR616jmByM0riYVQEhTLMNIma116cAYTdp1232TgR0Y0EOGn41Vdw117117",
+		"item_date": "2016-05-07 00:00:00",
+		"title": "How to use RAML to AutoGenerate C Code for Dynamic Web API Provisioning",
+		"url": "http://www.programmableweb.com/news/how-to-use-raml-to-auto-generate-c-code-dynamic-web-api-provisioning/elsewhere-web/2016/05/07",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PcUBG116RT3Ld1XtZ0exloOZ1RpVt123JhIOspsqdJa5XA2JC7oO8Tjmw9gtvM2ny5116Vg123z6qXUf73fKj0NuJblNGQ117117",
+		"item_date": "2016-01-26 00:00:00",
+		"title": "WhoAPI for Ruby",
+		"url": "https://whoapi.com/blog/2377/whoapi-for-ruby/",
+		"domain": "whoapi.com",
+		"image": ""
+	},
+	{
+		"curated_id": "d4DeMgLJWRRONCmMf116ZMPhaQm0rb5116UPZHr4P10xtRX2wVezvtRYpYjC50yqua7DFvre5D4qdXaXQ8SbYckGJw117117",
+		"item_date": "2016-04-29 00:00:00",
+		"title": "Brightcove Player SDK for Android Code Snippets",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/samples/code-examples.html#Manually_add_DRM_content",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "x5zTMdXMzZwB123ZAjLB51164CD3yegiroERNevTvl123E7y5DeQgJV7dvVAMEqQo3NxeFqjTJTGhLwAl0lsx8EiuQLQ117117",
+		"item_date": "2016-04-28 00:00:00",
+		"title": "IMA SDK for Android now available on JCenter",
+		"url": "http://googleadsdeveloper.blogspot.com/2016/04/ima-sdk-for-android-now-available-on.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tjXfujVXyxRzpPqy8Eyq6116t8jwGFrcYMkIrel38oD116mpPjMXpyhdutC123lrpk6WJTZw8NFnCKxyf2zBwMRW6HSw117117",
+		"item_date": "2016-03-22 00:00:00",
+		"title": "Tutorial Build an iOS App in Swift that uses a REST API and Stormpath",
+		"url": "https://stormpath.com/blog/build-note-taking-app-swift-ios",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6M123QQx8lAfewv90lvlKVAwKLbE4UUpyikkLDHn0E6ZYR2fFNCFCmGuh03UMJl1FUhZea8Ci6B24WFfrqZEKtCA117117",
+		"item_date": "2016-03-22 00:00:00",
+		"title": "Stormpath Launches Mobile Support with SDKs for iOS and Android",
+		"url": "https://stormpath.com/blog/stormpath-mobile-support-ios-android",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CdLkKUUcUl8XWytG123f9BzZxh5sLaxxdnpA2s9da5XNb5XtmdNnKwp0q71HegMbMOj1231nXwT1QoIzCs1UiQ3U4w117117",
+		"item_date": "2016-04-25 00:00:00",
+		"title": "Kidoz SDK  Monetize kidfriendly mobile apps",
+		"url": "http://kidoz.net/kidoz-sdk/",
+		"domain": "kidoz.net",
+		"image": ""
+	},
+	{
+		"curated_id": "H2d59a3hfZWCjeMYYJABfP116BfunxrcFBfNe5n18MhGjV6v8uFR2v42tkDYJ6DBgFPD6cDwT39Yz30xNAuo5n1w117117",
+		"item_date": "2016-04-22 00:00:00",
+		"title": "Brightcove Player SDK for Android Code Snippets",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/samples/code-examples.html#thumbnailImage",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bq9ryfv116Vhxb2ffH3GSTavEZ1V1236TyZSswjKIYTZ3KhTFxeaVUJDxUyH6qx6jvLN4JxYU1J1232CrKNjMVjUuvxA117117",
+		"item_date": "2016-04-22 00:00:00",
+		"title": "10 Tips on How to Build the Perfect SDK",
+		"url": "https://dzone.com/articles/10-tips-on-how-to-build-the-perfect-sdk",
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "zgET8mcSuXhqL7wOSHHjGLgNquIb1Hi69jqg123K2OSBm5v2YkgjZjuW8j98Rtz116LLY9THGazmiC44kYqBqOUyNQ117117",
-		"item_date": "2016-05-11 00:00:00",
-		"title": "Macros extension VS 2015 support and opensourced",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/05/11/macros-extension-open-sourced-in-visual-studio-2015/",
-		"domain": "blogs.msdn.microsoft.com",
+		"curated_id": "MWxOAYhSp5erVaLRSK5Y5jhmM123yiJTMzhMLZAMHaZcA1z69sDvBzin61HRTY4Cf116A6H27gSXHGeAFqfxrnom7Q117117",
+		"item_date": "2016-04-11 00:00:00",
+		"title": "Exosite Launches ExositeReady Embedded SDK to Accelerate IoT Product Development",
+		"url": "https://exosite.com/exositereadytm-sdk-accelerate-iot-product-development/",
+		"domain": "exosite.com",
 		"image": ""
 	},
 	{
-		"curated_id": "Riru386cBjHzpnKrfyeec3i123m4nxf2116CI8moDb4dKrMugFXNNG5qnNixRowrtut9V116Ac8iwsQ39TxrSYnb2I3Q117117",
-		"item_date": "2016-05-11 00:00:00",
-		"title": "Codenvy builds Samsung an IDE in the box experience with Eclipse Che",
-		"url": "http://blog.codenvy.com/codenvy-builds-samsung-ide-box-experience-eclipse-che/",
-		"domain": "blog.codenvy.com",
+		"curated_id": "KA34zZAvMOg43HiC4gg5McFjr1164zj4fzrBv116SZnN9vlhjjjsCP7oOUI3qlCdRyRvl7t5Tu5NacR116cRiIN4KA116w117117",
+		"item_date": "2016-04-19 00:00:00",
+		"title": "Layar SDK Update Script Sequences with Event Handlers",
+		"url": "https://www.layar.com/news/blog/2016/04/19/layar-sdk-update-script-sequences-event-handlers/",
+		"domain": "www.layar.com",
 		"image": ""
 	},
 	{
-		"curated_id": "pq0EVYclLGtu4h4KUgMnDhNzqiNfVYawCbavTc2yVzGLjEL30FHPj5K1239Y7UJunNJZ1sGbmTIbYL9l1IS0N71Q117117",
-		"item_date": "2016-04-23 00:00:00",
-		"title": "Release Notes Codenvy and Eclipse Che 410",
-		"url": "http://blog.codenvy.com/whats-new-codenvy-che-4/",
-		"domain": "blog.codenvy.com",
+		"curated_id": "eyN8ew2kJ5c123qfsHkqD4l0rde4ji3uP116v1162F69qIVDHOPyIqMHr8iNPdj5YUyk2AYCKeXXK57y66jnXfsN1162WA117117",
+		"item_date": "2016-04-19 00:00:00",
+		"title": "Screencast Download SDKs  server skeletons with Restlet Studio",
+		"url": "http://restlet.com/blog/2016/04/19/screencast-download-sdks-server-skeletons-with-restlet-studio/",
+		"domain": "restlet.com",
 		"image": ""
 	},
 	{
-		"curated_id": "yS3Bt123apAlvY3MZlIP1RD8WSZSE2eam9xZvVHrN0hvjVzm0iej116RYTJOILB5KksN0DCaIBF123P63QNOsPmHTcog117117",
-		"item_date": "2016-04-13 00:00:00",
-		"title": "Presentation Rapid Integration of Scientific Software with Eclipse ICE",
-		"url": "http://www.infoq.com/presentations/eclipse-ice-science",
+		"curated_id": "EszTsLXfWR0TsJQsV83BZWXWaDzv3A7paehuoTChH123nrLgceCVOfTEWMCQvR5n116bFdE9LYkKQKO123MHJDpAV6ZQ117117",
+		"item_date": "2016-04-11 10:33:21",
+		"title": "How  to leverage PubMatics Windows SDK to scale monetization across devices and formats",
+		"url": "https://blogs.windows.com/buildingapps/2016/04/11/how-to-leverage-pubmatics-windows-sdk-to-scale-monetization-across-devices-and-formats/",
+		"domain": "blogs.windows.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123SSK8zzk123QV116MBrnFU7jntVS54ITz0lS07zg2VZWK2bUj1FBlPi1IRVWh2Pft116L7zgCcp7ygQv9nV8k32Q7bOA117117",
+		"item_date": "2016-04-06 00:00:00",
+		"title": "Offline maps and more in the iOS SDK",
+		"url": "https://www.mapbox.com/blog/ios-sdk-3.2.0/",
+		"domain": "www.mapbox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GCJjBjrm6kwBuUrfk116lM8eBGmUSLkU7fSeU1162gNA56HHB9pjFOdh1jWBAQVyiZFFO6YJlTmBZtINV9clkdSvsQ117117",
+		"item_date": "2016-04-06 00:00:00",
+		"title": "MapboxMap for a better Android SDK",
+		"url": "https://www.mapbox.com/blog/android-4-mapboxmap/",
+		"domain": "www.mapbox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116M123JPCEtjLCgHSPMIxesLD1n9PO92A5oM8BLcS116uVURPhA123zmT123wtG0vdCotcOGN1iZARjReOd8McbxSr123xedQ117117",
+		"item_date": "2016-04-06 00:00:00",
+		"title": "The Periodic Table of App Data SDKs  4th Edition",
+		"url": "http://blog.mparticle.com/periodic-table-4th-edition/",
+		"domain": "blog.mparticle.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xEO1jsfc0tLdgaSZlLbA9LMLKTaLH0ApN19MwpO3E4UapQlegrTJ0tneuFciQEps2SJtNJT8J1166f5uF48dkpiA117117",
+		"item_date": "2016-04-04 00:00:00",
+		"title": "Ticketmaster Releases First Public Facing APIs and SDKs",
+		"url": "http://www.programmableweb.com/news/ticketmaster-releases-first-public-facing-apis-and-sdks/brief/2016/04/04",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wGlM9ZQp123z5DmndkFw3Ke6MYtThJxHhIMxWm6Kcn123zr123kMCfC6rPQ7VTuMWxWdzg8kvWooSYkUB7wEN14tXKAw117117",
+		"item_date": "2016-04-04 00:00:00",
+		"title": "Article CWeb API Code Generation Patterns for the RAML User",
+		"url": "http://www.infoq.com/articles/webapr-for-raml",
 		"domain": "www.infoq.com",
 		"image": ""
 	},
 	{
-		"curated_id": "XzyDnk7LA5gpMNnfxlVnvBAqKmKeTY4da0HN1zeX4t8jLg7PXeriLT1Z123QtWHuirDzJI6EqgXwCE5n9xvFoAgQ117117",
-		"item_date": "2016-04-08 00:00:00",
-		"title": "Introducing TestLeft Giving Developers the Power to Test Within Standard IDEs",
-		"url": "http://blog.smartbear.com/automated-testing/testleft-giving-developers-the-power-to-test-within-standard-ides/",
-		"domain": "blog.smartbear.com",
+		"curated_id": "lQj415RYYvq2116G116cR1Opzi7rOr0123B116EBWTNMLXoxEhfazZTVRD7YEnk6Z0qUxo3xDAYMV3XWXuSCmc3qFHulhA117117",
+		"item_date": "2016-03-12 00:00:00",
+		"title": "F5 Friday Python SDK for BIGIP",
+		"url": "http://lorimacvittie.sys-con.com/node/3720424",
+		"domain": "lorimacvittie.sys-con.com",
 		"image": ""
 	},
 	{
-		"curated_id": "emQzgQoW4WHdChI6yPxtPyrIJFedAeUCce123Fn1yNCJJIWCO2hG8C3Oy1BlvoY2VYBNc1nk8dygvpwASkLaOP1Q117117",
-		"item_date": "2016-03-31 00:00:00",
-		"title": "Codenvy Release Enterprise and Team workspaces now available",
-		"url": "http://blog.codenvy.com/codenvy-enterprise-team-workspaces-now-generally-available/",
-		"domain": "blog.codenvy.com",
+		"curated_id": "xNsntrAHZMX116alkZPwaJ9MpmpDTSkxdi9TnQf6h78n06OUlrMSj6XlDVm570iqtF116iGFQ4VFlw1eAmx5Cb0JJg117117",
+		"item_date": "2016-03-14 00:00:00",
+		"title": "Developer Preview of AWS SDK for C is Now Available",
+		"url": "https://aws.amazon.com/blogs/aws/developer-preview-of-aws-sdk-for-c-is-now-available/",
+		"domain": "aws.amazon.com",
 		"image": ""
 	},
 	{
-		"curated_id": "ddNAOSUlSyjyN9m116sh22PSqxuSwZw1V2uX6hGucY4CVGx22COcUYkoT7CNMOnWoYgcgUiC81dO8MB3iRODqAiQ117117",
-		"item_date": "2016-03-30 00:00:00",
-		"title": "API Changes Coming in Electron 10",
-		"url": "http://blog.atom.io/2015/11/17/electron-api-changes.html",
-		"domain": "blog.atom.io",
+		"curated_id": "Weshr116rLklQZEUvA4ZeDyPVpWo49i65uO123vGv31eYVRnkukWlgqpBeS7mPLqkXsihVmx1E7mIETh0m8KEw6Ang117117",
+		"item_date": "2016-03-15 00:00:00",
+		"title": "Layar SDK Update Custom Location and New Callbacks",
+		"url": "https://www.layar.com/news/blog/2016/03/15/layar-sdk-update-custom-location-and-new-callbacks/",
+		"domain": "www.layar.com",
 		"image": ""
 	},
 	{
-		"curated_id": "116LwsZLwU2RWTP92YIfhMsr0kdKVogWKMwb2kbhAjgh3dyuHhha1237Pok8EPtivs123X3krvu5cGADDkhYI116hm0XXQ117117",
-		"item_date": "2016-03-20 00:00:00",
-		"title": "Easily Extend Your IDE With Extensibility Feature for Visual Studio 2015",
-		"url": "https://dzone.com/articles/easily-extend-your-ide-with-extensibility-feature",
+		"curated_id": "xUbSaoxdnEEv123uCIh1Uui116lEMnXELUO6mgIuOvSzVc8H7rzhJmbUPlW6v73AFYwcvW5e3Oxyt3f6zIabXGuDsQ117117",
+		"item_date": "2016-03-22 00:00:00",
+		"title": "Shopify Launches Sales Channel SDK to Enhance Its Merchants039 Reach",
+		"url": "http://www.programmableweb.com/news/shopify-launches-sales-channel-sdk-to-enhance-its-merchants-reach/2016/03/22",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "htavoCTYg8EtBW8jmwdkh116aT6OgsGpW9lnrAvIPNHXhVpst9TXKLJ8NUBrBGx123gDfzGByXlvlFi1UsGSPsw4QA117117",
+		"item_date": "2016-03-16 00:00:00",
+		"title": "Develop a Google Cardboard Virtual Reality Application Using Unity SDK",
+		"url": "https://dzone.com/articles/develop-a-google-cardboard-virtual-reality-applica",
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "8MaHPBx6F37qTc1qDQVfDeEh2aK3ji2tgE123v9yEW8XDfR0Jr3JfeU3cd1a2jO10ZpM09kRNeHrdNBQ6ZaGoYWw117117",
-		"item_date": "2016-03-22 00:00:00",
-		"title": "Getting Started With WordPress and Che",
-		"url": "https://dzone.com/articles/getting-started-with-wordpress-and-che",
-		"domain": "dzone.com",
-		"image": ""
-	},
-	{
-		"curated_id": "96oig116N123kdlmkF0cUHtJ4vwl9h1234X5BRacDexhrR3yBuH49Zs7C3yiefxjWXygF8F123YLdc2gRoJhoR048AMjZA117117",
-		"item_date": "2016-03-22 00:00:00",
-		"title": "Introducing R Tools for Visual Studio",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/03/22/introducing-r-tools-for-visual-studio-3/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "9WIoCmcPY9zsXCT116aYYL4w8oHg2xN4DN0KmDZa7JJl22XwtTZhBdOCz421237vLZAvFOZxClQ9hOIAQjx5IPpepA117117",
-		"item_date": "2016-03-17 00:00:00",
-		"title": "Open Sourcing the Visual Studio Productivity Power Tools",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/03/17/open-sourcing-the-visual-studio-productivity-power-tools/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "f0xegZHmBLSE1161mToth123vWsANHj3mxmHkIVMett123ctmViaRt3Bt2HM1237mcsfkEY2rXMIRVdfPayr0RQsoXG7Yw117117",
+		"curated_id": "4S4E63QtgV8wzqei116CS06wHfcKLR116gz9lEAX2Ls20UOv5ad8P61E8B7S9OsPNdGuzJ9bjh2vq1ZPkXKU8n7YUQ117117",
 		"item_date": "2016-03-11 00:00:00",
-		"title": "Support Ending for Visual Studio 2005",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/03/11/support-ending-for-visual-studio-2005/",
-		"domain": "blogs.msdn.microsoft.com",
+		"title": "Adding SDKless mediation to your project",
+		"url": "http://googleadsdeveloper.blogspot.com/2016/03/adding-sdk-less-mediation-to-your.html",
+		"domain": "googleadsdeveloper.blogspot.com",
 		"image": ""
 	},
 	{
-		"curated_id": "7Ox3d5HszGLf46U7ORVkoqwQCpRhI4QVaTKFwvswFdXMxoZEKO6aI7d9L5wxN0chjtSNme1EmACC9uzFOkyGpw117117",
-		"item_date": "2016-03-07 00:00:00",
-		"title": "Eclipse Che Release New IDE Platform Reimagines the Developer Workspace",
-		"url": "http://blog.codenvy.com/eclipse-che-reimagines-development/",
-		"domain": "blog.codenvy.com",
+		"curated_id": "OkLpVdCxXWLWO0Fn9PFc3brX3fraKVHQvLDEQ66YHUf2HsGa1168DCUtzjoo5UwduP9lmLYvaZ3116VqqE5vBfQZ6Q117117",
+		"item_date": "2016-03-03 00:00:00",
+		"title": "Simple REST API client in Go",
+		"url": "http://motyar.blogspot.com/2016/03/simple-rest-api-client-in-go-google-go.html",
+		"domain": "motyar.blogspot.com",
 		"image": ""
 	},
 	{
-		"curated_id": "ObTt54H123KFQeF0Rvvbq9116aHtD0cMpVClBvF42mF5116JFto673oOfQG116tPJ77knLcMEtJ5OcWQK67YBcMovChbbg117117",
+		"curated_id": "8ucFGxSAHAr9EA5rM1116LUcToJWSTOYa1MsxEt88je8eyJAwOOQx13PfK9Ezq4vNEOS2H97KfhGUVELdOQlADKQ117117",
 		"item_date": "2016-03-08 00:00:00",
-		"title": "Eclipse Foundation Releases NextGeneration IDE Eclipse Che 40",
-		"url": "http://www.infoq.com/news/2016/03/eclipse-che-release",
-		"domain": "www.infoq.com",
+		"title": "Faster better stronger say hi to our JavaScript Delivery SDK v30",
+		"url": "https://www.contentful.com/blog/2016/03/08/js-sdk-cda-v3/",
+		"domain": "www.contentful.com",
 		"image": ""
 	},
 	{
-		"curated_id": "tmH0Rces1z123MP3al6Cf3116pKP7xmrJ3HKkcKK2mVsDe6fgCc2dLB123bxKisD5Q9AdxxQDZsmva6Hg39zrKHvmDxg117117",
+		"curated_id": "uJ1164mvpFu1dOGNdSr0Z877WUeLIZCl9n3XJvjMl116cDjnnkWGY5sRi0KygBo3ktig0gUX65bknSCi4VPJDnEyhA117117",
 		"item_date": "2016-03-09 00:00:00",
-		"title": "Cloud9 IDE now supports Google Cloud Platform",
-		"url": "https://cloudplatform.googleblog.com/2016/01/Cloud9-IDE-now-supports-Google-Cloud-Platform.html",
-		"domain": "cloudplatform.googleblog.com",
+		"title": "Spatial audio comes to the Cardboard SDK",
+		"url": "https://developers.googleblog.com/2016/01/spatial-audio-comes-to-cardboard-sdk.html",
+		"domain": "developers.googleblog.com",
 		"image": ""
 	},
 	{
-		"curated_id": "3dg8Gb09Jhj2pElqH88bh116P123arGZepiNt80A2EblxVfywhuTMQs0BvRzSJr1JXILpN4MR6123SUlDSbvQwGvckCw117117",
-		"item_date": "2016-03-09 00:00:00",
-		"title": "Announcing Tools for Apache Cordova Update 7",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/03/09/announcing-tools-for-apache-cordova-update-7/",
-		"domain": "blogs.msdn.microsoft.com",
+		"curated_id": "av8IVI0VajUDZPNKvdykwD123vJ116mIGvh2oRDJ1to116Qc123cSdqt9Pn123I116GCoxooonhnBpbMQNgmvdTVnNpzKNX0gA117117",
+		"item_date": "2016-03-04 00:00:00",
+		"title": "Official DocRaptor Clients",
+		"url": "https://docraptor.com/blog/official-docraptor-clients/",
+		"domain": "docraptor.com",
 		"image": ""
 	},
 	{
-		"curated_id": "0123eyCwM1ObIGQ5YwC3EAicF8CGpeBNLyXGyGWzdYvFEmzJ123kE2CTY08N28yJ7123Y2xZRwpkVYgPgl7JqEiaSvAg117117",
-		"item_date": "2016-02-25 00:00:00",
-		"title": "The Probably Simplest Intro to Visual Studio Unit Testing Ever Written",
-		"url": "http://www.codeproject.com/Tips/1081091/The-Probably-Simplest-Intro-to-Visual-Studio-Unit",
-		"domain": "www.codeproject.com",
+		"curated_id": "gM0tkev2aBMZosFRntV5WIuLprBTGtSzQIlHgnvKCmsafgFv8f71123eO60vZdd9qKli8Y92t116thYoPu8ojKMi2Q117117",
+		"item_date": "2016-02-29 00:00:00",
+		"title": "iOS Google Mobile Ads SDK 770  now with bitcode support",
+		"url": "http://googleadsdeveloper.blogspot.com/2016/02/ios-google-mobile-ads-sdk-770-now-with.html",
+		"domain": "googleadsdeveloper.blogspot.com",
 		"image": ""
 	},
 	{
-		"curated_id": "J116SWSu66f5miAibMxBnn116aXSEfdlcLNyP0tVtObxNhJPr85oQi4J1BDv6GW123NUiSQG5hOnQf116MJ4PLdDnwdt1A117117",
-		"item_date": "2016-02-25 00:00:00",
-		"title": "The Magic that is Codenvy",
-		"url": "http://blog.codenvy.com/the-magic-that-is-codenvy/",
-		"domain": "blog.codenvy.com",
+		"curated_id": "u8HoUp2jOC6awLb0cu0Ip7NfbAdMSrj4geMzPb7zKoMNCHTQEks1tWbr0lypg0JULcmVzK6yefwdbxCqif9Llg117117",
+		"item_date": "2016-02-24 00:00:00",
+		"title": "Get a Headstart on Your Apps with Application Starter Kits",
+		"url": "http://blog.alchemyapi.com/get-a-headstart-on-your-apps-with-application-starter-kits",
+		"domain": "blog.alchemyapi.com",
 		"image": ""
 	},
 	{
-		"curated_id": "g6o123tRVn5K3rFvxPGyc2dT0yNdqsTx94CSGkBCDkgHyWBbu1X0E5Xz123ty0j2u3uC9XMh0C123JgjSluGME123fGMYQ117117",
+		"curated_id": "KC3nK123TQTeKlNQXG7Pd116uWEJ1165vNVnTglgLZSumpuudUL18CGMBt123vD7r1TAZBUKhsPA2WbJ8qPPxuKuHGm17w117117",
+		"item_date": "2016-02-24 00:00:00",
+		"title": "Facebook Releases Python Ads API SDK Docs",
+		"url": "http://www.programmableweb.com/news/facebook-releases-python-ads-api-sdk-docs/brief/2016/02/24",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2kAPVpcX9nqozYWxRVVvD5QV63g42tCkk3Ptgd6v5D123CNl3MMzG7M55M766KdtK1AOP7kpvYG7TIW0xY08eLAQ117117",
+		"item_date": "2016-02-24 00:00:00",
+		"title": "Why API Providers Should Offer SDKs",
+		"url": "http://www.programmableweb.com/news/why-api-providers-should-offer-sdks/analysis/2016/02/24",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "w9Lzg975qn0kCJ5Inmrus5dYG1DahDsNtHJN5oGcM0SNVLDuSrl2oEolqM99AciDD5w0wO5mXAOzh51jg1wErg117117",
+		"item_date": "2016-02-26 00:00:00",
+		"title": "Brightcove Player SDK for iOS",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-ios/index.html#Integrations",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OOGwRhydGlhbkHR62atz1JerjquEoqq0Lguv2TJKYMgi8116ao116pCah9n23OLNIg3umPjVHwcvKyBGAmxjhnWe7A117117",
+		"item_date": "2016-02-22 17:50:32",
+		"title": "Stormpath React SDK Introducing custom login and registration forms  Stormpath User Identity API",
+		"url": "https://stormpath.com/blog/react-sdk-custom-forms/",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iPjioti4GIIUo2L2ebEA9KHEjLNZpb04hQPLPrTChG73FE5kzkzkJRlvHWvChhdxz02U7857DxByQgVHUOGB3w117117",
 		"item_date": "2016-02-23 00:00:00",
-		"title": "Introducing IBM Nodejs Tools for Eclipse Beta",
-		"url": "https://strongloop.com/strongblog/introducing-ibm-node-js-tools-for-eclipse-beta/",
+		"title": "Get a head start on your apps with Application Starter Kits",
+		"url": "https://developer.ibm.com/watson/blog/2016/02/23/get-a-head-start-on-your-apps-with-application-starter-kits/",
+		"domain": "developer.ibm.com",
+		"image": ""
+	},
+	{
+		"curated_id": "x1yGyhegQYltCefPEnypENski4G94CVoj9UjOAuxwMdAIl123AhEBZOtZUXDSZ116HtSVhHDBTFNZZcy1123729kOzkg117117",
+		"item_date": "2016-02-21 13:31:03",
+		"title": "DocuSign API  DocuSign",
+		"url": "https://www.docusign.com/developer-center/api-overview#sdk-docusign",
+		"domain": "www.docusign.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4Rdff1Kmfy7D9T3qJJVZeQ9aRcD1163RYreoWGi8cmdx5PZoiK311dwnn0mowlqI3WeI5ctTGm1H4lpTk0qbGQyw117117",
+		"item_date": "2016-02-21 13:31:03",
+		"title": "Twitter",
+		"url": "https://twitter.com/DocuSign/status/701519527448854528/photo/1",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6wKpgmlc5PDOBFdOwwgWGIiOpMbNGRQpGcMi7cjyBhksa5mArXTqYQJhAzNuG6PYttEq8M1ivVuivLP1gvGDeg117117",
+		"item_date": "2016-02-22 00:00:00",
+		"title": "Announcing BETA release of the new Ads PHP Client Library",
+		"url": "http://googleadsdeveloper.blogspot.com/2016/02/announcing-beta-release-of-new-ads-php.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "v0G2tWZyIECyzCuY9123zlOR6GUyEbCllOwDngdtStCUowE123v116EcRx4XIasjKknD2w9UXNyGcE4aAJ1xp116jh51uw117117",
+		"item_date": "2016-02-19 00:00:00",
+		"title": "Brightcove Player SDK for Android Code Snippets",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/samples/code-examples.html#localVideos",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZgJ1161239933h3PjpjEhGqOdK6123acCo2cyqOsMxcvHtyGK2RF2fRcyH123Cefux4Y7hWMlyGs116sbF96TAaaIUd46V3Q117117",
+		"item_date": "2016-02-17 00:00:00",
+		"title": "Streaks InboxSDK",
+		"url": "http://blog.clearbit.com/streaks-inboxsdk/",
+		"domain": "blog.clearbit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Nc0CBrJFrAAe7BD4CIY9vzN7xE5kccQY1232PMNbIozU7ZvNnqwtSNNZ3suhVSghSYhkN0XoSzhgT1FIPEm51230hA117117",
+		"item_date": "2016-02-17 13:44:44",
+		"title": "Introducing IBM API Connect",
+		"url": "https://strongloop.com/strongblog/introducing-ibm-api-connect/",
 		"domain": "strongloop.com",
 		"image": ""
 	},
 	{
-		"curated_id": "O2oZhp9UqydvcV116V4csbw0ZgZ123OrEQidkgZzpo9awM8BjrRQEIEY2wkfvu2WNjizp7g7cvvZtpc38nZukR3VNQ117117",
-		"item_date": "2016-02-22 00:00:00",
-		"title": "Develop ReactNative apps in Visual Studio Code",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/02/22/develop-reactnative-apps-in-visual-studio-code/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "Z123U1161dwK12A8y6g7hkNV9Tl2SQ0Ub8bvaNeOsYxJkwddzJIzgK6zGSQLR47NqZHksaPUty4U123PfaJYfZVuaFgQ117117",
-		"item_date": "2016-02-08 00:00:00",
-		"title": "Write once and deploy to Microsoft Azure or Microsoft Azure Stack from Visual Studio",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/02/08/write-once-deploy-to-azure-from-visual-studio/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "BsRWNExAapEUaXz0aIDgI6rDlVRYs4g3GbXGJ123FU3uRRmQ7d4M2UY6YNUh1161qe0dXwgJyCj4SgHaHALYwBj4Wg117117",
-		"item_date": "2016-02-11 00:00:00",
-		"title": "Find Your Favorite Visual Studio Extension",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/02/11/find-your-favorite-visual-studio-extension/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "dp123hV4FweCfx86TCx116JHxr8ZDaJuQGUimmSnPPdcIM6fWC9iN5cjx7HUwY0mFS9ZfkikyTjGvzWjwBX6EFNAyg117117",
+		"curated_id": "lLl1pwqyteMSfNBL5cy123IVt116Bm123PwSxQ13tOJT9Buv70rEiEtPJvJbgnw81230kvnGeGghsTH9uWivPl123pfUfp8Q117117",
 		"item_date": "2016-02-17 00:00:00",
-		"title": "Protected The nextgeneration of Codenvy is now beta",
-		"url": "http://blog.codenvy.com/codenvy-next-generation-beta/",
-		"domain": "blog.codenvy.com",
+		"title": "Take to the skies with the Mapbox iOS SDK",
+		"url": "https://www.mapbox.com/blog/ios-sdk-fly-to/",
+		"domain": "www.mapbox.com",
 		"image": ""
 	},
 	{
-		"curated_id": "iNw90TT0oxUnXFbaTuNYb5d87aapU8PNIJ7jKEE5JurL4A7O2TvccRIZTp9SOkmZO1xfn1T1iHcB116TEqKN9d123Q117117",
-		"item_date": "2016-02-11 00:00:00",
-		"title": "The Buzz Around Eclipse Che",
-		"url": "https://dzone.com/articles/the-buzz-around-eclipse-che",
+		"curated_id": "sKN8dzGomdylMEO6deWgishxo123Zz9NT0Zz4zzJOYaZJS6FoBSoVHQv7j5HFtGm6qaRjlRyGwY86b3lRo4IR8rQ117117",
+		"item_date": "2016-02-05 00:00:00",
+		"title": "Goclient for PayPal API",
+		"url": "https://dzone.com/articles/go-client-for-paypal-api",
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "SDa0Ao2m8123EieIkiqEqvywehl4sNc123JlnMcJHwVZ0SyWx7ETHgVHne5ZVOijPeW6PNhMTzeD9ZefNXS8g2UuYQ117117",
+		"curated_id": "HtkoDqgdx5xtPHssRyZML5J123O8EYmb2KCtSrdtwIComjR0GanFSVc116P56Uch6JyHo28UaE2bd72svmHjjnMTOg117117",
 		"item_date": "2016-02-03 00:00:00",
-		"title": "Free Visual Studio Dev Essentials Program now includes 300 in Azure credits and Exclusive Xamarin University access",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/02/03/free-visual-studio-dev-essentials-program-feb-2016/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "FSYUmPtW8JQN4aIxyMHWrT7c123mLYOwegy2AqSkbQnppcXQdfvg9wtmeOKGZncPrrpu116BvXGjir9C0EtATA8H9g117117",
-		"item_date": "2016-01-11 00:00:00",
-		"title": "Unit Testing Apache Cordova Apps with Visual Studio Part 1",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/01/11/unit-testing-apache-cordova-apps-with-visual-studio-part-1/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "I639a116DMOEv1aDMDI1CoCWfI8KapS4gIpP116123RUZYW4owzCI1dD0YU123R7zmqP7Qwd0ZyAHADaZ123PTLsXXrfycoQ117117",
-		"item_date": "2016-02-02 00:00:00",
-		"title": "Future trends for IoT Open Source and Eclipse IoT",
-		"url": "https://dzone.com/articles/future-trends-for-iot-open-source-and-eclipse-iot",
+		"title": "Embedding Your Language SDKs in Your Apiary Documentation Using APIMATIC",
+		"url": "https://dzone.com/articles/embedding-your-language-sdks-in-your-apiary-docume",
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
-		"curated_id": "2GNHxzdcOAM6mlY3eOKHqSpAwsj0oj8Sun1EPjSrpImmj4wDsAyU6dHFguZM0cl397SE786Z123taj58PpIbf3Jg117117",
-		"item_date": "2016-02-01 16:47:01",
-		"title": "Automated Testing with Visual Studio",
-		"url": "https://channel9.msdn.com/Blogs/Breakpoint/s02e16",
-		"domain": "channel9.msdn.com",
+		"curated_id": "AL6K889pf6rzfFxAG2QpUm123123kWzy6Cx1hlIMqaP1zV9EomvHuI0x3aGl35VSNq9PDYwfesTrG3u2jZipqXxy7A117117",
+		"item_date": "2016-02-03 00:00:00",
+		"title": "JW Player Mobile SDKs Now Featuring AVPlayer and ID3 Timed Metadata",
+		"url": "http://www.jwplayer.com/blog/jw-player-mobile-sdks-now-featuring-avplayer-and-id3-timed-metadata/",
+		"domain": "www.jwplayer.com",
 		"image": ""
 	},
 	{
-		"curated_id": "IWOtzClCdrk1jC0M116ZLGhpJEioi123fIoxXuiOQt3sAGLkip8eE058T86de1232QZOWwOsl9116123jhilwjZSrE1VqORA117117",
-		"item_date": "2016-01-28 00:00:00",
-		"title": "Apache Cordova development lands on Visual Studio Code",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2016/01/28/apache-cordova-development-lands-on-visual-studio-code/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": ""
-	},
-	{
-		"curated_id": "Im123v67iJFd4NFV8bgHHJ9Yn641ZuqJEVr1t8116gSC3KIHGmLcQ10D0x7I3cNQxmSZ0oh4SoT116a5qZ5glOhIKDUQ117117",
-		"item_date": "2016-01-31 00:00:00",
-		"title": "Codenvy Announces the Beta Milestone of Eclipse Che",
-		"url": "https://dzone.com/articles/we-are-pleased-to-announce-the-beta-milestone-of-e",
-		"domain": "dzone.com",
-		"image": ""
-	},
-	{
-		"curated_id": "6R62clexLoFY1116116jmR4IgKSdmXPHlUcetQ5gPnQ5p9gI2vLMGEdTl3fuATnhSN116yDgPVZyTwPZVcI5PGCHUo6w117117",
-		"item_date": "2016-01-27 00:00:00",
-		"title": "Cloud9 IDE now supports Google Cloud Platform",
-		"url": "http://googlecloudplatform.blogspot.com/2016/01/Cloud9-IDE-now-supports-Google-Cloud-Platform.html",
-		"domain": "googlecloudplatform.blogspot.com",
-		"image": ""
-	},
-	{
-		"curated_id": "EOpV3Zb3QFpoTQW083CvIU63iUQs5LiPmDL4vZsgTYNj58mELhPQ3xLEe061SqYsaJxQUGbcXrku116fUf0jRKiw117117",
+		"curated_id": "C116cVuIAFDvvO1C4wiVWZyMhPRFHLkjLq3rHATs53Il0GycaAracQVCC4b8ew5ergLFQxOpyGJVf4bbovh6MemA117117",
 		"item_date": "2016-01-26 00:00:00",
-		"title": "Announcing Eclipse Che Beta",
-		"url": "http://blog.codenvy.com/introducing-eclipse-che-beta/",
-		"domain": "blog.codenvy.com",
+		"title": "Embedding Your Language SDKs In Your Apiary Documentation Using APIMATIC",
+		"url": "http://apievangelist.com/2016/01/27/embedding-your-language-sdks-in-your-apiary-documentation-using-apimatic/",
+		"domain": "apievangelist.com",
 		"image": ""
 	},
 	{
-		"curated_id": "7drOB9VPnO3iaKPfq3psvpO116CVhtIu0QzPSJ4ZPQphKmB123BbcDpCyexdc4byBpRbRHndebtkB4e5fZ3oh0FyMA117117",
-		"item_date": "2016-01-21 00:00:00",
-		"title": "Visual Studio Tools for Apache Cordova Update 5",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2016/01/21/visual-studio-tools-for-apache-cordova-update-5.aspx",
-		"domain": "blogs.msdn.com",
+		"curated_id": "m2Z6QPM6zVBsVIi6cYFBZ3A0kXBCIBUOWk9kO9tVserdiat123j6125bsTmSB2E6H116uxGKtP116MfGOBRb0116iSkXxA117117",
+		"item_date": "2016-01-28 00:00:00",
+		"title": "Tesla may debut two Model 3s in March as it looks to ditch its SDK",
+		"url": "http://thenextweb.com/insider/2016/01/28/tesla-may-debut-two-model-3s-in-march-as-it-looks-to-ditch-its-sdk/",
+		"domain": "thenextweb.com",
 		"image": ""
 	},
 	{
-		"curated_id": "WQeozpc64jlZBJtDO5p2j3Cn116enKNr2bfTG3TuZRt7123VtGIwYKlwMliEkufMgqL0xM2Zdp2bgCLomd4WEWSvpw117117",
+		"curated_id": "Mh08t123ejvIhyRxB5ldRCvyOQksVy8LOIcAuI6lU123D06CiR116y123CZwflGx9TPnodLM123Ztlcstqk7ys1v1eFPE1sQ117117",
+		"item_date": "2016-01-29 00:00:00",
+		"title": "Atalasoft MobileImage SDK Review",
+		"url": "http://www.codeproject.com/Articles/1075045/Atalasoft-MobileImage-SDK-Review",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7116HatHNIuwve4u2Co8efXfnBpEtSJc1ns4t2F5DnTKhI6o116AnYXal7A6Vt5bIH0HL2QQJI123ij0PF5vSpuNuvzA117117",
+		"item_date": "2016-01-26 00:00:00",
+		"title": "Googles Waze launches SDK for thirdparty transportation apps like Lyft",
+		"url": "http://venturebeat.com/2016/01/26/googles-waze-launches-sdk-for-third-party-transportation-apps-like-lyft/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9ALK7nAEzc4Q5LiOF0HHA116ZenLHJN2RU46nKV47651CXGRF2RCjmR9RhppfmzIIMIUcfXDBrgTmsXE1MEhZ6Ew117117",
+		"item_date": "2016-01-16 18:03:01",
+		"title": "Google Cardboard SDKs now support spatial audio",
+		"url": "http://sdtimes.com/google-cardboard-sdks-now-support-spatial-audio/",
+		"domain": "sdtimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yxdSPsfZDcsYcO0rO116Z3Fkk1rpmwclLRf7T123FtxAqRXbzarOe006efFG6m5M8f3jBn36UaV2LEPXbwbzXO9DzQ117117",
+		"item_date": "2016-01-14 00:00:00",
+		"title": "AvaTax PHP SDK updated to v15500",
+		"url": "http://developer.avalara.com/blog/2016/01/14/avatax-php-sdk-updated-to-v15-5-0-0",
+		"domain": "developer.avalara.com",
+		"image": ""
+	},
+	{
+		"curated_id": "mL9nYEfrrue0ezQpTSCamYOULKGIWR11618tUtynIeC048s6YWmICxU116pbBxZk123Zwt7123kUTVTAu7OewkIn5J7S0Q117117",
+		"item_date": "2016-01-15 00:00:00",
+		"title": "Perfect Aims to Bring Swift to the Serverside",
+		"url": "http://www.infoq.com/news/2016/01/perfect-server-side-swift",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hwa2CXSmnlOtBksM2MoioEAOjuPt4jS123oKdiTGbgmDwlCOU0f6gTGI123wiEgJf37GmWqQnVzScuVCpidZW2XKKw117117",
 		"item_date": "2016-01-13 00:00:00",
-		"title": "Unit Testing Apache Cordova Apps with Visual Studio Part 2",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2016/01/13/unit-testing-apache-cordova-apps-with-visual-studio-part-2.aspx",
-		"domain": "blogs.msdn.com",
+		"title": "Spatial audio comes to the Cardboard SDK",
+		"url": "http://googledevelopers.blogspot.com/2016/01/spatial-audio-comes-to-cardboard-sdk.html",
+		"domain": "googledevelopers.blogspot.com",
 		"image": ""
 	},
 	{
-		"curated_id": "W1MflCr116s1Sh3lV8wxeoWdTaNUz1bmv7d253Rg2JVTA0ET12379Z885lUuE11071aYg62BUc9jTj1bKhe7wDR3zg117117",
-		"item_date": "2016-01-08 00:00:00",
-		"title": "Snippets for Visual Studio",
-		"url": "http://www.codeproject.com/Tips/1070336/Snippets-for-Visual-Studio",
-		"domain": "www.codeproject.com",
+		"curated_id": "sbq3wAeUBZmGnbUhBsXUyTceUp858yD3JtKRPOlUci5Jn6myqFfa0pkYOCM116ABfvdnjkxSlTRAZXPCF37YRrrA117117",
+		"item_date": "2016-01-05 00:00:00",
+		"title": "Securing an iOS App with 2FA Using Nexmo Verify SDK",
+		"url": "http://www.programmableweb.com/news/securing-ios-app-2fa-using-nexmo-verify-sdk/how-to/2016/01/05",
+		"domain": "www.programmableweb.com",
 		"image": ""
 	},
 	{
-		"curated_id": "CMR6123hvEx7tILjXIcfi1FQj096n47uU6U1vZ40wcMy3Vv3FiQIipe1236C9SDKjZbL2x7wiVMNANCj7KzjaDYXdA117117",
-		"item_date": "2015-12-16 00:00:00",
-		"title": "Thoughts on Yesterdays Issue Surrounding the GitHub for Visual Studio Extension",
-		"url": "http://www.codeproject.com/Articles/1064943/Thoughts-on-Yesterdays-Issue-Surrounding-the-GitHu",
-		"domain": "www.codeproject.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comarticles1064943thoughts-on-yesterdays-issue-surrounding-the-githu.png"
+		"curated_id": "Ym0voATqKfw123b9vY3123TCdP3g1116KohLg123JVoZtN116zlDPfCd06udsqqkvs1QDiDMF0Lrw3hvGVBxO9Kaq9kzUGoQ117117",
+		"item_date": "2016-01-04 00:00:00",
+		"title": "Salesforce Mobile SDK 40 Flexible Libraries for Native and Hybrid App Development",
+		"url": "https://developer.salesforce.com/blogs/engineering/2016/01/salesforce-mobile-sdk-4-0-flexible-libraries-native-hybrid-app-development.html",
+		"domain": "developer.salesforce.com",
+		"image": ""
 	},
 	{
-		"curated_id": "PHOVKLD6P5DkYHjTyDXbpsCLJStcE1123Ikb5phyezF0aGQ8ZTYfUh4116z3mPlcfXD8PawQm00qM8w5J868uEXE8A117117",
+		"curated_id": "sj116BvZ123ZpvV26Cxv0kK5xEYNfN4WFf0Axi7U123WdPiiA3sqPjW3M0EuQCFr7Wy7jSTUizwDbnOZX0WYarOGwMvQ117117",
+		"item_date": "2016-01-04 00:00:00",
+		"title": "The Top 5 Apple SDKs of 2015",
+		"url": "http://www.programmableweb.com/news/top-5-apple-sdks-2015/analysis/2016/01/04",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lnZjIPSqPOM018obN3TxtzZ54tHz0ZcoChmIX6OZS3vbBdjzZ83hzomLFdNiiyJjJmzsDsQMly2PXgckskR03w117117",
 		"item_date": "2015-12-15 00:00:00",
-		"title": "The API web needs a GUI",
-		"url": "http://pronovix.com/blog/api-web-needs-gui",
-		"domain": "pronovix.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/pronovix-comblogapi-web-needs-gui.png"
+		"title": "Parse Launches Apple TV and Apple Watch SDKs",
+		"url": "http://www.programmableweb.com/news/parse-launches-apple-tv-and-apple-watch-sdks/brief/2015/12/15",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsparse-launches-apple-tv-and-apple-watch-sdksbrief20151215.png"
+	},
+	{
+		"curated_id": "tdeCGaiBYP123A6mmhFFwdwPcuoACR4d7Qkw9O123a116nz6xtNIwIh123xMB3hfuDJdCS8NSQ5d3EHdBMz1Wjgn6MxZDA117117",
+		"item_date": "2015-12-15 00:00:00",
+		"title": "Introducing the Box SDK for Salesforce",
+		"url": "https://www.box.com/blog/introducing-box-sdk-salesforce/",
+		"domain": "www.box.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-box-comblogintroducing-box-sdk-salesforce.png"
+	},
+	{
+		"curated_id": "buT2VRaocBvJU89VtxHtZr66j123vDK8pPwI8VRyfSrjrIGvl5fwvdSZ6116oOBXEQ116rR0vY8uGaByE8zIt3Wb5hug117117",
+		"item_date": "2015-12-16 00:00:00",
+		"title": "CloudRail Misses the Mark in an Attempt to Tame SDK Sprawl",
+		"url": "http://www.programmableweb.com/news/cloudrail-misses-mark-attempt-to-tame-sdk-sprawl/analysis/2015/12/16",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewscloudrail-misses-mark-attempt-to-tame-sdk-sprawlanalysis20151216.png"
+	},
+	{
+		"curated_id": "WR116116yeP6buAb4hyaM28UbdhswhSF116ndGescLyx64VVv123vNxrYaTmIUgrS0roQ2bpnU4o3OM3IoJ0DTgYR3JigQ117117",
+		"item_date": "2015-12-16 00:00:00",
+		"title": "Box and Salesforce extend partnership with native integrations SDK",
+		"url": "http://venturebeat.com/2015/12/16/box-and-salesforce-extend-partnership-with-native-integrations-sdk/",
+		"domain": "venturebeat.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20151216box-and-salesforce-extend-partnership-with-native-integrations-sdk.png"
+	},
+	{
+		"curated_id": "oQiObziYTOz6W040QuZVaeRhuKqBPFtqqqbHJLPNT786BmUmDfolzANHn092kwO132Zu8rOa48W86jy7RY47qg117117",
+		"item_date": "2015-12-15 00:00:00",
+		"title": "IBM Watson Nodejs SDK reaches Version 10",
+		"url": "https://developer.ibm.com/watson/blog/2015/12/15/ibm-watson-node-js-sdk-reaches-version-1-0/",
+		"domain": "developer.ibm.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-ibm-comwatsonblog20151215ibm-watson-node-js-sdk-reaches-version-1-0.png"
+	},
+	{
+		"curated_id": "rMu7qzw3V0OoMKm3RuNr0gMhc2sJosZnWNR0WTFbyEam3IZk9utElbw1Patj5gE123zmtGgqlo5sgIOqkrwniHzA117117",
+		"item_date": "2015-12-14 00:00:00",
+		"title": "Facebooks Parse launches SDKs for tvOS watchOS 2",
+		"url": "http://venturebeat.com/2015/12/14/facebooks-parse-launches-tvos-watchos-2-sdks/",
+		"domain": "venturebeat.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20151214facebooks-parse-launches-tvos-watchos-2-sdks.png"
+	},
+	{
+		"curated_id": "1ghmpqK7vOc2LU2aB116wbvuW123OvnsbRL87ZOHvt123Ga116hzUJrBvdsUtKNlBFIYH7SGSCcYrcIY7NWhBXMzXRJ123oQ117117",
+		"item_date": "2015-12-11 00:00:00",
+		"title": "PHP SDK v23 for QuickBooks Online Now Available",
+		"url": "https://developer.intuit.com/hub/blog/2015/12/11/php-sdk-v2-3-for-quickbooks-online-now-available",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L2y8eFadJHaU9veraOAWc1231jaklqQ9Dnfg1Ij9xCW4VN8qNB2116EWOYIiD15VreYQrYh4bUTz9a5IB1YM2LXOsg117117",
+		"item_date": "2015-12-10 00:00:00",
+		"title": "Brightcove Player SDK for tvOS",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-tvos/index.html",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fjEacB2JJ3V8xlYXdRLjwQsfUrddcCAjGt12hTH8H3DJLxLTGIiW83CbsiuAL76qhFCIUB7CtmMYMeeWKa116lNg117117",
+		"item_date": "2015-12-10 00:00:00",
+		"title": "The Brightcove Native Player SDKs",
+		"url": "http://support.brightcove.com/en/video-cloud/docs/brightcove-sdks",
+		"domain": "support.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "24O123yS116wa20QS3DDQRGFGt1237eU116kUOSWaAnMw4JzGOzb3CJq30w6HxrzRSIvn4Mgb7NSuDXN123116yP3yRsPIbJPQ117117",
+		"item_date": "2015-11-26 00:00:00",
+		"title": "Amazon Releases Version 10 of the AWS SDK for Go",
+		"url": "http://www.programmableweb.com/news/amazon-releases-version-1.0-aws-sdk-go/brief/2015/11/26",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "POCWAq123GD2LeF5v3chR6OTQEtwtQya8TY31iaG6ebywmQRTy123HBsWaGJ2h5y9hlDPD7L1qjQrW5123ZzqIHEe3wA117117",
+		"item_date": "2015-11-27 00:00:00",
+		"title": "Python API Wrapper",
+		"url": "https://cloudconvert.com/blog/python-api-wrapper/",
+		"domain": "cloudconvert.com",
+		"image": ""
+	},
+	{
+		"curated_id": "luU72Wzu21PWKf4lVCfd690Brov123YgdycOA6gbIx3yE5trV6T5rFxTCU116yMtrmLm3H3MQ2SrrvsnvaB1hQbkgQ117117",
+		"item_date": "2015-11-23 18:55:08",
+		"title": "Stormpath PHP SDK  The GA Release  Stormpath User Identity API",
+		"url": "https://stormpath.com/blog/releasing-a-stable-php-sdk/",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JD4LCazKl31aM116Atnyp4SSD9EEap8zrprR116imNKQn01bZoUplzEL3an123YFz4l116R88KLGQciQvBy9F6iQsqFJmQ117117",
+		"item_date": "2015-11-05 00:00:00",
+		"title": "AppLovin launches an SDK to put ads in Apple TV apps",
+		"url": "http://venturebeat.com/2015/11/05/applovin-launches-an-sdk-to-put-ads-in-apple-tv-apps/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JFMZFLrlLzNO123YHbXhEXxL4aGF5iIQmCs7HJu5M5KnXAye7iLIayok4M3123FMPEVfEqVSl123UHOMk0kVuwo0hPog117117",
+		"item_date": "2015-10-19 00:00:00",
+		"title": "Advertising SDK Blamed For Stealing iPhone User Data",
+		"url": "http://www.programmableweb.com/news/advertising-sdk-blamed-stealing-iphone-user-data/2015/10/19",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3RAVU0pM5ZeWyPueWZHn123EY6qp3IcVYmMUmHyDavJ9wShfFyPnp123VoWbxVVN0116SRWb6IIlbaA5cyIyT7dxzyAg117117",
+		"item_date": "2015-10-23 00:00:00",
+		"title": "Intel RealSense SDK Background Segmentation Feature",
+		"url": "http://www.codeproject.com/Articles/1042486/Intel-RealSense-SDK-Background-Segmentation-Featur",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "voZPhaH85116ATxkSKcOZ4x4LqzJyDxKnJF9VB9mIG3522IGDdGEqVajS116eCjZeRTbTwHSKh2G8aIk4wm7OGzGSg117117",
+		"item_date": "2015-10-22 11:12:44",
+		"title": "How The Wrong SDK Can Get You Booted From The App Store",
+		"url": "http://readwrite.com/2015/10/19/apple-wrong-sdk",
+		"domain": "readwrite.com",
+		"image": ""
 	},
 	{
 		"curated_id": "FwYGBdt8HLvrzd4lwxWQ6123Oh7qfPoBzoxHD123nAazIfEorKXyFPF7vguVEl7oV0bGJq1F50qpCyDRlbH74PEoJQ117117",
@@ -488,419 +1008,1387 @@
 		"image": ""
 	},
 	{
-		"curated_id": "eq3hJYR0fg9HgIhZvAJwudrOw8Kkzw2RiwbRET0ca26xbN7VzlrMiLYglABEyj4fHIWILjDS7wDzbe123116ZsixlQ117117",
-		"item_date": "2015-09-11 00:00:00",
-		"title": "Visual Studio Design Patterns addinextension",
-		"url": "http://www.codeproject.com/Articles/767200/Visual-Studio-Design-Patterns-add-in-extension",
-		"domain": "www.codeproject.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comarticles767200visual-studio-design-patterns-add-in-extension.png"
+		"curated_id": "7kvueuSjxBh2Z6c7jLhIhHorMDtbvwWtwvgnxa3G2yGnVewVR6VsMXH116Pa1BMGo8s1FsHAN9p41169cMiGdoEAPA117117",
+		"item_date": "2015-10-22 00:00:00",
+		"title": "Urban Airship July Release Notes Part II Amazon SDK now available",
+		"url": "https://www.urbanairship.com/blog/urban-airship-july-release-notes-part-ii-amazon-sdk-now-available",
+		"domain": "www.urbanairship.com",
+		"image": ""
 	},
 	{
-		"curated_id": "lI6WtDGiuady31166aIA116y123116YOHLG6iB116B81236l72RhpKlV3Rr1166kwfaCfD2123JLZwBls2fGZWif6kkWZMrxWHjZxw117117",
-		"item_date": "2015-08-31 00:00:00",
-		"title": "pahodev TLSMQTTsecure is now enabled on Eclipse IoT sandbox",
-		"url": "http://dev.eclipse.org/mhonarc/lists/paho-dev/msg02900.html",
-		"domain": "dev.eclipse.org",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/dev-eclipse-orgmhonarclistspaho-devmsg02900-html.png"
+		"curated_id": "7Maos39P4CbIC2IUPdmY44faSWqPtR116PpAecPn116AKO7tCVViV9pUWnuCaMzx573PFwAyuImLE8un2duJ2rT1zQ117117",
+		"item_date": "2015-10-20 00:00:00",
+		"title": "Announcing the Mapbox Android SDK",
+		"url": "https://www.mapbox.com/blog/mapbox-mobile-android/",
+		"domain": "www.mapbox.com",
+		"image": ""
 	},
 	{
-		"curated_id": "Kxqkzv0Bc7QuyXqEikDSdbV9164XF123ALVFDWynFn7HtU7Cswo5OytvsoxtSE8dFYtDMws9cT9Lh5Kf83YWiStw117117",
+		"curated_id": "Bwm0Krcxrb0BMK9Z6PezrU116tFtzo1gmScx71iYo0Bh11699IG55ZS116B92GBl8jrul2cVE123FvK9K0CVSg1239zP51Fw117117",
+		"item_date": "2015-10-21 00:00:00",
+		"title": "What Developers Should Know About QuickBooks Desktop 2016 and the SDK",
+		"url": "https://developer.intuit.com/hub/blog/2015/10/21/what-developers-should-know-about-quickbooks-desktop-2016-and-the-sdk",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aYOztZAsGqnU90ei1rF9jg4123yjvgOD6123b1zbskTsxygUlF87fEnB20n6hFfQWaDEhS3gYwNKMm8f1c1b4dquYw117117",
+		"item_date": "2015-10-21 00:00:00",
+		"title": "Did Twitter Just Set Fabric on Course to be the iTunes of Mobile SDKs",
+		"url": "http://www.programmableweb.com/news/did-twitter-just-set-fabric-course-to-be-itunes-mobile-sdks/analysis/2015/10/21",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "M1VBbGHRZlfR116NVG2t9ZzhpUf116116q2pRB123xTd7ZKDzCp2dPY23hwJaVdif123TjeASxkpWknl8GirP2R4UQRrrIJw117117",
+		"item_date": "2015-10-22 00:00:00",
+		"title": "Announcing Heroku  Parse Flexible Platform Meets Featurerich SDKs",
+		"url": "http://blog.heroku.com/archives/2015/10/22/heroku-plus-parse",
+		"domain": "blog.heroku.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dLpmhFgdE123bpmKllgSMjI123nmSkZfQP5DYP27Sa0spcrs90v123qvY1KwyzzJzxI4OC56MFvLNk0fznxsz7RH3ibw117117",
+		"item_date": "2015-10-21 00:00:00",
+		"title": "Twitter just added nine new SDKs to Fabric",
+		"url": "http://thenextweb.com/twitter/2015/10/21/twitter-just-added-nine-new-sdks-to-fabric/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aL6F2P4ichiMtYCfKOE3Xd642OTin4gdxMG2emyNg2h123El9lC1Fc0n7viqFwqUAn4I123116o7LgRH1C7FdpUUt2Dw117117",
+		"item_date": "2015-09-24 00:00:00",
+		"title": "Google Play Services 81 SDK ships with new app invites permissions Player Stats API",
+		"url": "http://venturebeat.com/2015/09/24/google-play-services-8-1-sdk-ships-with-new-app-invites-permissions-player-stats-api/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WDNhuz66DS70KTnagPSm4LvkXVhqMguThSNkqdClTX65944YOhFgaoAvgC0X0jdTveEGbDWxurvoQD123ciUi85A117117",
+		"item_date": "2015-09-09 00:00:00",
+		"title": "Announcement Brightcove SDK for Android Version Support",
+		"url": "http://support.brightcove.com/en/video-cloud/docs/announcement-brightcove-sdk-android-version-support",
+		"domain": "support.brightcove.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/support-brightcove-comenvideo-clouddocsannouncement-brightcove-sdk-android-version-support.png"
+	},
+	{
+		"curated_id": "KsuhIOooA8ZVMAmah4MY0dpWssouIsSommD1166jdqpTtIdwCXcPGqbu99PWO1123s5EqTY75MzMxK34dkUiJRDtlg117117",
+		"item_date": "2015-09-03 18:40:05",
+		"title": "Sr Product Manager  AWS Mobile job at Amazon Web Services Seattle WA",
+		"url": "http://www.reqcloud.com/jobs/652529/",
+		"domain": "www.reqcloud.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-reqcloud-comjobs652529.png"
+	},
+	{
+		"curated_id": "j812336KllZUKetVXXgX97OmAn532p6UEr116VHY3DGV39fqvPIAfZVMYki116dlvCCKGi3WbjUD7iRieNeu3blbqPgg117117",
+		"item_date": "2015-09-03 18:40:05",
+		"title": "Sr Product Manager  AWS Mobile job at Amazon Web Services Seattle WA",
+		"url": "http://www.reqcloud.com/jobs/652529/",
+		"domain": "www.reqcloud.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-reqcloud-comjobs652529.png"
+	},
+	{
+		"curated_id": "7zLlg69Lm1XFmnSj85aCWb8WfosdU1x116EE9WH123kvzkewJ9xIzNlNjPAwlnU6pGQA5GV550jhVBo7kGQ8Cwe1PA117117",
+		"item_date": "2015-09-03 00:00:00",
+		"title": "Facebook launches Parse IoT SDKs for Atmel Broadcom Intel and TI hardware",
+		"url": "http://venturebeat.com/2015/09/03/facebook-launches-parse-iot-sdks-for-atmel-broadcom-intel-and-ti-hardware/",
+		"domain": "venturebeat.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150903facebook-launches-parse-iot-sdks-for-atmel-broadcom-intel-and-ti-hardware.png"
+	},
+	{
+		"curated_id": "sHTVB2noLyOn3h6vACI61Vb3TbjCFjjAvglgL2GsRT3XiL116x123v2NTTpXnVrpdR920XD116rQOCPSrPL116Etfl6cuQ117117",
+		"item_date": "2015-09-02 00:00:00",
+		"title": "Amazon launches AWS C SDK designed for game developers",
+		"url": "http://venturebeat.com/2015/09/02/amazon-launches-aws-c-sdk-designed-for-game-developers/",
+		"domain": "venturebeat.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150902amazon-launches-aws-c-sdk-designed-for-game-developers.png"
+	},
+	{
+		"curated_id": "wnews2qyhdHsH1162qE6bUfGcCv9P3KcWmjTIwGIX4G6hbD3ZZh10IvqTRxAKLh6UCMXiD0fS2gZN5oaKvlu7IWA117117",
+		"item_date": "2015-09-01 00:00:00",
+		"title": "Azure Resource Manager Preview SDKs",
+		"url": "https://azure.microsoft.com/en-us/blog/azure-resource-manager-preview-sdks/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comen-usblogazure-resource-manager-preview-sdks.png"
+	},
+	{
+		"curated_id": "cIddkCrH6lmTPDxWOKgt8X9nPBUjvBrKHYp7cLtDpVcYqZld0FMInWtu44smiigKBy5xw1165gYxWYbCNilyY5vA117117",
+		"item_date": "2015-08-25 00:00:00",
+		"title": "Azure Media Services Java SDK adds support for Content Protection feature",
+		"url": "https://azure.microsoft.com/en-us/blog/azure-media-services-java-sdk-gets-a-major-update/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comen-usblogazure-media-services-java-sdk-gets-a-major-update.png"
+	},
+	{
+		"curated_id": "jhtfbu9Uy8e5yuAFyasavNfayCUg1231j83Zl8yP3QIGPiHaWcf8JUGFkrT116G5QXzwmCX1QUaVfuuMaBs116rrUJqg117117",
 		"item_date": "2015-08-26 00:00:00",
-		"title": "Visual Studio Online Extensibility and Marketplace",
-		"url": "https://blogs.msdn.microsoft.com/visualstudioalm/2015/08/26/visual-studio-online-extensibility-and-marketplace/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioalmarchive20150826visual-studio-online-extensibility-and-marketplace-aspx.png"
+		"title": "Swagger 20 Extension for Code Generation Settings",
+		"url": "https://drktech.com/2015/08/26/swagger-2-0-extension-for-code-generation-settings/",
+		"domain": "drktech.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/dineshramitc-wordpress-com20150826swagger-2-0-extension-for-code-generation-settings.png"
 	},
 	{
-		"curated_id": "hMoCBUfumGnRGhw116NC0HdqRDantQhWY1163lMCmLz0Ca4Mitgm3uUsVwYOxVds2NcmyC7q2116vggKOMQQLkEANE9Q117117",
+		"curated_id": "Nw7ZOso06eejm8E4nXXZQgj123HPta123P7pz6oAUNPvE123wbivccJyAQ9rdXIB3IJp00wCQe9UN116TmiPocsRjof30g117117",
+		"item_date": "2015-08-27 00:00:00",
+		"title": "Announcing the Azure SDK 271 for NET",
+		"url": "https://azure.microsoft.com/en-us/blog/announcing-the-azure-sdk-2-7-1-for-net/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comen-usblogannouncing-the-azure-sdk-2-7-1-for-net.png"
+	},
+	{
+		"curated_id": "LaDt7pJPLf123YZphcFIXXjFYRaGWUi18gXxaXK116iVQSaUcs123kHymopimzk9WYi84XZ123xUMPpIZxJuY2UAA81162XA117117",
+		"item_date": "2015-08-24 00:00:00",
+		"title": "NET SDK v23 for QuickBooks Now Available",
+		"url": "https://developer.intuit.com/blog/2015/08/24/net-sdk-v2-3-for-quickbooks-now-available",
+		"domain": "developer.intuit.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-intuit-comblog20150824net-sdk-v2-3-for-quickbooks-now-available.png"
+	},
+	{
+		"curated_id": "jWbXod2ZROIz04rYSU3gv116z116XUz1cELyZ8j2Np7qhpyOMhxUaBCJ3u2XrWT2g116UsyPLdjA2xEXZ35dUYIVa116Xw117117",
+		"item_date": "2015-08-24 00:00:00",
+		"title": "Parse open sources its SDKs",
+		"url": "http://www.programmableweb.com/news/parse-open-sources-its-sdks/2015/08/24",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsparse-open-sources-its-sdks20150824.png"
+	},
+	{
+		"curated_id": "sbOaiMOPPUpsnchstqKjdz5DvCNNcps9xqp2QHVHaXBVErCkKzST4eNIfflq1gbWAebCejW1OM116F8t116NjcFq2w117117",
+		"item_date": "2015-08-19 00:00:00",
+		"title": "New Swift samples for the Google Mobile Ads SDK",
+		"url": "http://googleadsdeveloper.blogspot.com/2015/08/new-swift-samples-for-google-mobile-ads.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/googleadsdeveloper-blogspot-com201508new-swift-samples-for-google-mobile-ads-html.png"
+	},
+	{
+		"curated_id": "v8OJR6P6MbhIkOmbbJJu4PdUBp52BGZExEvHDuXW12303XKwsRxvLhlK9tumozgFKb6p123xJun8FTGp116WomzBwXMQ117117",
+		"item_date": "2015-08-19 00:00:00",
+		"title": "New Facebook SDK Prepares Devs for iOS 9",
+		"url": "http://www.programmableweb.com/news/new-facebook-sdk-prepares-devs-ios-9/2015/08/19",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsnew-facebook-sdk-prepares-devs-ios-920150819.png"
+	},
+	{
+		"curated_id": "FYFJiN0gz8350EHpANTkkBjphcaO7YPzi0SEldHHZxVkQe1h2yIjO7yXFm123jQzcU1231sLTLoSqAgDRyOVoRsAng117117",
+		"item_date": "2015-08-16 00:00:00",
+		"title": "Facebooks Parse Opensources its SDK for Android and iOS",
+		"url": "http://www.infoq.com/news/2015/08/parse-open-sources-sdk",
+		"domain": "www.infoq.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201508parse-open-sources-sdk.png"
+	},
+	{
+		"curated_id": "2IZoq7OnWde116h62O0k335AGwouO91236zvhXlQVjAjEtPdpjA89SVANBINqYsjH73PT1YJGdBAg3OCO41Ukpg4ig117117",
+		"item_date": "2015-08-14 00:00:00",
+		"title": "Digium Adds Mobile SDKs for Respoke RealTime Communications Cloud Service",
+		"url": "http://www.programmableweb.com/news/digium-adds-mobile-sdks-respoke-real-time-communications-cloud-service/2015/08/14",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsdigium-adds-mobile-sdks-respoke-real-time-communications-cloud-service20150814.png"
+	},
+	{
+		"curated_id": "crWK1mR0123l1162Pof123hMKmkHZg5jvd3GJqt6gc4LKAFen0bpwD9zPeau4cXNEQRKk4116zoHB9LIIn1ogWI3ALzmqQ117117",
+		"item_date": "2015-08-12 00:00:00",
+		"title": "Releasing the Box Preview SDK for iOS",
+		"url": "https://www.box.com/blog/releasing-box-preview-sdk-ios/",
+		"domain": "www.box.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-box-comblogreleasing-box-preview-sdk-ios.png"
+	},
+	{
+		"curated_id": "oWlSgPz1bw2uyyvfSFCo6E16u116T9t123vPNtmfDmDKlnsgYlmuu5caiars6zaZEnQ3DMTfU116i7oXhQPjd5EapqfA117117",
 		"item_date": "2015-08-13 00:00:00",
-		"title": "Eclipse Che and Codenvy on Docker",
-		"url": "http://blog.codenvy.com/eclipse-che-codenvy-docker/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comeclipse-che-codenvy-docker.png"
+		"title": "Facebooks Parse releases SDKs for iOS Android and Mac as open source projects",
+		"url": "http://thenextweb.com/dd/2015/08/13/facebooks-parse-releases-sdks-for-ios-android-and-mac-as-open-source-projects/",
+		"domain": "thenextweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/thenextweb-comdd20150813facebooks-parse-releases-sdks-for-ios-android-and-mac-as-open-source-projects.png"
 	},
 	{
-		"curated_id": "AruXIqJZtT7144Jzer1dQkkSIJDzVhCGolOKn0123578sNmI123EJSbK4iuFyveH3BvF19681h4ZwSUPE7t0nsvDcw117117",
-		"item_date": "2015-07-10 00:00:00",
-		"title": "Seconds to Bliss Announcing a new Dashboard Beta",
-		"url": "http://blog.codenvy.com/seconds-bliss-announcing-new-dashboard-beta/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comseconds-bliss-announcing-new-dashboard-beta.png"
+		"curated_id": "CAlcAiY8nSDKQTp1UK1W0tm2ICVgtXUEibPyxAcLlK8za1R3Z5DcmCgp5sJbvD4Fb1DlrRGw7eAbixuHdDp8VA117117",
+		"item_date": "2015-08-13 13:05:51",
+		"title": "Open Sourcing Our SDKs",
+		"url": "http://blog.parse.com/announcements/open-sourcing-our-sdks/",
+		"domain": "blog.parse.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-parse-comannouncementsopen-sourcing-our-sdks.png"
 	},
 	{
-		"curated_id": "2hg2B5fXbLADW9FR123MI7nVW4123p2SqFyx9NXqVrfIvuNjfNdNjSkdP1231235zOyge5VzgNkoJwpjbI1Ed9vffgreoQ117117",
-		"item_date": "2015-07-06 00:00:00",
-		"title": "Start Automation Runbooks in Response to Events in Visual Studio Online",
-		"url": "https://azure.microsoft.com/blog/2015/07/06/start-automation-runbooks-in-response-to-events-in-visual-studio-online/",
-		"domain": "azure.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20150706start-automation-runbooks-in-response-to-events-in-visual-studio-online.png"
+		"curated_id": "ODrnhA116l8qJf7J7ypREs6xjc41231233PevZrF7Ka6ZBNhg4AMSTseywXXKbxSDfIx3Un6Ta8TTdYMjSK123eg9RuoCQ117117",
+		"item_date": "2015-07-09 00:00:00",
+		"title": "Amazon Fling SDK brings iOS and Android media casting to Fire TV",
+		"url": "http://thenextweb.com/apps/2015/07/09/amazon-fling-sdk-brings-ios-and-android-media-casting-to-fire-tv/",
+		"domain": "thenextweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/thenextweb-comapps20150709amazon-fling-sdk-brings-ios-and-android-media-casting-to-fire-tv.png"
 	},
 	{
-		"curated_id": "IL9XdRn2IRwISf3qjQuIgbFm1v8ypNMNvtHmHpU31GuN116Oqz4SfMwwdJPyC123j6zmZT3R045A123eQKSrDM3CN5Fw117117",
-		"item_date": "2015-07-06 00:00:00",
-		"title": "Share Your Open Source Extension on the Visual Studio Gallery",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/07/06/share-your-open-source-extension-on-the-visual-studio-gallery.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150706share-your-open-source-extension-on-the-visual-studio-gallery-aspx.png"
+		"curated_id": "BTbWzkOaDLiEsJZekQalaFBy8RnFdZJtA0KPUZCjn07QPMMa4WqeuPgFpmq9ZHz7hS7XVphDnYwFRydPrXhlnA117117",
+		"item_date": "2015-07-09 00:00:00",
+		"title": "Brightcove Player SDK for Android Overview",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/getting-started/overview.html",
+		"domain": "docs.brightcove.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/docs-brightcove-comenvideo-cloudmobile-sdksbrightcove-player-sdk-for-androidgetting-startedoverview-html.png"
 	},
 	{
-		"curated_id": "MSrION7iToyqoWeHKtpiKuTpLyQ0s6XyEQg5hh9txByU7eCcVyQz2sCU116bOkkfN6amznMmLQeRQjq24xSil1VA117117",
-		"item_date": "2015-06-27 20:04:18",
-		"title": "APIsjson Driven API Dictionaries For Use In Atom IDE Autocomplete Packages ",
-		"url": "http://apievangelist.com/2015/06/27/apisjson-driven-api-dictionaries-for-use-in-atom-ide-autocomplete-packages/",
-		"domain": "apievangelist.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150627apisjson-driven-api-dictionaries-for-use-in-atom-ide-autocomplete-packages.png"
+		"curated_id": "6koyT8pjdWGjKLU3AgE7Uxvc9q47d1qiCj48NdbMufbG9XOzcHDaBGbIGo116DbJ74rX8hJ1aYIKrb2bobTK1230zA117117",
+		"item_date": "2015-07-09 00:00:00",
+		"title": "Build Engaging Second Screen Experiences for Amazon Fire TV with the New Amazon Fling SDK",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx2FC32SLO3WJEW/Build-Engaging-Second-Screen-Experiences-for-Amazon-Fire-TV-with-the-New-Amazon",
+		"domain": "developer.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-amazon-composttx2fc32slo3wjewbuild-engaging-second-screen-experiences-for-amazon-fire-tv-with-the-new-amazon.png"
 	},
 	{
-		"curated_id": "CpAaL116l6YkumUNWOoUG6jQRvEJ0Cjr4FVpHeCGcJ4Sys8FmcnB3ug1IZRgzccHtkf116M1xfJXHXYLoVgNIJtf5Q117117",
-		"item_date": "2015-06-26 16:16:26",
-		"title": "autocompleteatomapicompletionsjson at master",
-		"url": "https://github.com/atom/autocomplete-atom-api/blob/master/completions.json",
-		"domain": "github.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/github-comatomautocomplete-atom-apiblobmastercompletions-json.png"
+		"curated_id": "AAxLCyPH7VY2P123oOgE3xjM123RfeSHXNaL123WkCOkXKkhXOjo6116Fs0nANzV7id13TccOd123I5i8vzDstmneN91Iobg117117",
+		"item_date": "2015-07-01 00:00:00",
+		"title": "Microsoft Updates Windows 10 SDK Ahead of General Release",
+		"url": "http://www.programmableweb.com/news/microsoft-updates-windows-10-sdk-ahead-general-release/2015/07/01",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmicrosoft-updates-windows-10-sdk-ahead-general-release20150701.png"
 	},
 	{
-		"curated_id": "RffrYVHfW4Sj9uTHMicINCk116eji6Z4RvK5116c0JkcIMEvF3123sGp6dnW35GyB3116bTCeqq4C8FUg5OVJz1kJN0xbQ117117",
-		"item_date": "2015-06-27 00:00:00",
-		"title": "Google Ends Support for Android Eclipse Tools",
-		"url": "https://www.infoq.com/news/2015/06/google-android-eclipse",
+		"curated_id": "BNuAKCuXMv3UCR1QCDpA4VqX2YdnbnaZt0XSh9FI6oIQPSYKWaI1zLKIjb7KBraMwSZDrNwFvMJIDnWHqip0123w117117",
+		"item_date": "2015-06-30 00:00:00",
+		"title": "Amazon Releases Cloud Drive SDK for Android and iOS",
+		"url": "http://www.infoq.com/news/2015/06/amazon-cloud-drive-sdk",
 		"domain": "www.infoq.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201506google-android-eclipse.png"
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201506amazon-cloud-drive-sdk.png"
 	},
 	{
-		"curated_id": "6TttPyQBqwh4123R3o6W6U9dW4AgUWtmdYzpb116BTj123QVP2EPFU22xIlrIpS1FLLzE5sjlhl0Sd0SSCZI4028a116pg117117",
+		"curated_id": "amIPpMNy7gUpu1D0frOxjKIieX14qHfHAjQf6wX0df116xcTHVbWi45V44P19Vf0DS9EZ6ETPy34pjePA0dg2StA117117",
+		"item_date": "2015-06-28 00:00:00",
+		"title": "TidyClub net wrapper is here",
+		"url": "http://tech.tidyclub.com/post/122712417341/tidyclub-net-wrapper-is-here#_=_",
+		"domain": "tech.tidyclub.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/tech-tidyclub-compost122712417341tidyclub-net-wrapper-is-here_=_.png"
+	},
+	{
+		"curated_id": "Bgw0EbhMY1TtD6mSFSiR3mo4P7116VNpHUtXo8uIG7l123xZZevUKKbgOZTzFwpvaz61EXENCtl6kFfMCvzEO116j7rQ117117",
 		"item_date": "2015-06-26 00:00:00",
-		"title": "Google plans to support its Android Studio IDE instead of Eclipse",
-		"url": "http://thenextweb.com/dd/2015/06/26/google-plans-to-support-its-android-studio-ide-instead-of-eclipse/",
-		"domain": "thenextweb.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/thenextweb-comdd20150626google-plans-to-support-its-android-studio-ide-instead-of-eclipse.png"
+		"title": "Add the Salesforce Mobile SDK to existing iOS projects",
+		"url": "https://developer.salesforce.com/blogs/developer-relations/2015/06/add-salesforce-mobile-sdk-existing-ios-projects.html",
+		"domain": "developer.salesforce.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-salesforce-comblogsdeveloper-relations201506add-salesforce-mobile-sdk-existing-ios-projects-html.png"
 	},
 	{
-		"curated_id": "116uAM116FzQRGGUYUFXxkO5XzeOrNHOC123oxQTzZCvJsdLmv39mG5tb123nZ0cm123eXjWYa7fn3QT116o3wOwBCTKa8u123tA117117",
-		"item_date": "2015-06-25 14:31:20",
-		"title": "An Introduction to Eclipse Che  YouTube",
-		"url": "https://www.youtube.com/watch",
-		"domain": "www.youtube.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-youtube-com.png"
-	},
-	{
-		"curated_id": "oJIQE71Ak86BKezs9MZjAEsfFeeXV5U1ZZW6MfEEub123hQtbaY7hFgkwvPt5raQ379o7xcSR5PLfoRI5bAupq7g117117",
-		"item_date": "2015-06-18 00:00:00",
-		"title": "Localhost is Killing Software Delivery",
-		"url": "http://blog.codenvy.com/localhost-is-killing-software-delivery/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comlocalhost-is-killing-software-delivery.png"
-	},
-	{
-		"curated_id": "ry1IVc49sbb1167ud7dj07i4IrUAwc4QbxLo5vPfAi1Ebj2blpQUU3hFmkpDGcpwYLaQV0h7IfFQ5T5116KS123Z2awA117117",
+		"curated_id": "rrODWna7Ufzb4f5JjlqyqvJ123jYLriq5hVpSvBCVvOplEdUoZPyQPTZ123rQGas48VGd0DzaCbhWvsdK6zrrGhrHw117117",
 		"item_date": "2015-06-25 00:00:00",
-		"title": "GitHub Releases Atom 10 Source Code Editor After Yearlong Beta",
-		"url": "http://www.programmableweb.com/news/github-releases-atom-1.0-source-code-editor-after-yearlong-beta/2015/06/25",
-		"domain": "www.programmableweb.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsgithub-releases-atom-1-0-source-code-editor-after-yearlong-beta20150625.png"
+		"title": "Announcing the 100 release of Application Insights Windows SDKs",
+		"url": "http://azure.microsoft.com/blog/2015/06/25/announcing-the-1-0-0-release-of-application-insights-windows-sdks/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20150625announcing-the-1-0-0-release-of-application-insights-windows-sdks.png"
 	},
 	{
-		"curated_id": "F5i3FQ123DBfVOJz9xIlRC6uDaGsr3pr116gsFI116XGnCKH116VtmTtC5VVFW4gde88LapQO4u3h123mumAX3vX1231ACG4gQ117117",
+		"curated_id": "IyjuKO116YXKDDOJ8K6gWLItvAK2fIdiPqTybh9c17cVftjptwhdiaBm21231236MIALIIXEQe4r5IEi3BhcBdPRG80Q117117",
+		"item_date": "2015-06-21 00:00:00",
+		"title": "APIMATIC Adds New API Validation Endpoint To Their API Client Code Generation API Stack",
+		"url": "http://apievangelist.com/2015/06/22/apimatic-adds-new-api-validation-endpoint-to-their-api-client-code-generation-api-stack/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150622apimatic-adds-new-api-validation-endpoint-to-their-api-client-code-generation-api-stack.png"
+	},
+	{
+		"curated_id": "osRIQ7Pr9B1237Uw9G901g5XsObk8W03Os37tXzRPDhPj4L2SYufyYH08FKZqUp47xc8qKwMDKzkaahvXLTt7WBQ117117",
+		"item_date": "2015-06-22 00:00:00",
+		"title": "Now Available  AWS SDK For Python Boto3",
+		"url": "https://aws.amazon.com/blogs/aws/now-available-aws-sdk-for-python-3-boto3/",
+		"domain": "aws.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawsnow-available-aws-sdk-for-python-3-boto3.png"
+	},
+	{
+		"curated_id": "M9r0BwdjJhrlZTR8ySCJOhThxU4aYuTbVPivoo4PhdY8umSWl5116dIHPmegfj5QWT2GIqp4U4116pHJ116Da116hSfx9Q117117",
+		"item_date": "2015-06-24 00:00:00",
+		"title": "Get up and running quickly with GroupDocsTotal for Cloud API using the latest SDK version for your programming language",
+		"url": "http://groupdocs.com/blog/get-up-and-running-quickly-with-groupdocs-total-for-cloud-api-using-the-latest-sdk-version-for-your-programming-language",
+		"domain": "groupdocs.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/groupdocs-comblogget-up-and-running-quickly-with-groupdocs-total-for-cloud-api-using-the-latest-sdk-version-for-your-programming-language.png"
+	},
+	{
+		"curated_id": "nLF3rhLpLQ123sGThYrUKWVYp123OVHjIAlUxmf4NQbm8lz85WApFUXUOX7116RHIiMmec123EgFJ3Dc8fJFQa8Nw3i8Cg117117",
 		"item_date": "2015-06-23 00:00:00",
-		"title": "Facebook opensources its Nuclide IDE based on GitHubs Atom text editor",
-		"url": "http://venturebeat.com/2015/06/23/facebook-open-sources-its-nuclide-ide-based-on-githubs-atom-text-editor/",
-		"domain": "venturebeat.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150623facebook-open-sources-its-nuclide-ide-based-on-githubs-atom-text-editor.png"
-	},
-	{
-		"curated_id": "u1iQZERAg5JyZfQvPG7d2x2HPm116Q5gJhYOVm9TftCjc6jmN123Kp116BR8lNosFoiuIohRsUTq5123A56V0dmav8123c0w117117",
-		"item_date": "2015-06-12 00:00:00",
-		"title": "Presentation An Introduction to Eclipse Che",
-		"url": "https://www.infoq.com/presentations/eclipse-che",
-		"domain": "www.infoq.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-compresentationseclipse-che.png"
-	},
-	{
-		"curated_id": "Dm123yUMFKWxhKWHo2hhYTZKdr116N9vZb0wunfWWNRcvDjhsF7whbyjhXUeVEn2oS05OQLcqJlOmF8116IeZLgYCVzw117117",
-		"item_date": "2015-06-12 00:00:00",
-		"title": "The Containerization of the Developer Workspace",
-		"url": "http://blog.codenvy.com/containerization-developer-workspace/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comcontainerization-developer-workspace.png"
-	},
-	{
-		"curated_id": "zBKmJfiKfVnEjKlnrjjSulWKEMjNWe9V2huz6Nk6VR9ijgAKdE3D6t4T644SNUfaP123cQ4pNXm5poxL4EQyO1jg117117",
-		"item_date": "2015-06-11 00:00:00",
-		"title": "Making JavaScript Editing Easier in Visual Studio 2015",
-		"url": "http://www.infoq.com/news/2015/06/javascript-VS2015",
-		"domain": "www.infoq.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-infoq-comnews201506javascript-vs2015.png"
-	},
-	{
-		"curated_id": "PjvDXN3k9ST736zXfVZTE1165rzr3Pc0OLhwWysGY2PhAkjBe85n1163116kFUQz5Fr2bSFBDbjSraTdJ123A7dnUcE2oA117117",
-		"item_date": "2015-06-01 00:00:00",
-		"title": "Are cloud vendors and ISVs adopting cloud IDEs",
-		"url": "http://blog.codenvy.com/cloud-vendors-isvs-adopting-cloud-ides/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comcloud-vendors-isvs-adopting-cloud-ides.png"
-	},
-	{
-		"curated_id": "81UlwpvUsX20AzcM9123CIjGElOo3VPPkRo58eTMht123RlLaXoLnwApQ6uWTBEO3ry2Ue5daBh4BEZCHDt1AN99UQ117117",
-		"item_date": "2015-06-04 00:00:00",
-		"title": "Customizing Codenvy OnPrem with Eclipse Che Extensions",
-		"url": "http://blog.codenvy.com/packaging-custom-extensions-eclipse-che/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-compackaging-custom-extensions-eclipse-che.png"
-	},
-	{
-		"curated_id": "B5V5X5jTZhuCd1233qt6583qwqpI4ONcIZa01CYwu4bymkXiWiL1234Coxh9kjQlAkS0jgc6Cv76WhHM3cNFXZOPfg117117",
-		"item_date": "2015-06-05 00:00:00",
-		"title": "Getting Started with Docker Tools in Eclipse",
-		"url": "https://www.voxxed.com/blog/2015/06/docker-tools-in-eclipse/",
-		"domain": "www.voxxed.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-voxxed-comblog201506docker-tools-in-eclipse.png"
-	},
-	{
-		"curated_id": "bi2Tqblnchq0pQ8uPLH4t00ur3OJHCrwZH9VS1238qsHna1sWnjDeTaYngNCheWIp8l7cXmhS8O9niuu1eemF3rQ117117",
-		"item_date": "2015-06-02 09:35:34",
-		"title": "Introducing the Project System Extensibility SDK Preview",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/06/02/introducing-the-project-system-extensibility-sdk-preview.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150602introducing-the-project-system-extensibility-sdk-preview-aspx.png"
-	},
-	{
-		"curated_id": "A8gqaVSANlGskHjfZYS7nb0p108pNguE123dwa3HG3gMV2F3GjbLbZ03flWyQqrBfpHLM9ii6CFu7TyLp3NuLnBQ117117",
-		"item_date": "2015-05-29 00:00:00",
-		"title": "Extending Visual Studio 2015",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/05/29/extending-visual-studio-2015.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150529extending-visual-studio-2015-aspx.png"
-	},
-	{
-		"curated_id": "IrBU1Q7su4YaCSVhIpbwPJ9t116Xj116Eu116dfMOPIBJPpfginV9mIC6QPmbpvd1233YFHoBLzuF9fw2XF52Ht116t1163NFA117117",
-		"item_date": "2015-05-27 00:00:00",
-		"title": "The Che Approach Automating Developer Workflow",
-		"url": "http://blog.codenvy.com/automating-developer-workflow/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comautomating-developer-workflow.png"
-	},
-	{
-		"curated_id": "dz51BHwaf0QIrOVf123MpjQUzSQk9MtY2Y0u123bL6bZzLliZ9OqiHXDV260123rXgVP53r1Q6H8Sm5sssocRZF4wXqw117117",
-		"item_date": "2015-05-21 00:00:00",
-		"title": "Deploy to Cloud Foundry with Codenvy",
-		"url": "http://blog.codenvy.com/run-cloud-foundry-codenvy/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comrun-cloud-foundry-codenvy.png"
-	},
-	{
-		"curated_id": "g8Z56rOmjTFQpMCCyVZqktol2BnJMusxiUt3pBx0j20hkWJ9ev7SlI7WIpt0LrH71169t8I8HykGMU8SIQqqMKZQ117117",
-		"item_date": "2015-05-12 00:00:00",
-		"title": "Salesforce Connected Services in Visual Studio",
-		"url": "https://developer.salesforce.com/blogs/developer-relations/2015/05/salesforce-connected-services-visual-studio.html",
-		"domain": "developer.salesforce.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-salesforce-comblogsdeveloper-relations201505salesforce-connected-services-visual-studio-html.png"
-	},
-	{
-		"curated_id": "xPYy412335eIhp2rMdzzcZ5pOD9Xbt58OzKeFdMNGz1231UPd2O32Ao1W20fs1hrYmAPM6hn3qZtGorqQW00OL7uog117117",
-		"item_date": "2015-05-11 00:00:00",
-		"title": "Visual Studio Code and Azure App Service  a perfect fit",
-		"url": "http://azure.microsoft.com/blog/2015/05/11/visual-studio-code-and-azure-app-service-a-perfect-fit/",
-		"domain": "azure.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20150511visual-studio-code-and-azure-app-service-a-perfect-fit.png"
-	},
-	{
-		"curated_id": "123vngSBilFM7EQOw82PxHjlqeeo6JMVVHiEDq140q6whJ3VahTgVMhZd1116rG116aoCYRPPrgxo123yWT9UYKwKxb123Og117117",
-		"item_date": "2015-05-05 00:00:00",
-		"title": "The Future of Cloud IDEs",
-		"url": "http://blog.codenvy.com/cloud-ides-future-development-202/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comcloud-ides-future-development-202.png"
-	},
-	{
-		"curated_id": "BdCLbzH8qpnbUd4A502116eZSr46123NryF7mvqlROePpUYhQOdF9O8eOHmrpaluX123KRyclEqEVyWO4ERQ3VJTW6Sg117117",
-		"item_date": "2015-05-04 00:00:00",
-		"title": "Introducing Visual Studios Network tool",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/05/04/introducing-visual-studio-s-network-tool.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150504introducing-visual-studio-s-network-tool-aspx.png"
-	},
-	{
-		"curated_id": "ETd5JBPTYUtTwMpqkwSv7jekpA7TLo116N116wCUUxxjGh0Clc1kaXl4hjXmBK428N8KOfOF9GRSeSNeGDQRxdNqHg117117",
-		"item_date": "2015-05-06 00:00:00",
-		"title": "GitHubs Atom text editor picks up 750K downloads in its first year with 300K monthly users",
-		"url": "http://venturebeat.com/2015/05/06/githubs-atom-text-editor-picks-up-750k-downloads-in-its-first-year-with-300k-monthly-users/",
-		"domain": "venturebeat.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150506githubs-atom-text-editor-picks-up-750k-downloads-in-its-first-year-with-300k-monthly-users.png"
-	},
-	{
-		"curated_id": "hC9OiypbrUZErchO3DnocMzQvG5dQvi123ViswnoIs9OX8iWDSe1235lmaCq2oW3BxAfiHFgu4dPFZrCDmOHH3pCaA117117",
-		"item_date": "2015-05-08 00:00:00",
-		"title": "GitHub Integration in Developer Assistant",
-		"url": "http://blogs.msdn.com/b/bingdevcenter/archive/2015/05/08/github-integration-in-developer-assistant.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combbingdevcenterarchive20150508github-integration-in-developer-assistant-aspx.png"
-	},
-	{
-		"curated_id": "JCRRrLMGzKwFLcrLutyQSsJIybSVx17U5WpmZD36QVDM6kYX3jXwSOMEeQN0dplO6yRYIiyuSFBexJE5YSpQNQ117117",
-		"item_date": "2015-04-30 00:00:00",
-		"title": "Microsofts crossplatform Visual Studio Code app is based on technology from Githubs Atom editor",
-		"url": "http://thenextweb.com/apps/2015/04/30/microsofts-cross-platform-visual-studio-code-app-is-based-on-githubs-atom-editor/",
-		"domain": "thenextweb.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/thenextweb-comapps20150430microsofts-cross-platform-visual-studio-code-app-is-based-on-githubs-atom-editor.png"
-	},
-	{
-		"curated_id": "n8Qm1rNy1lwBJPsV6KFlx6kAIsinSYuuQ123clBhhDx116PJjA7Xl2pwP6nig8EyJaqKsN0Isvcbaf123uyR5123EQ3lyQ117117",
-		"item_date": "2015-04-30 00:00:00",
-		"title": "Hello Minecraft modders Visual Studio 3s Minecraft",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/04/30/hello-minecraft-modders-visual-studio-loves-minecraft.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-comlogin-aspx.png"
-	},
-	{
-		"curated_id": "QndTAC9oxy9TuGpMWWoDwwULXwaIHzleJuVWb4YxoXjPo1236Qt6NYZli5K4VN9N3HEIb0cmU1LWM123lYkow9123Lnw117117",
-		"item_date": "2015-04-30 00:00:00",
-		"title": "Announcing the GitHub Extension for Visual Studio",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/04/30/announcing-the-github-extension-for-visual-studio.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150430announcing-the-github-extension-for-visual-studio-aspx.png"
-	},
-	{
-		"curated_id": "io37McibuWjJpYlJlLd123gNsSkhhwFoSp7HHDd8qZY6pBCXzRkA2NI4gQIl123Yi6LGYgN1Vlu7lkLWXbhzt7m1DA117117",
-		"item_date": "2015-04-30 00:00:00",
-		"title": "GitHub Enterprise comes to Microsoft Azure GitHub launches Visual Studio 2015 integrations",
-		"url": "http://venturebeat.com/2015/04/30/github-enterprise-comes-to-microsoft-azure-github-launches-visual-studio-2015-integrations/",
-		"domain": "venturebeat.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150430github-enterprise-comes-to-microsoft-azure-github-launches-visual-studio-2015-integrations.png"
-	},
-	{
-		"curated_id": "8Ac8ovB1tPuXbYdojfFRuS5efM116EiKI5hOGy9mpnewYIoCxsmtDLiH48HHS8ySXuwCPWROL4RjXVisX5191Pjw117117",
-		"item_date": "2015-04-27 11:15:51",
-		"title": "39 Release Notes PayasyouGo IDE",
-		"url": "http://blog.codenvy.com/3-9-pay-as-you-go-ide/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-com3-9-pay-as-you-go-ide.png"
-	},
-	{
-		"curated_id": "noY116CfxdoyXe41234uhINSRv116ghWtpyR0mFcRqUNz3qFKJ123nE116UueyRGdiLroAMAbMA123uRCEAIvhm6BNYCwsTKKw117117",
-		"item_date": "2015-04-24 00:00:00",
-		"title": "Nodejs Tools 10 on GitHub and VMs Available",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/04/24/node-js-tools-1-0-on-github-and-vms-available.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150424node-js-tools-1-0-on-github-and-vms-available-aspx.png"
-	},
-	{
-		"curated_id": "8WEIcI123X2m4sv973V1230SXvYoYjzDMinjnQwxAENgJrzgdx123FiDsgDRed9Hv3hY9RkxacbkWtm8NVMlxXGsUh3w117117",
-		"item_date": "2015-04-25 00:00:00",
-		"title": "Getting started with GIT Visual Studio and BitBucket",
-		"url": "http://www.codeproject.com/Tips/900204/Getting-started-with-GIT-Visual-Studio-and-BitBuck",
-		"domain": "www.codeproject.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comtips900204getting-started-with-git-visual-studio-and-bitbuck.png"
-	},
-	{
-		"curated_id": "Gh78o0PokmV123qM31OQIZB3DG9f1116bbLufyG8Dy0SYczAyWQj6e67cJ4r1HLMGtlN7A1937SvO7RtsbsyXPpOKQ117117",
-		"item_date": "2015-04-13 00:00:00",
-		"title": "Limitless Customization with Che",
-		"url": "http://blog.codenvy.com/limitless-customization-che/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comlimitless-customization-che.png"
-	},
-	{
-		"curated_id": "3MaHsbKsO3i1M116vcm81F00VH123IrbcZy1C73XKtOOg9TrOTHvytG4JBqGo0Q9ierGSJUh7YMqIJnPjNguUji7116Q117117",
-		"item_date": "2015-04-04 00:00:00",
-		"title": "How to Create Your Own Eclipse IDE Plugin",
-		"url": "http://www.codeproject.com/Tips/893547/How-to-Create-Your-Own-Eclipse-IDE-Plug-in",
-		"domain": "www.codeproject.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comtips893547how-to-create-your-own-eclipse-ide-plug-in.png"
-	},
-	{
-		"curated_id": "QzrMySLHrMZi6DwYot8Tcm9pdWkYehqHxNzN52BrYI9123J9fY5eXQzjwOD4dI6reQ6116ZZ11681Ig1UxJjTeZVOUXg117117",
-		"item_date": "2015-02-25 00:00:00",
-		"title": "ConnectLive  Debugging and Cloud Diagnostics Visual Studio Team QA",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2015/02/25/connectlive-debugging-and-cloud-diagnostics-visual-studio-team-qa/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150225connect-live-debugging-and-cloud-diagnostics-visual-studio-team-q-amp-a-aspx.png"
-	},
-	{
-		"curated_id": "dXWKjkS1r201x9zP116PpH1nwAIrgG6FbuAjyIyiiFOmunkTOCQFtS3S2AhER00QFQlBy123jTGou2OJ8caRBwRn123A117117",
-		"item_date": "2015-03-12 00:00:00",
-		"title": "A Preview of Angular 2 and TypeScript in Visual Studio",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150312a-preview-of-angular-2-and-typescript-in-visual-studio-aspx.png"
-	},
-	{
-		"curated_id": "BmZYwcGhhh6krUtZoFItCUoqdyJmNXEOfBgV116Kif0oCfx1jwkcIJq596YciUQQYTjhikq8nE5fkYgsvns5f123mw117117",
-		"item_date": "2015-03-16 00:00:00",
-		"title": "Python Tools for Visual Studio 22 Beta Released",
-		"url": "https://blogs.msdn.microsoft.com/visualstudio/2015/03/16/python-tools-for-visual-studio-2-2-beta-released/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150316python-tools-for-visual-studio-2-2-beta-released-aspx.png"
-	},
-	{
-		"curated_id": "jdRzaqWvE1zhYgmBrBTlC1cFXMpl5ufO1x1vBcAhjtRq8X1ZbWEsjiVZ017EoXXqOv92QIRDrb9VhmraV3123a2g117117",
-		"item_date": "2015-03-26 00:00:00",
-		"title": "Facebook announces Nuclide an opensource IDE based on GitHubs Atom text editor",
-		"url": "http://venturebeat.com/2015/03/26/facebook-announces-nuclide-an-open-source-ide-based-on-githubs-atom-text-editor/",
-		"domain": "venturebeat.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150326facebook-announces-nuclide-an-open-source-ide-based-on-githubs-atom-text-editor.png"
-	},
-	{
-		"curated_id": "ne2eiy6WqPzPWhPR6tVRj3YX8h1nRtlDGRFTA2Y23r5wk116YKMNg8bwynh4t0B6ZaGYei1CUwBSN6eO213BPppw117117",
-		"item_date": "2015-03-24 12:37:15",
-		"title": "Introducing the Azure API Apps Tools for Visual Studio 2013",
-		"url": "http://blogs.msdn.com/b/visualstudio/archive/2015/03/24/introducing-the-azure-api-apps-tools-for-visual-studio-2013.aspx",
-		"domain": "blogs.msdn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combvisualstudioarchive20150324introducing-the-azure-api-apps-tools-for-visual-studio-2013-aspx.png"
-	},
-	{
-		"curated_id": "FN85XqYS9CtnEtF20HgFFQ7T8MF6hxyXOb1123cnACz88T2OOQwNxGdLoTHZIyd7NDqPNZoStbZj8jUY3YWzQJbg117117",
-		"item_date": "2015-02-18 00:00:00",
-		"title": "How API Description Languages Enable API IDEs",
-		"url": "http://www.programmableweb.com/news/how-api-description-languages-enable-api-ides/sponsored-content/2015/02/18",
+		"title": "Review REST United Automatically Generates SDKs for REST APIs",
+		"url": "http://www.programmableweb.com/news/review-rest-united-automatically-generates-sdks-rest-apis/review/2015/06/23",
 		"domain": "www.programmableweb.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewshow-api-description-languages-enable-api-idessponsored-content20150218.png"
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsreview-rest-united-automatically-generates-sdks-rest-apisreview20150623.png"
 	},
 	{
-		"curated_id": "tFtjYFCXh9y7376XP2dfakj1Cu3cIemWHgu4Sn65Q123RjeoH8FCluO4VuY84tc6FHtKLu4cXjtGOtsEWe9Voonw117117",
-		"item_date": "2015-01-07 00:00:00",
-		"title": "Aspose Maven Dependencies Integrates with Eclipse IDE",
-		"url": "http://www.aspose.com/blogs/aspose-products/aspose-total-product-family/archive/2015/01/07/aspose-maven-dependencies-integrates-with-eclipse-ide.html",
-		"domain": "www.aspose.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-aspose-comblogsaspose-productsaspose-total-product-familyarchive20150107aspose-maven-dependencies-integrates-with-eclipse-ide-html.png"
+		"curated_id": "U221PeGixiNj1mhAcXnojsUzGYKCEEdtvY116116r2Jzu116e116ALoG0F3gwUkq9rDec1SO0xIGApPd7hInArmGWY97dg117117",
+		"item_date": "2015-06-16 13:12:52",
+		"title": "Add SDKsio URL For Companies And APIs That I Track On Via The API Stack ",
+		"url": "http://apievangelist.com/2015/06/16/add-sdksio-url-for-companies-and-apis-that-i-track-on-via-the-api-stack/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150616add-sdksio-url-for-companies-and-apis-that-i-track-on-via-the-api-stack.png"
 	},
 	{
-		"curated_id": "nQtGoPF116ryDoQ123nn7GgIupUO6jHQwwEYPDS2eY4rB8fN00R94MOhyVv24xMd7KY6GWaj116UYgMEsW123C5TWsYnug117117",
-		"item_date": "2014-10-27 00:00:00",
-		"title": "Introducing Eclipse Che and Eclipse Cloud Development",
-		"url": "http://blog.codenvy.com/introducing-eclipse-che-eclipse-cloud-development/",
-		"domain": "blog.codenvy.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-codenvy-comintroducing-eclipse-che-eclipse-cloud-development.png"
+		"curated_id": "SeMFnDIVpRAfF35FLNUBmZ0uW6rsk93KomDu9dBBvydOTIdr6116MJbXs3y4MHYNs2akWkJ9123f3tm192N6kEvYow117117",
+		"item_date": "2015-06-22 00:00:00",
+		"title": "CitySDK Helping Civic Hackers Deliver Local Solutions",
+		"url": "http://www.digitalgov.gov/2015/06/22/citysdk-helping-civic-hackers-deliver-local-solutions/",
+		"domain": "www.digitalgov.gov",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-digitalgov-gov20150622citysdk-helping-civic-hackers-deliver-local-solutions.png"
 	},
 	{
-		"curated_id": "123wdICjxeOTX3CxAA51235oIGSDt56BGxdsCTRYNLFtVyE0NMcDHMhElx0lxWSl5ygVWu2123bnGnUNbAkrlxbGAwdA117117",
-		"item_date": "2014-08-18 00:00:00",
-		"title": "Bing Developer Assistant for Visual Studio focuses on improving productivity within the experience",
-		"url": "https://blogs.msdn.microsoft.com/bingdevcenter/2014/08/18/bing-developer-assistant-for-visual-studio-focuses-on-improving-productivity-within-the-experience/",
-		"domain": "blogs.msdn.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-msdn-combbingdevcenterarchive20140818bing-developer-assistant-for-visual-studio-focuses-on-improving-productivity-within-the-experience-aspx.png"
+		"curated_id": "BhlegVIofANXyChY4r403p4FYhBt123Yq9m8m123v9ggA123cxoYAfme2bQnjlQJAVBDsnMZOM7MbUTgjsG6ptjCCR0Q117117",
+		"item_date": "2015-06-19 00:00:00",
+		"title": "DeviceAtlas API now supports Nodejs",
+		"url": "https://deviceatlas.com/blog/deviceatlas-api-node-js",
+		"domain": "deviceatlas.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/deviceatlas-comblogdeviceatlas-api-node-js.png"
 	},
 	{
-		"curated_id": "LFxi1vsNWL6H5bgOleCVzPMMo09v8H6i8123Xds4yAiQNrd1BXyEBv116cygmGsRRW4dllp8MAg9VV7eW7sjMugzuA117117",
-		"item_date": "2014-08-04 00:00:00",
-		"title": "Announcing release of Visual Studio 2013 Update 3 and Azure SDK 24",
-		"url": "https://azure.microsoft.com/en-us/blog/2014/08/04/announcing-release-of-visual-studio-2013-update-3-and-azure-sdk-2-4/",
-		"domain": "azure.microsoft.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20140804announcing-release-of-visual-studio-2013-update-3-and-azure-sdk-2-4.png"
+		"curated_id": "8i74fGOLknlQc2rsYOUvokDO0jMALKhcxU116123kijmGWQkPonNcakC296ESeo2DnOaMKvWwdezQzCXnIYttiubww117117",
+		"item_date": "2015-06-15 00:00:00",
+		"title": "Add SDKsio URL For Companies And APIs That I Track On Via The API Stack",
+		"url": "http://apievangelist.com/2015/06/16/add-sdksio-url-for-companies-and-apis-that-i-track-on-via-the-api-stack/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150616add-sdksio-url-for-companies-and-apis-that-i-track-on-via-the-api-stack.png"
 	},
 	{
-		"curated_id": "FqfdUdyrGM5a0xtCrrDR1gvy4cspzeYXJMy5fvCZXNqIVEaW40wij4GzkMCdCJlmqk3r12116M6lLVG10Dk23pYw117117",
-		"item_date": "2013-04-16 00:00:00",
-		"title": "ActionIO Becomes NitrousIO Raises 1M For Its Development Tools",
-		"url": "https://techcrunch.com/2013/04/16/nitrous-io-seed-funding/",
-		"domain": "techcrunch.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7556_techcrunch_com.png"
+		"curated_id": "6Cw123ypJN0xNhYmjhs9QdpHOZ1U123H82FVUkmbGdWbgKqBEO8doDlGv79sTiSebc6CTXMvxoRndxg2iuOif7MJ6A117117",
+		"item_date": "2015-06-16 00:00:00",
+		"title": "CitySDK Demo",
+		"url": "http://www.smartchicagocollaborative.org/citysdk-demo/",
+		"domain": "www.smartchicagocollaborative.org",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-smartchicagocollaborative-orgcitysdk-demo.png"
 	},
 	{
-		"curated_id": "UkSL3TcYa1gtuumG7v2KOf1T3f6Xrmm6HnEhqMfgwNdOYC6Yy4eBYz9vidBwhniNn123Q3709fXA0PzmUxzqFrSw117117",
-		"item_date": "2013-02-01 00:00:00",
-		"title": "New Salesforce Eclipse Plugin Available February 15th",
-		"url": "https://developer.salesforce.com/blogs/developer-relations/2013/02/new-eclipse-plugin-available-february-15th.html",
+		"curated_id": "HD7NFTTWptGUgOVv7T7EU123qVwBRsqxkLfZ3TuRGMc3f4SLVP94Qi6LGKskvzc5W2116Pc116mmb2ap9KRuWeEacchw117117",
+		"item_date": "2015-06-17 00:00:00",
+		"title": "Why There039s More To SDKs Than Meets The Eye",
+		"url": "http://www.programmableweb.com/news/why-theres-more-to-sdks-meets-eye/brief/2015/06/17",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewswhy-theres-more-to-sdks-meets-eyebrief20150617.png"
+	},
+	{
+		"curated_id": "Utpzbcqwf27BcwJSJUVAWTxwyAi7IBbX8CQtZak3VF00setCTnmO0PRwOZXqsihCU5P0irxPS123Cjywwf6VwpzQ117117",
+		"item_date": "2015-06-18 00:00:00",
+		"title": "MachineShop Enhances IoT Platform with Vertx for Java Virtual Machine",
+		"url": "http://www.programmableweb.com/news/machineshop-enhances-iot-platform-vert.x-java-virtual-machine/announcement/2015/06/18",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsmachineshop-enhances-iot-platform-vert-x-java-virtual-machineannouncement20150618.png"
+	},
+	{
+		"curated_id": "Z6m123yimPy3XJNLjT27244WvJIhKHXTbTvaZRx6BMFDNpN67ZKkFnsBnwqO116AvhIYxyDzLNmDWKrTOKafdM6oQQ117117",
+		"item_date": "2015-06-16 13:12:52",
+		"title": "Add SDKsio URL For Companies And APIs That I Track On Via The API Stack",
+		"url": "http://apievangelist.com/2015/06/16/add-sdksio-url-for-companies-and-apis-that-i-track-on-via-the-api-stack/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150616add-sdksio-url-for-companies-and-apis-that-i-track-on-via-the-api-stack.png"
+	},
+	{
+		"curated_id": "7YrZpzalzpFG7W9NlHhmFie1Ql4I0OayzDyiEz123LRqFSjr3NJVGuzLUX4Dyyykp5w1biTkjL4nvFXd116JxfU26A117117",
+		"item_date": "2015-06-17 00:00:00",
+		"title": "Amazon releases Cloud Drive SDKs for Android and iOS",
+		"url": "http://venturebeat.com/2015/06/17/amazon-releases-cloud-drive-sdks-for-android-and-ios/",
+		"domain": "venturebeat.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/venturebeat-com20150617amazon-releases-cloud-drive-sdks-for-android-and-ios.png"
+	},
+	{
+		"curated_id": "7MRB7mqDjf4pJtatW116DvBGeAItkdPlUfmWyQwJA116EO0iDFrWKovudpWEUE1yq2UYNhIVXHxdSojMnJJW3wq79A117117",
+		"item_date": "2015-06-15 00:00:00",
+		"title": "VIMOC Releases New SDKs for Smart City Sensor Measurements",
+		"url": "http://www.programmableweb.com/news/vimoc-releases-new-sdks-smart-city-sensor-measurements/2015/06/15",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsvimoc-releases-new-sdks-smart-city-sensor-measurements20150615.png"
+	},
+	{
+		"curated_id": "11638YoscC3CDx3oeRvsznvyVFEpE89zh2pK1oKdIiNIadyD7kodch62vSDE8tH116DOG123J9AuWmeqEFTGXzslV116fg117117",
+		"item_date": "2015-06-13 00:00:00",
+		"title": "A new SDK for VIMOCs Landscape Computing API",
+		"url": "http://vimoc.me/2015/06/13/landscape-computing-sdk/",
+		"domain": "vimoc.me",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/vimoc-me20150613landscape-computing-sdk.png"
+	},
+	{
+		"curated_id": "7KtnnUfDuJ116HKPYZDsoLHTAKsc1E8IYkoSq5iy10bYr3EhNuDERGIcAnzME0jdPcIPVjJtYmVT116LEJ123MwNh6LA117117",
+		"item_date": "2015-06-09 00:00:00",
+		"title": "Introducing Mobile SDK Trail for Trailhead",
+		"url": "https://developer.salesforce.com/blogs/engineering/2015/06/introducing-mobile-sdk-trail.html",
 		"domain": "developer.salesforce.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-salesforce-comblogsengineering201506introducing-mobile-sdk-trail-html.png"
+	},
+	{
+		"curated_id": "927RS5hNd9ZAeZb123826CudoQj9Lr7suhXtEiYnRk7123GDCJ1e116KlMihSy0lmQrCus0YMy9CoU116uMYDAFl1167PWew117117",
+		"item_date": "2015-06-08 00:00:00",
+		"title": "Announcing Carnival SDK 30",
+		"url": "http://insights.carnivalmobile.com/announcing-carnival-sdk-3-0/",
+		"domain": "insights.carnivalmobile.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/insights-carnivalmobile-comannouncing-carnival-sdk-3-0.png"
+	},
+	{
+		"curated_id": "q9nzykSSKgXK3c2hQfM7vip5vbEK1XIgeWamy9XT4HE14PQOhyhgR3ZvlxISrIrcQzi116116WqIgsmodvxYQPAXbg117117",
+		"item_date": "2015-06-08 00:00:00",
+		"title": "Amazon Announces AWS SDK for Go Developer Preview",
+		"url": "http://www.programmableweb.com/news/amazon-announces-aws-sdk-go-developer-preview/2015/06/08",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsamazon-announces-aws-sdk-go-developer-preview20150608.png"
+	},
+	{
+		"curated_id": "snpKQo4dGhulvCcwWun116v0YpZ4AZDZll6123116Zf99ZHjy123pmbGhP8U1TJrTIQbjNu43AQKjf2adgJ4sroitmD116GQ117117",
+		"item_date": "2015-06-02 17:40:05",
+		"title": "Sr Product Manager  AWS Mobile job at Amazon Web Services Seattle WA",
+		"url": "http://www.reqcloud.com/jobs/652529/",
+		"domain": "www.reqcloud.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-reqcloud-comjobs652529.png"
+	},
+	{
+		"curated_id": "yFpRjvqQ361l2dJ7W123q2052oktN116ZxdstYm123W123e8Nui4ITfA2K7xWoLdsAsRFjRHR0Y8yv5eCJ4UOE4c98pArw117117",
+		"item_date": "2015-06-06 22:24:15",
+		"title": "Adding APIMATIC SDKs To My Master Stack And Including In Each APIsjson ",
+		"url": "http://alpha.apievangelist.com/2015/06/06/adding-apimatic-sdks-to-my-master-stack-and-including-in-each-apisjson/",
+		"domain": "alpha.apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/alpha-apievangelist-com20150606adding-apimatic-sdks-to-my-master-stack-and-including-in-each-apisjson.png"
+	},
+	{
+		"curated_id": "HxBv9mk0ta116dB1232m8iwYvmmNXheg1zbPAmcEAwjaYQBBxSbIg19qdUO3123zCRY9DFJmP23kAHq2LUUMRUWvArHg117117",
+		"item_date": "2015-06-06 12:38:15",
+		"title": "Comparison of Automatic API Code Generation Tools For Swagger",
+		"url": "http://apievangelist.com/2015/06/06/comparison-of-automatic-api-code-generation-tools-for-swagger/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150606comparison-of-automatic-api-code-generation-tools-for-swagger.png"
+	},
+	{
+		"curated_id": "UVjPyFm77Q116051232RpGu3CTYzFVs39116p123Tq9q5yiiWNuW9cZsRMc1236Zk3dYizdJ4tiqVjqzP5DCTSICzZdd1169xQ117117",
+		"item_date": "2015-06-05 00:00:00",
+		"title": "Comparison of Automatic API Code Generation Tools For Swagger",
+		"url": "http://apievangelist.com/2015/06/06/comparison-of-automatic-api-code-generation-tools-for-swagger/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150606comparison-of-automatic-api-code-generation-tools-for-swagger.png"
+	},
+	{
+		"curated_id": "vkKKbkNzXipBhSc8Gkf6WoyHESxjPJnfLNBP5123II2PJ7QQ116pGFIgudLzcjn21AcLzQEo1OS0eMz123tKk28bLLnw117117",
+		"item_date": "2015-06-03 00:00:00",
+		"title": "Developer Preview of AWS SDK for Go is Now Available",
+		"url": "https://aws.amazon.com/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/",
+		"domain": "aws.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawsdeveloper-preview-of-aws-sdk-for-go-is-now-available.png"
+	},
+	{
+		"curated_id": "dj4musztF7tALQqHRm2UbIlidV11LdL3efCmgE2gJinVLL1236c2ZxsHB6XeUxHXDa4aC4116p2Nhej123LyZeW7116mmA117117",
+		"item_date": "2015-06-02 17:40:05",
+		"title": "Sr Product Manager  AWS Mobile job at Amazon Web Services Seattle WA",
+		"url": "http://www.reqcloud.com/jobs/652529/",
+		"domain": "www.reqcloud.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-reqcloud-comjobs652529.png"
+	},
+	{
+		"curated_id": "gbIWsnMWfwIiQ1ICPw4sDLDXC123W0116t123Q2EIxltJIROmB46DfquqyBguTS9mSYkTgh1HH0T5OW63ruw9YzHTUsA117117",
+		"item_date": "2015-05-19 00:00:00",
+		"title": "NET SDK for DreamFactory API",
+		"url": "http://blog.dreamfactory.com/.net-sdk-for-dreamfactory-is-now-available",
+		"domain": "blog.dreamfactory.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-dreamfactory-com-net-sdk-for-dreamfactory-is-now-available.png"
+	},
+	{
+		"curated_id": "Nv7HuLGBe3rlfJbn123Zn0md89g74uZMZ0rkkl0MWHiursboQw2UmVtMIpNKtWXciGmdTSobtuyVO123qyFrpgzcKA117117",
+		"item_date": "2015-05-20 00:00:00",
+		"title": "US Census Bureau Adds City SDK to Aid National Day of Civic Hacking",
+		"url": "http://www.programmableweb.com/news/us-census-bureau-adds-city-sdk-to-aid-national-day-civic-hacking/2015/05/20",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsus-census-bureau-adds-city-sdk-to-aid-national-day-civic-hacking20150520.png"
+	},
+	{
+		"curated_id": "agGWEe123a8d5ekJu9LtPS6bEX123djGG2EMe9TxPeqVaayxS363rPupwGUtAErfZufplJznC31238Y0Uh3CcXdnkxMQ117117",
+		"item_date": "2015-05-20 00:00:00",
+		"title": "New SDKs Code Samples  Docs  for Login and Pay with Amazon",
+		"url": "https://aws.amazon.com/blogs/aws/new-sdks-code-samples-docs-for-login-and-pay-with-amazon/",
+		"domain": "aws.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawsnew-sdks-code-samples-docs-for-login-and-pay-with-amazon.png"
+	},
+	{
+		"curated_id": "U61siqcAZ0nkeUrG123Az5v2b79jvDuQWGQFje8ltOC3C8XhA87mJxhg6gKYaAB9Wentiwk0BkV116GjD1NaBEyRrg117117",
+		"item_date": "2015-05-20 00:00:00",
+		"title": "Fabric Leading the SDK Market in Performance and Mobile Analytics",
+		"url": "https://blog.twitter.com/2015/fabric-leading-the-sdk-market-in-performance-and-mobile-analytics",
+		"domain": "blog.twitter.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-twitter-com2015fabric-leading-the-sdk-market-in-performance-and-mobile-analytics.png"
+	},
+	{
+		"curated_id": "dOUbtx116vVAEksS116Bo4mfNYr5ccnTt4DUGBa7Dpun95EvOJlt4gYNf5e123I5BEXLxDUZJ3PQeR7Y123116xqw123Rxd4GA117117",
+		"item_date": "2015-05-26 00:00:00",
+		"title": "Improving Developers Success with APIMatic SDKs for Mashery APIs",
+		"url": "http://www.mashery.com/blog/improving-developers-success-apimatic-sdks-mashery-apis",
+		"domain": "www.mashery.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-mashery-comblogimproving-developers-success-apimatic-sdks-mashery-apis.png"
+	},
+	{
+		"curated_id": "fyfW4L2cp2D116hVlp9hJagcY113LsBiBoTVw4VrlqUFGEAw12f5JDwVeI1166IamaHrU4ss6aqfSrg7MiXIUd7dPw117117",
+		"item_date": "2015-05-27 00:00:00",
+		"title": "Now Available  Version 3 of the AWS SDK for PHP",
+		"url": "https://aws.amazon.com/blogs/aws/now-available-version-3-of-the-aws-sdk-for-php/",
+		"domain": "aws.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawsnow-available-version-3-of-the-aws-sdk-for-php.png"
+	},
+	{
+		"curated_id": "shbX31RN8r6ApyWiMbX11611ouwCX3Odcv83eoWbGViI61160OhWfEhgz1LJTURNcfm87U116zgBITwoB9c3123wX116dSlQ117117",
+		"item_date": "2015-05-28 00:00:00",
+		"title": "Evernote SDK for Android v20 and Introducing Ralf",
+		"url": "https://blog.evernote.com/tech/2015/05/28/android-sdk-v2/",
+		"domain": "blog.evernote.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-evernote-comtech20150528android-sdk-v2.png"
+	},
+	{
+		"curated_id": "Whov2Q0AjxSaJIL123116116wS3TB123SSNGVFfrIqulVd7UmFPuW123Jz123UiHdAAnZMhp5Bn51Ja0ImAjX59cp6Lp5Gtb0w117117",
+		"item_date": "2015-05-28 00:00:00",
+		"title": "Evernote Releases v20 of Android SDK at Google IO",
+		"url": "http://www.programmableweb.com/news/evernote-releases-v2.0-android-sdk-google-io/2015/05/28",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsevernote-releases-v2-0-android-sdk-google-io20150528.png"
+	},
+	{
+		"curated_id": "9csoLYzV1aiHbMYKQ0W3fDVY6GCUbOXW3FpX36Kfw36737H9zEzsig6Eri3thRpXG9TB123VLmA761ujgY1F3CzA117117",
+		"item_date": "2015-05-25 09:52:03",
+		"title": "Speak the Language Using APIMatic in Ready API to Generate SDKs for any Developer",
+		"url": "http://www2.smartbear.com/outbound-ready-api-apimatic-registration-lp.html",
+		"domain": "www2.smartbear.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www2-smartbear-comoutbound-ready-api-apimatic-registration-lp-html.png"
+	},
+	{
+		"curated_id": "csKc3116IDKgjIpbF4Hty55ORVrwbAg2W2Wmt12386TXD847G3q5CztbZzB1233PE59E0qphtmazPS7ZFOx21IyE5BlA117117",
+		"item_date": "2015-05-26 10:33:05",
+		"title": "Sell Products in Your Mobile App Using Shopifys Mobile Buy SDK and Apple Pay",
+		"url": "https://www.shopify.com/blog/26378820-sell-products-in-your-mobile-app-using-shopify-s-mobile-buy-sdk-and-apple-pay",
+		"domain": "www.shopify.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-shopify-comblog26378820-sell-products-in-your-mobile-app-using-shopify-s-mobile-buy-sdk-and-apple-pay.png"
+	},
+	{
+		"curated_id": "NEKqLvk9FVvFvzrOHPmXA6HvXdfwdYskMlKiUgk1mfYoKZfRq0SkUOTm1rNCd9WZcp3PEUspZwKhgElJF3116hzg117117",
+		"item_date": "2015-05-22 00:00:00",
+		"title": "Amazon Releases SDKs for Login and Pay with Amazon",
+		"url": "http://www.programmableweb.com/news/amazon-releases-sdks-login-and-pay-amazon/2015/05/22",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsamazon-releases-sdks-login-and-pay-amazon20150522.png"
+	},
+	{
+		"curated_id": "brMrrCRtwpr7jIQabVfxWvdbyR2S123KwqVWMQywOLDnvooJv5z38yzBLsROo2YpxDoMbUOaPxcrT8evPbb123l0sQ117117",
+		"item_date": "2015-05-19 08:09:59",
+		"title": "Mobile SDK",
+		"url": "https://info.recurly.com/mobile-sdk",
+		"domain": "info.recurly.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/info-recurly-commobile-sdk.png"
+	},
+	{
+		"curated_id": "RlIw123sOwpEaDYQSlOdc72WsnZpKcn6HAO055tPXz116hOQLw116IECPyEQGHVO0G116KH7rKJE0U2Invh072I5H116N90A117117",
+		"item_date": "2015-05-14 00:00:00",
+		"title": "SmartBear Announces New APIMATIC Plugin for Ready API",
+		"url": "http://www.programmableweb.com/news/smartbear-announces-new-apimatic-plugin-ready-api/press-release/2015/05/14",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewssmartbear-announces-new-apimatic-plugin-ready-apipress-release20150514.png"
+	},
+	{
+		"curated_id": "HqOXPIbarMrS9PbfWbBCt0rbZz1CWTeTYY59aHzbKkUGsEMUpbResmnsNH9wRw2f3KumIq5zsq9I9IyEN31sAA117117",
+		"item_date": "2015-05-14 10:14:36",
+		"title": "Generate HighQuality SDKs Easily with New APIMATIC Plugin for SmartBears Ready API",
+		"url": "http://www.businesswire.com/news/home/20150514005059/en/Generate-High-Quality-SDKs-Easily-APIMATIC-Plugin-SmartBear#.VVTXgPlVhBc",
+		"domain": "www.businesswire.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-businesswire-comnewshome20150514005059engenerate-high-quality-sdks-easily-apimatic-plugin-smartbear.png"
+	},
+	{
+		"curated_id": "wlvwP4KOaGonqoWXdK563c123RQSy8v0r6F116gjmZhqKEaaeSBa4M123d7jwq0UYN1A4HsumMk66QP48qNo5UN3G7EA117117",
+		"item_date": "2015-05-05 00:00:00",
+		"title": "Box Announces New Mobile SDKs for Enterprise",
+		"url": "http://www.programmableweb.com/news/box-announces-new-mobile-sdks-enterprise/2015/05/05",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsbox-announces-new-mobile-sdks-enterprise20150505.png"
+	},
+	{
+		"curated_id": "izXq4k89ONw35LWOI93coh123HRhc93xx123UKY9PmoxDGuQfM116mNhrLSgBDbcVMT12kRVJz123J4ciqQaE6SqivigbA117117",
+		"item_date": "2015-05-04 11:09:52",
+		"title": "Unpacking OpenSource REST Clients",
+		"url": "https://blog.srcclr.com/rest-clients/",
+		"domain": "blog.srcclr.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-srcclr-comrest-clients.png"
+	},
+	{
+		"curated_id": "TfHpn6FhYUjECDBMl1A9OmmZI44WmCqem0Su4x3fP8twCPBVFsbnhTRPAsXN6sWoChUV33B5KlXEWtWWq71u1A117117",
+		"item_date": "2015-04-28 00:00:00",
+		"title": "Easy client SDK and server skeleton generation for your APIs",
+		"url": "http://restlet.com/blog/2015/04/28/easy-client-sdk-and-server-skeleton-generation-for-your-apis/",
+		"domain": "restlet.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/restlet-comblog20150428easy-client-sdk-and-server-skeleton-generation-for-your-apis.png"
+	},
+	{
+		"curated_id": "dDqH5i66MP3Svo0j4RuLtu2dmRCWaBga123fRt3LKKaPUVcmV1rf6aq11688kExFKlU0TnNM4Qq123YGBJCXm123tIx0Nw117117",
+		"item_date": "2015-04-30 00:00:00",
+		"title": "Salesforce Mobile SDK for Windows is ready for Microsoft Developers",
+		"url": "https://developer.salesforce.com/blogs/engineering/2015/04/salesforce-mobile-sdk-windows-ready-microsoft-developers.html",
+		"domain": "developer.salesforce.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-salesforce-comblogsengineering201504salesforce-mobile-sdk-windows-ready-microsoft-developers-html.png"
+	},
+	{
+		"curated_id": "OTwYf6r9kSyD97xiBWMduAGyu2oGdfPkW58cs9123op2LHMLp9vHsfiS384nf116Er3RAQ123o9BrMPCi116v123grFmVVFg117117",
+		"item_date": "2015-04-30 00:00:00",
+		"title": "IMA SDK for iOS Beta 13 Released",
+		"url": "http://googleadsdeveloper.blogspot.com/2015/04/ima-sdk-for-ios-beta-13-released.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/googleadsdeveloper-blogspot-com201504ima-sdk-for-ios-beta-13-released-html.png"
+	},
+	{
+		"curated_id": "rRz6A36A46BsP1l2yA123Z0M1165i2FJx1wo62it116PIrqXjmjEmbsqMKdNIaQ0hzhTi104zgvDJs8IQb116bi116OR123RFQ117117",
+		"item_date": "2015-03-31 00:00:00",
+		"title": "Announcing JW Player SDK for iOS",
+		"url": "https://www.jwplayer.com/blog/announcing-jw-player-sdk-ios/",
+		"domain": "www.jwplayer.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-jwplayer-comannouncing-jw-player-sdk-ios.png"
+	},
+	{
+		"curated_id": "uzuNpVSDW1EqE8XReJdxQ7KaNo71mGBltjL123XHkUvmq9mKBJodmAGfa123zp123r091h6nCf9ofr2JpP9gvDR354CA117117",
+		"item_date": "2015-04-22 00:00:00",
+		"title": "How to Automate Cloud Infrastructure Using a Ruby SDK",
+		"url": "https://blog.profitbricks.com/how-to-automate-cloud-infrastructure-using-a-ruby-sdk/",
+		"domain": "blog.profitbricks.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-profitbricks-comhow-to-automate-cloud-infrastructure-using-a-ruby-sdk.png"
+	},
+	{
+		"curated_id": "6cvJOjQbxwqlUE2SIqQl2DYhigd2ySv1ETLqr116bMnT5yhGyo5EPcs8p0R44EHaNiNsSAnyEznp116heYzV123JoP1A117117",
+		"item_date": "2015-04-23 00:00:00",
+		"title": "Google Cardboard Update Includes SDK Enhancements",
+		"url": "http://www.programmableweb.com/news/google-cardboard-update-includes-sdk-enhancements/2015/04/23",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsgoogle-cardboard-update-includes-sdk-enhancements20150423.png"
+	},
+	{
+		"curated_id": "grnQH3alyYkEDjwaRiMNNjN0KM123wIbWDRPVpLDsmpECfe9nU6mlfQFnub13hFbndfxOG6FRjNhadJB1237oBRN5g117117",
+		"item_date": "2015-04-24 00:00:00",
+		"title": "Brightcove Player SDK Architecture",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/architecture.html",
+		"domain": "docs.brightcove.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/docs-brightcove-comenvideo-cloudmobile-sdksarchitecture-html.png"
+	},
+	{
+		"curated_id": "xF85v116TAW0dWogCV1bd123FO7ZOztjA9zqY123123vYeMlxkN44mVxH2oi6pdaMLHDXdHFzPo4tA4UnKncv116T7P9GQkw117117",
+		"item_date": "2015-04-24 00:00:00",
+		"title": "Live Playback with the SDKs",
+		"url": "http://support.brightcove.com/en/video-cloud/docs/live-playback-sdks",
+		"domain": "support.brightcove.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/support-brightcove-comenvideo-clouddocslive-playback-sdks.png"
+	},
+	{
+		"curated_id": "orjqWtUPZpHnCuW1iXDTJWWfbWgn0maQHvxOe2116lbdec7k6OhNioeMn5TAR123hchY2SnvklXFytVW7DrG2u9vRA117117",
+		"item_date": "2015-04-24 00:00:00",
+		"title": "ProfitBricks Releases Ruby SDK for REST API",
+		"url": "http://www.programmableweb.com/news/profitbricks-releases-ruby-sdk-rest-api/press-release/2015/04/24",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsprofitbricks-releases-ruby-sdk-rest-apipress-release20150424.png"
+	},
+	{
+		"curated_id": "a2H9hkury211699tAPltgC8K0gWfcnoz123r3X4QlPHzTJJAkHjEDJPUa6lRkoIhJuTv116EWoHFftRIuVAtyN15123bZw117117",
+		"item_date": "2015-04-15 00:00:00",
+		"title": "Building Cloud Infrastructure Using the Python SDK",
+		"url": "https://blog.profitbricks.com/building-cloud-infrastructure-using-python-sdk/",
+		"domain": "blog.profitbricks.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-profitbricks-combuilding-cloud-infrastructure-using-python-sdk.png"
+	},
+	{
+		"curated_id": "OY02116lGAyUAvUpMUgAJSU6r5ECJ8rG123SRzhK21234ays8wo5J123CE5Gleg4gzu81xU6J8YziFhfRqiTrQ0qiU1Pqg117117",
+		"item_date": "2015-04-15 00:00:00",
+		"title": "DevOps Central Community Cloud APIs Cloud Libraries and SDKs",
+		"url": "https://blog.profitbricks.com/devops-cloud-apis-cloud-libraries/",
+		"domain": "blog.profitbricks.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-profitbricks-comdevops-cloud-apis-cloud-libraries.png"
+	},
+	{
+		"curated_id": "YKGN7LlNC9enUGzXtC2t2Ki6R2F6BgXF123g0NiYQXv2dnPsxCY6JaEFxZfRxxqqS4Lo1GeLMB116nCWWXLeSBXXBw117117",
+		"item_date": "2015-04-13 00:00:00",
+		"title": "Intel IoT Developer Kit v10 is here",
+		"url": "http://www.codeproject.com/Articles/895740/Intel-IoT-Developer-Kit-v-is-here",
+		"domain": "www.codeproject.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comarticles895740intel-iot-developer-kit-v-is-here.png"
+	},
+	{
+		"curated_id": "1160gnxblDcOVgtdRaqOqg4mGrIW123116RTXxmjDvTHzAbFBLkQlTlGt116Oq8pYiW8xPBMx116Q3Ci116e45m116DydH8dl4SQ117117",
+		"item_date": "2015-04-09 00:00:00",
+		"title": "SDKsio Search Engine Aids SDK Discoverability",
+		"url": "http://www.programmableweb.com/news/sdks.io-search-engine-aids-sdk-discoverability/2015/04/09",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewssdks-io-search-engine-aids-sdk-discoverability20150409.png"
+	},
+	{
+		"curated_id": "rgT8F16fAs6fye1162bxnnlj6gP8W9F18123ijV0Dbjica3t4hVrjFUQvECEtIa123LC6LA97ETBw5uHoMy49i9oSujA117117",
+		"item_date": "2015-03-08 00:00:00",
+		"title": "Rewritten PHP API Wrapper",
+		"url": "https://cloudconvert.com/blog/rewritten-php-api-wrapper/",
+		"domain": "cloudconvert.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloudconvert-comblogrewritten-php-api-wrapper.png"
+	},
+	{
+		"curated_id": "q2kvZdEJf6123IAEP123VdYKkntM8PqDMkqiCMWetG25ETW3HYjks0Fnhz9FHROecI1zs2S1kcmV5g7e1165Z2qEELlQ117117",
+		"item_date": "2015-03-11 00:00:00",
+		"title": "Official nodejs API Wrapper",
+		"url": "https://cloudconvert.com/blog/official-node-js-api-wrapper/",
+		"domain": "cloudconvert.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloudconvert-comblogofficial-node-js-api-wrapper.png"
+	},
+	{
+		"curated_id": "F0hPqkHXnCVNuQufCzGTHLVlqY8iF4N116YcUcJYWvZl38nXNPpMNAiclXooG51MujzB0DLTvt123NNVQUKujtoKpg117117",
+		"item_date": "2015-04-06 00:00:00",
+		"title": "PacketZoom SDK Replaces TCP to Speed Mobile Downloads",
+		"url": "http://www.programmableweb.com/news/packetzoom-sdk-replaces-tcp-to-speed-mobile-downloads/2015/04/06",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewspacketzoom-sdk-replaces-tcp-to-speed-mobile-downloads20150406.png"
+	},
+	{
+		"curated_id": "mUWT25XxoTfWXKo0hCjAiakn9HkC2QssIxbeQYEms5xF123q33MOr8TB7tKqgUdi116sVfYr1233QEkQv123rAFzjrRkJg117117",
+		"item_date": "2015-04-06 00:00:00",
+		"title": "RealVNC to Provide SDK to Invoke Remote Control Software",
+		"url": "http://www.programmableweb.com/news/realvnc-to-provide-sdk-to-invoke-remote-control-software/2015/04/06",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsrealvnc-to-provide-sdk-to-invoke-remote-control-software20150406.png"
+	},
+	{
+		"curated_id": "xN7Gmn8X12quVpnlPJxL8vu1239Bv0N0XUbiCd4GimIkhuxUsubO800N98n92zg50jJmxfQRhmZgpO2z4ME4CaHA117117",
+		"item_date": "2015-04-06 09:22:03",
+		"title": "wreq a Haskell web client library",
+		"url": "http://www.serpentine.com/wreq/",
+		"domain": "www.serpentine.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-serpentine-comwreq.png"
+	},
+	{
+		"curated_id": "zpjW3jTFVSa2xlECxQDkeZyVElUiiSFN0GYO609BD66BccUfkYWP4Xox1gqM8GfXg2eq116o7MtfFipg7123l9D4Dw117117",
+		"item_date": "2015-04-03 00:00:00",
+		"title": "Brightcove Native Player SDKs",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/index.html",
+		"domain": "docs.brightcove.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/docs-brightcove-comenvideo-cloudmobile-sdksindex-html.png"
+	},
+	{
+		"curated_id": "TWMz0VOjvFE0A801DOmIr77ybDKK77o5DPBLYcnwSGyd4bOiuTqOhWR0i9p1tGPhan1HWIXzWPIKFxuNxE123VmQ117117",
+		"item_date": "2015-03-31 00:00:00",
+		"title": "Announcing JW Player SDK for iOS",
+		"url": "http://www.jwplayer.com/blog/announcing-jw-player-sdk-ios/",
+		"domain": "www.jwplayer.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-jwplayer-comblogannouncing-jw-player-sdk-ios.png"
+	},
+	{
+		"curated_id": "ltc14OYA1oRfOte0f87Tv3bILRQ0xEmtn8LbWZIRHPiKvidcv116S436QqtTm2FjEeQHbJrnv123EceLCdLzB8BtHQ117117",
+		"item_date": "2015-03-25 00:00:00",
+		"title": "Sign up Now for the Amazon Echo Beta SDK",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx1HI1N5ZFX0PEK/Sign-up-Now-for-the-Amazon-Echo-Beta-SDK",
+		"domain": "developer.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-amazon-composttx1hi1n5zfx0peksign-up-now-for-the-amazon-echo-beta-sdk.png"
+	},
+	{
+		"curated_id": "t6sofc2ZCdK9DOp52eTLmcV3BVgQob8DCPiDPK116Vj5kx3JO5vbMpCq123pgPJ8ctWXovpynO2B1qcFMl9fyiScDA117117",
+		"item_date": "2015-03-25 00:00:00",
+		"title": "The Splunk SDK for JavaScript gets support for Nodejs v012 and iojs",
+		"url": "http://blogs.splunk.com/2015/03/25/the-splunk-sdk-for-javascript-gets-support-for-node-js-v0-12-and-io-js/",
+		"domain": "blogs.splunk.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-splunk-com20150325the-splunk-sdk-for-javascript-gets-support-for-node-js-v0-12-and-io-js.png"
+	},
+	{
+		"curated_id": "b2qWvzQZw2lwGlPP5uE854oU8dDJs1B9sLS0S1Ixgi320N5T7DiTpxTOZN7CPbgZZN2FrbxKlyrdIZ7cjldW116A117117",
+		"item_date": "2015-03-25 00:00:00",
+		"title": "Troubleshooting connectivity issues to Splunks API from the SDK",
+		"url": "http://blogs.splunk.com/2015/03/25/troubleshooting-connectivity-issues-to-splunks-api-from-the-sdk/",
+		"domain": "blogs.splunk.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-splunk-com20150325troubleshooting-connectivity-issues-to-splunks-api-from-the-sdk.png"
+	},
+	{
+		"curated_id": "QPUbABPW0123TRVCc08Qw0fP4UEw116123uaDb2OryE1vhvKmIuQPH0y5pUqMETL8wf5INb2fDIVJG5nCoy123ay8IY123PQ117117",
+		"item_date": "2015-03-25 00:00:00",
+		"title": "Facebooks Parse intros SDKs for the Internet of Things",
+		"url": "http://www.zdnet.com/article/facebooks-parse-intros-sdks-for-the-internet-of-things/",
+		"domain": "www.zdnet.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/zdnet-com-feedsportal-comc35462f675663s44cbb5b6sc28l0l0szdnet0n0carticle0cfacebooks0eparse0eintros0esdks0efor0ethe0einternet0eof0ethings0c0tftag0frssbaffb68story01-htm.png"
+	},
+	{
+		"curated_id": "aOaqSdBJZMK8mWRaxjfxStGHju6LXk3P116aiZiIobIL4t8j1dORyGO92Pd1krGCbRkagCApj8ssr4T6CmRsIAFw117117",
+		"item_date": "2015-03-26 00:00:00",
+		"title": "Preview the Latest Updates in the Master Branch  AWS SDK for Go",
+		"url": "https://aws.amazon.com/blogs/aws/preview-the-latest-updates-in-the-master-branch-aws-sdk-for-go/",
+		"domain": "aws.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawspreview-the-latest-updates-in-the-master-branch-aws-sdk-for-go.png"
+	},
+	{
+		"curated_id": "IluuR7YjP83X7ATXnjezCpNA116kV3ib2xK7jJgTpVDLxxDoadOlUHGVbH3XSTgMpLUSPF11624K123onCA2NJprbxbQ117117",
+		"item_date": "2015-03-24 17:20:50",
+		"title": "CRAN  Package internetarchive",
+		"url": "http://cran.rstudio.com/web/packages/internetarchive/index.html",
+		"domain": "cran.rstudio.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cran-rstudio-comwebpackagesinternetarchiveindex-html.png"
+	},
+	{
+		"curated_id": "ToqgCpPi52jb8Ah116K0p116lSh4RMS4z123bPjX3YIxQIHdYOOiKf1123SoDknqROpVZVDUrS8oSQX1239lpD17GPP4dAKQ117117",
+		"item_date": "2015-03-23 00:00:00",
+		"title": "Introducing the Box Python SDK",
+		"url": "https://www.box.com/blog/introducing-box-python-sdk/",
+		"domain": "www.box.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-box-comblogintroducing-box-python-sdk.png"
+	},
+	{
+		"curated_id": "LALpO9UIeGbSkMsTes3aaImyAiQW123uX3fa3OhuP7cJzJQxzxDM123xhygSNTieIrRpGXIGGIrGTaaSeqz5GvJJYA117117",
+		"item_date": "2015-03-24 00:00:00",
+		"title": "Dynamsoft SDK Adds Webcam Image Capture",
+		"url": "http://www.programmableweb.com/news/dynamsoft-sdk-adds-webcam-image-capture/2015/03/24",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsdynamsoft-sdk-adds-webcam-image-capture20150324.png"
+	},
+	{
+		"curated_id": "Yz71Oc1n0LZfZzmc123YAt9EDwkbJQMgq9qaZuuo1xPYu3j3pfY2i116yFMrqkbs4fL55yOypMbgRR1eygt62ok8vQ117117",
+		"item_date": "2015-03-24 00:00:00",
+		"title": "Shopping utility available in the AdWords API Java client library",
+		"url": "http://googleadsdeveloper.blogspot.com/2015/03/shopping-utility-available-in-adwords.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/googleadsdeveloper-blogspot-com201503shopping-utility-available-in-adwords-html.png"
+	},
+	{
+		"curated_id": "eCDCEDUP116M3nDVyzG8POIZjw1jgXI4RaldaSJuq3n9UpJAOagwDSZQfuVEE116gO8xjJOgbTFwMeQDoFn3w6N9wQ117117",
+		"item_date": "2015-03-22 00:00:00",
+		"title": "Top SDKs for Creating and Maintaining a Great App",
+		"url": "https://www.appsee.com/blog/technology/top-sdks-for-creating-great-app",
+		"domain": "www.appsee.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-appsee-comblogtechnologytop-sdks-for-creating-great-app.png"
+	},
+	{
+		"curated_id": "dlmDSDL9cgPXqszsW6qJzvklU32Tm2dhD1mkID3EovZkC9123SKzG1XQ81pfQO1iWaFRb0UPOwCfw2Lxi0r123GcSQ117117",
+		"item_date": "2015-03-19 00:00:00",
+		"title": "Announcing v70 of the Google Mobile Ads SDK for Android",
+		"url": "http://googleadsdeveloper.blogspot.com/2015/03/announcing-v70-of-google-mobile-ads-sdk.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/googleadsdeveloper-blogspot-com201503announcing-v70-of-google-mobile-ads-sdk-html.png"
+	},
+	{
+		"curated_id": "66116Lnq5BC9IWXj1234DnQ11691U6AOheUUd116ca0FJw2XMSdXBbTR116YHVfdvwb69TErHjdnwwJAYnDAncVti9yz4c1A117117",
+		"item_date": "2015-03-17 00:00:00",
+		"title": "Introducing SuPPort  PayPal Engineering Blog",
+		"url": "https://www.paypal-engineering.com/2015/03/17/introducing-support/",
+		"domain": "www.paypal-engineering.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-paypal-engineering-com20150317introducing-support.png"
+	},
+	{
+		"curated_id": "zObS0OZY47HZ9IkIl9hzVIPS1wySIu116xWYr8Dp43V7hgZNhtGjourm52MaoZ123KyRg2a7QAWPeBHvWnh3kV4Tkw117117",
+		"item_date": "2015-03-16 00:00:00",
+		"title": "Salesforce API integration with ASPNet application",
+		"url": "http://www.codeproject.com/Articles/886855/Salesforce-API-integration-with-ASP-Net-applicatio",
+		"domain": "www.codeproject.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comarticles886855salesforce-api-integration-with-asp-net-applicatio.png"
+	},
+	{
+		"curated_id": "4XYKYn1116Z8H3JnQFUZ123klVwO1MTtqZ67fptTWBO4MMwl5OqWsd6BwLYxJxjyYykSp90Qe8jovPEF123hM123YMWfFw117117",
+		"item_date": "2015-03-13 10:22:08",
+		"title": "slicedevslicenode  GitHub",
+		"url": "https://github.com/slicedev/slice-node",
+		"domain": "github.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/github-comslicedevslice-node.png"
+	},
+	{
+		"curated_id": "0gp116MNvEyz1162M1gPrPo9TD4I4EfODiERCSyXn7XDnoqo123DI116IbwqFzuP94TO6LPqX1165i01U6x9D1GuU15wx3IQ117117",
+		"item_date": "2015-03-13 00:00:00",
+		"title": "New Optimized SDK For Faster More Integrated User App Experience",
+		"url": "https://blog.hootsuite.com/new-software-developer-kit-for-faster-more-responsive-apps-in-hootsuite/",
+		"domain": "blog.hootsuite.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-hootsuite-comnew-software-developer-kit-for-faster-more-responsive-apps-in-hootsuite.png"
+	},
+	{
+		"curated_id": "f116bPAMehDeFw1167VDsPcq95pjVBLDYiJeAEphMaZvp5bYT80Tx34rv0PTys0tLUREnx2JMDlY123E9116ZjqGa3Dmlg117117",
+		"item_date": "2015-03-11 00:00:00",
+		"title": "Official nodejs API Wrapper",
+		"url": "https://cloudconvert.org/blog/official-node-js-api-wrapper/",
+		"domain": "cloudconvert.org",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloudconvert-orgblogofficial-node-js-api-wrapper.png"
+	},
+	{
+		"curated_id": "V123A4z3bRIPu3yJmUf7tdm4kW116U9rIy61zqW123RYhPM5YqMVZmbeFJ116YS7xGjk4SPOwEtrA3Mc0kmJcQgW7rqKvA117117",
+		"item_date": "2015-03-10 00:00:00",
+		"title": "Announcing General Availability of iOS Offline Sync SDK",
+		"url": "https://azure.microsoft.com/en-us/blog/2015/03/10/announcing-general-availability-of-ios-offline-sync-sdk/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20150310announcing-general-availability-of-ios-offline-sync-sdk.png"
+	},
+	{
+		"curated_id": "MN7w9123lIjB3Hk116RMZjY3YrgjX1BqUlVCPGzB5123x88lCpPs1DMrDiApG36ke5P5t9BWCYn8y116DSs27ByiSSLi116g117117",
+		"item_date": "2015-03-09 00:00:00",
+		"title": "Introducing the Application Insights SDK for Java",
+		"url": "https://azure.microsoft.com/en-us/blog/2015/03/09/application-insights-java-sdk/",
+		"domain": "azure.microsoft.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/azure-microsoft-comblog20150309application-insights-java-sdk.png"
+	},
+	{
+		"curated_id": "RTxQMAxJDggUFKLyLi2PoHdxM5Xl92OUOxD6bXNLMeQ0123FScUkVhW8FkMjI1234Ady3PyegxTjvDA0vYTmiy9hoQ117117",
+		"item_date": "2015-03-08 00:00:00",
+		"title": "Rewritten PHP API Wrapper",
+		"url": "https://cloudconvert.org/blog/rewritten-php-api-wrapper/",
+		"domain": "cloudconvert.org",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/cloudconvert-comblogrewritten-php-api-wrapper.png"
+	},
+	{
+		"curated_id": "k13M7MFfSqd9p3ExFRdyaL33OnKtAkKKTL21hh0nZOCu3rE0bzSDLxdwCbHqCPv123mvxt6pqI6StlKZ5ZxQivyQ117117",
+		"item_date": "2015-03-02 00:00:00",
+		"title": "Guest post Developing Countly SDK for Unit3D game analytics",
+		"url": "http://blog.count.ly/post/112509166868/guest-post-developing-countly-sdk-for-unit3d-game#_=_",
+		"domain": "blog.count.ly",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-count-lypost112509166868guest-post-developing-countly-sdk-for-unit3d-game_=_.png"
+	},
+	{
+		"curated_id": "ZBoBglOYb123rwaLW1HbeU2P123ZGFG123YLtVPzmF12322116Yx123sXEjR5ahfYrdzcwm123TFhbf123ZG7GpRQUg7vNSg3UHysw117117",
+		"item_date": "2015-02-26 19:10:20",
+		"title": "Generating Client Side Code From Machine Readable API Definitions",
+		"url": "http://apievangelist.com/2015/02/26/generating-client-side-code-from-machine-readable-api-definitions/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150226generating-client-side-code-from-machine-readable-api-definitions.png"
+	},
+	{
+		"curated_id": "XexROLgLFR1t1czwD0123pJuumMGi3wT9Vqsv0J5xiN72V3EAWQEyBqXPWRwQWHsxdBSzQzvgmw8123SW1uMClFENg117117",
+		"item_date": "2015-02-27 00:00:00",
+		"title": "Libraries and SDKs Respoke Today and the Near Future",
+		"url": "http://blog.respoke.io/post/112219769110/libraries-and-sdks-respoke-today-and-the-near#_=_",
+		"domain": "blog.respoke.io",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-respoke-iopost112219769110libraries-and-sdks-respoke-today-and-the-near_=_.png"
+	},
+	{
+		"curated_id": "7tfPeXyELS3RAOIegCrrwkhuc4cHIQ1uc4uCve8e0qUtUXk97dzfQMyqd5phq0Jc123emTmsfNZXotnqNKUwhVLQ117117",
+		"item_date": "2015-02-25 00:00:00",
+		"title": "Generating Client Side Code From Machine Readable API Definitions",
+		"url": "http://apievangelist.com/2015/02/26/generating-client-side-code-from-machine-readable-api-definitions/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150226generating-client-side-code-from-machine-readable-api-definitions.png"
+	},
+	{
+		"curated_id": "agxmr511639OtpXNKkDUJVPXI2v5C5hZ0APDyNVby5yY6DG0TrX1E4QTzEEReacaIeF5VfU5LnGveu6UAay6n1168Q117117",
+		"item_date": "2015-02-26 00:00:00",
+		"title": "Pebble Time SDK preview now available for developers",
+		"url": "http://thenextweb.com/apps/2015/02/26/pebble-time-sdk-preview-now-available-for-developers/",
+		"domain": "thenextweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/thenextweb-comapps20150226pebble-time-sdk-preview-now-available-for-developers.png"
+	},
+	{
+		"curated_id": "Cp2I8YeO8HUy0eexp8Hy4MRi8yadamid7WLxWIChiXVwE41B0uKPA5oqXSoSNqwEm1pFKrXbt4tApMUYtacMsA117117",
+		"item_date": "2015-02-26 00:00:00",
+		"title": "Digital Rights Management with the SDKs",
+		"url": "https://support.brightcove.com/en/video-cloud/docs/digital-rights-management-sdks",
+		"domain": "support.brightcove.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/support-brightcove-comenvideo-clouddocsdigital-rights-management-sdks.png"
+	},
+	{
+		"curated_id": "DJeYm8gu116ppHqjVDvyG3mRm8MZrUhigVB7lkD854BMd012123FD1wysejZboxB1168SK2oJt3vdLlz5ET1162fgRjjqg117117",
+		"item_date": "2015-02-25 11:33:47",
+		"title": "Driving Your Single Page Applications And API Cookbooks Using API Definition Formats Like Swagger And API Blueprint ",
+		"url": "http://apievangelist.com/2015/02/24/driving-your-single-page-applications-and-api-cookbooks-using-api-definition-formats-like-swagger-and-api-blueprint/",
+		"domain": "apievangelist.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150224driving-your-single-page-applications-and-api-cookbooks-using-api-definition-formats-like-swagger-and-api-blueprint.png"
+	},
+	{
+		"curated_id": "GjE3YxliLq7LCgpR3mP6ACRoIiJrZiLUwamZAh5MHs4IXGb02szxfQpwwnUerFgJHy2ugiY116YE3kwsbqQGpdlA117117",
+		"item_date": "2015-02-23 10:39:07",
+		"title": "Microsoft Band  Developers",
+		"url": "http://developer.microsoftband.com/",
+		"domain": "developer.microsoftband.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/developer-microsoftband-com.png"
+	},
+	{
+		"curated_id": "ZwTZPbipU1NXHCyvGf2IqUCnVgIJhupEenTehhCHqXdCN03FSLJyP116po1PkFam0UyffQfGfkV8ugPmwftlShfg117117",
+		"item_date": "2015-02-23 00:00:00",
+		"title": "PayPal Advanced Payment Terminal Shopping Carts",
+		"url": "https://codecanyon.net/item/paypal-advanced-payment-terminal/10484035",
+		"domain": "codecanyon.net",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/codecanyon-netitempaypal-advanced-payment-terminal10484035.png"
+	},
+	{
+		"curated_id": "IVAWJpccE7q9zhw018JC0qWuxCn47116SetwBf59d7hgbzfVDviMq8YV6Q123eK52DGfR1dn2MaStHb38116Hnx6Ma123A117117",
+		"item_date": "2015-02-17 00:00:00",
+		"title": "New release of Aspose Cloud SDK for Ruby introduces new features to work with Spreadsheet documents",
+		"url": "http://www.aspose.com/blogs/index.php",
+		"domain": "www.aspose.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-aspose-comblogsaspose-productsaspose-for-cloud-apisarchive20150217new-release-of-aspose-cloud-sdk-for-ruby-introduces-new-features-to-work-with-spreadsheet-documents-html.png"
+	},
+	{
+		"curated_id": "gxVpnirlo6gKEbFFGAIy5Vs5wGSdwt42NtOwCvEFzD8YFffiLxgylIfkmCm116Y6ZPlSPawyficXXPqUax2JafVg117117",
+		"item_date": "2015-02-18 00:00:00",
+		"title": "Stripe Payment Gateway Kit For Resellerclub Miscellaneous",
+		"url": "https://codecanyon.net/item/stripe-payment-gateway-kit-for-resellerclub/10443198",
+		"domain": "codecanyon.net",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/codecanyon-netitemstripe-payment-gateway-kit-for-resellerclub10443198.png"
+	},
+	{
+		"curated_id": "IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117",
+		"item_date": "2015-02-20 08:48:02",
+		"title": "LucyBot  Get your APIs consumers moving faster",
+		"url": "http://lucybot.com/",
+		"domain": "lucybot.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/25855_lucybot_com.png"
+	},
+	{
+		"curated_id": "8BhQgVvmXC6Xr116yv9aofig8w12GWtV123c4dYAxX9egTlwlTz8WAKG12301HQMhvJ123eqis1yV1BX116xyq3pZ8X116116PRQ117117",
+		"item_date": "2015-01-08 00:00:00",
+		"title": "Google Maps API integration gets simpler with Java and Python libraries",
+		"url": "http://thenextweb.com/apps/2015/01/08/google-maps-api-integration-gets-simpler-java-python-libraries/",
+		"domain": "thenextweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/thenextweb-comapps20150108google-maps-api-integration-gets-simpler-java-python-libraries.png"
+	},
+	{
+		"curated_id": "XX28116123Ryds7w116V35zbkiQnHwt4hEFQyIQJ1dyKQ3ok123Oo0qPEyWC8p8tCFbrSU6ayfa2cOkYgtDLXgO116bZHbxA117117",
+		"item_date": "2015-01-05 00:00:00",
+		"title": "IBM Bluemix Toolbox Expands with PHP Solutions",
+		"url": "http://www.haaretz.com/haaretz-labels/1.633526",
+		"domain": "www.haaretz.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-haaretz-comhaaretz-labels1-633526.png"
+	},
+	{
+		"curated_id": "12350lyWb5ywM0sTrMWTJvaAqEydSH9MOSFpPZv6iuuxbDx0MOm123koiso116UYAy116v70HY8XjE4fcP6Ke3GqiKorxg117117",
+		"item_date": "2014-12-18 00:00:00",
+		"title": "Google launching open source Cloud Dataflow SDK for Java",
+		"url": "http://www.zdnet.com/article/google-cloud-dataflow-open-source-java/#ftag=RSSbaffb68",
+		"domain": "www.zdnet.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-zdnet-comarticlegoogle-cloud-dataflow-open-source-java.png"
+	},
+	{
+		"curated_id": "5m7FSWauLG5rp9HOeaKYJxW79TegBWgec88D7SpcESYty4TWqE6nZNnAvws123Wxz09kww8w5n13116IqcJd10JBuQ117117",
+		"item_date": "2014-12-19 00:00:00",
+		"title": "Twilio Client Android Update Completes Automated Low Latency Routing Availability Across All Twilio Client Platforms",
+		"url": "https://www.twilio.com/blog/2014/12/twilio-client-android-update-completes-automated-low-latency-routing-availability-across-all-twilio-client-platforms.html",
+		"domain": "www.twilio.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-twilio-comblog201412twilio-client-android-update-completes-automated-low-latency-routing-availability-across-all-twilio-client-platforms-html.png"
+	},
+	{
+		"curated_id": "1ehpTKKeP23zx1vzlBdVkoaNgs123IaVBZ4ALFcSjSM5aq2lFv6Ro2MGEzK95YllODyAZVP7ejlHfv6RwBZF537g117117",
+		"item_date": "2014-12-22 00:00:00",
+		"title": "MEGA 20 beta for Android and SDK update",
+		"url": "https://mega.co.nz/#blog_31",
+		"domain": "mega.co.nz",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/mega-co-nz.png"
+	},
+	{
+		"curated_id": "zhk8CHRnXoTc9RefcQr5ivh116ZLxSfzU8XJQanAYe9TlP116U4DM2JkJmwH3lMa116IxMgwK99ho6T9PDVi3RfHs7lw117117",
+		"item_date": "2014-11-05 00:00:00",
+		"title": "Embedding rest2mobile in java projects",
+		"url": "http://www.magnet.com/dev-blog/embedding-rest2mobile-in-java-projects/",
+		"domain": "www.magnet.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-magnet-comdev-blogembedding-rest2mobile-in-java-projects.png"
+	},
+	{
+		"curated_id": "0CN1232NfasB0RFbo8F1z4K9lGxao4w2AXMOoE9nmBJbxRnICHYgbOKsh116Mh4A1239nIbdrrPyp61NpFi81CS65eAA117117",
+		"item_date": "2014-09-30 00:00:00",
+		"title": "How to Autogenerate Runscopepowered SDKs for RESTful APIs",
+		"url": "http://blog.runscope.com/posts/runscope-powered-sdks",
+		"domain": "blog.runscope.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-runscope-compostsrunscope-powered-sdks.png"
+	},
+	{
+		"curated_id": "P123zsCleJcsZ8aSTMK123W9oAifzzFmNCcMSv6YmWSjkgcckmck123CJ0123WbBGRufL116sA3SBXWy1Pzo4QDEvxczlUpQ117117",
+		"item_date": "2014-09-30 00:00:00",
+		"title": "New in SDK 34  iOS 8 Interactive Notifications",
+		"url": "http://www.appcelerator.com/blog/2014/09/new-in-sdk-3-4-ios-8-interactive-notifications/",
+		"domain": "www.appcelerator.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-appcelerator-comblog201409new-in-sdk-3-4-ios-8-interactive-notifications.png"
+	},
+	{
+		"curated_id": "lKYSAuS6123h4zOacy71z6bAxUB3uq7123TnrOiODK5pHZOsU9XVt8w5CblLROfTxnPJjQ1161Kx0uhqikl123Kg4DbaBg117117",
+		"item_date": "2014-08-28 00:00:00",
+		"title": "New Resources APIs for the AWS SDK for Java",
+		"url": "https://aws.amazon.com/blogs/aws/java-sdk-resource-apis-preview/",
+		"domain": "aws.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawsjava-sdk-resource-apis-preview.png"
+	},
+	{
+		"curated_id": "BDmQIMipG8vQAtQYbcV1m192pmWUsdalrSl123v116xz4thCsEnnTXcjXLac0DQ86MFD1235Nxrw116hKpm9YqzDaZKZ2w117117",
+		"item_date": "2014-08-20 00:00:00",
+		"title": "Calling all mobile developers  come and play with our SDKs",
+		"url": "http://blog.podio.com/2014/08/20/mobile-hack-day/",
+		"domain": "blog.podio.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-podio-com20140820mobile-hack-day.png"
+	},
+	{
+		"curated_id": "eDjRgH116kfhMzak123awcrDMujHrc8GCv27ZmornqYkCntCp55gMDaf7Q77o5m15jP8E2lkUMXCoJPZCGEl3KBu116Q117117",
+		"item_date": "2014-08-18 00:00:00",
+		"title": "Getting Started With Twilio and Java Play Framework",
+		"url": "https://www.twilio.com/blog/2014/08/play-with-twilio.html",
+		"domain": "www.twilio.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-twilio-comblog201408play-with-twilio-html.png"
+	},
+	{
+		"curated_id": "VMhCFq9NblI9ZIFSCxhrU7ILnLiZgj8dEYbKNe116aZ1169KzVbFhlDFRdsnqYI2nZPlCL409amf2J9zfQaGM5ZDKw117117",
+		"item_date": "2014-08-07 00:00:00",
+		"title": "AWS SDK for Python Boto Now Supports Python 3",
+		"url": "https://aws.amazon.com/blogs/aws/boto-python-3/",
+		"domain": "aws.amazon.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/aws-amazon-comblogsawsboto-python-3.png"
+	},
+	{
+		"curated_id": "zJmzdaaIs9RZOQMbRcQZVyP4AdfZ7123TmwMoL1wZqY1zzwnHIEAsaZ12317BvDlQekagYnuYUf7Vjj3TzQMfk2RBA117117",
+		"item_date": "2014-07-21 00:00:00",
+		"title": "SDK update note Android Unity and Adobe AIR",
+		"url": "https://www.pushwoosh.com/sdk-update-note-android-unity-and-adobe-air/",
+		"domain": "www.pushwoosh.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-pushwoosh-comsdk-update-note-android-unity-and-adobe-air.png"
+	},
+	{
+		"curated_id": "rSH123qIaQu17sbexcRGWfO55jr8rr2QgG3Y0rQyPJ116vP3U9sq4DpiU267Hs123einTTm53bg2z1232pETnffbn4mc4w117117",
+		"item_date": "2014-07-14 16:05:17",
+		"title": "iOS SDK v212  Rdio Developer Blog",
+		"url": "http://blog.rdio.com/developers/2014/07/ios-sdk-v212.html",
+		"domain": "blog.rdio.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-rdio-comdevelopers201407ios-sdk-v212-html.png"
+	},
+	{
+		"curated_id": "EvMiFYkBlX116LS116hVH123kTYWWqL2vOwZp3eWez1gFnZ7y123B2syKS6Rdea3SosZYVUm116ViZIKsJwZnPMoQKoCBTlA117117",
+		"item_date": "2014-06-29 00:00:00",
+		"title": "Why you should upgrade to the latest SDK",
+		"url": "https://www.apteligent.com/blog/why-you-should-upgrade-to-the-latest-sdk-2/",
+		"domain": "www.apteligent.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-crittercism-comblogwhy-you-should-upgrade-to-the-latest-sdk-2.png"
+	},
+	{
+		"curated_id": "OPiE797smdwqdkDyuACgkrUdiry149nFhElr9SJElG8F3HBwKlIz9q8HME9oROXn123VPqEPtRXHFqpXD6bGIk0Q117117",
+		"item_date": "2014-06-25 13:18:04",
+		"title": "If Your REST API Is Fine Can You Get Away Without Having An SDK  DocuSign",
+		"url": "https://www.docusign.com/blog/if-your-rest-api-is-fine-can-you-get-away-without-having-an-sdk/",
+		"domain": "www.docusign.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-docusign-comblogif-your-rest-api-is-fine-can-you-get-away-without-having-an-sdk.png"
+	},
+	{
+		"curated_id": "KlvNOMaiXTO5lE8Wpt7NExD0OrnIMhKhtU123qOXvA9melbd4TZtz7qkXGVd7dzD5O116W3ZLXAx7fvlr46Qq94fZQ117117",
+		"item_date": "2014-06-26 15:08:42",
+		"title": "iOS SDK v211  Rdio Developer Blog",
+		"url": "http://blog.rdio.com/developers/2014/06/ios-sdk-v211.html",
+		"domain": "blog.rdio.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-rdio-comdevelopers201406ios-sdk-v211-html.png"
+	},
+	{
+		"curated_id": "1160UCRfU123123zrrhPRiP116vY116cOuSIDz7CH0FIkthmBYNfemwYip90UA116juC123eNtHbvMd2116M5LPMDPbLZDDk46YyRA117117",
+		"item_date": "2014-06-24 00:00:00",
+		"title": "Releasing Our First Official NodeJS SDK",
+		"url": "https://transloadit.com/blog/2014/06/releasing-our-official-nodejs-sdk/",
+		"domain": "transloadit.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/transloadit-comblog201406releasing-our-official-nodejs-sdk.png"
+	},
+	{
+		"curated_id": "ovzUe123u5rAUFJtHoQBlWzOLov1V45JUhlB6mQkAlxGoavInKb8y5aC1JUwPICsJ5WxyijeiBjU5pfaKgcBjlfA117117",
+		"item_date": "2014-06-24 00:00:00",
+		"title": "Introducing the Orchestrate Ruby Gem",
+		"url": "https://www.ctl.io/developers/blog/post/introducing-the-orchestrate-ruby-gem",
+		"domain": "www.ctl.io",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/orchestrate-ioblog20140624introducing-the-orchestrate-ruby-gem.png"
+	},
+	{
+		"curated_id": "fPC6eaPy1wa0JZRa0NYdethr5C9GETR9kzGvLovuS6dedMVgYjRY9oEOocEUgyjn2JCXqVtSwZ69btmh1jseog117117",
+		"item_date": "2014-06-16 00:00:00",
+		"title": "JavaScript SDK 120 and new Documentation released",
+		"url": "http://quickblox.com/blog/2014/06/javascript-sdk-1-2-0-and-new-documentation-released/",
+		"domain": "quickblox.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/quickblox-comblog201406javascript-sdk-1-2-0-and-new-documentation-released.png"
+	},
+	{
+		"curated_id": "KbZz3wCzLH1sGRrxkNQFg32b8SYI123S494pxJHbrzVheUlVLRjcEiWuveJ5NeR1233Rdzbxs6uHiT0NBBGTDr8TOA117117",
+		"item_date": "2014-06-13 00:00:00",
+		"title": "Android SDK installation VideoTutorial",
+		"url": "http://www.teech.io/android-sdk-installation-video-tutorial/",
+		"domain": "www.teech.io",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/teech-ioandroid-sdk-installation-video-tutorial.png"
+	},
+	{
+		"curated_id": "DvesPZSGaPOIMDmU5C7UFjHP5K2ieNjnthMdJiOS7DxkqwgwZdCSWW116vmu8i5obb1235OJC1231BJYpv123116HW63QqQg117117",
+		"item_date": "2014-05-27 00:00:00",
+		"title": "Teechio Android SDK",
+		"url": "http://www.teech.io/teech-io-android-sdk/",
+		"domain": "www.teech.io",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/teech-ioteech-io-android-sdk.png"
+	},
+	{
+		"curated_id": "0jbNo3c123Pb9E70PQAvkHhG0lIt123hNbFcKfsBL2PuauROMwoi1p9fNKmS2auwxkR1tXlD4qWL81uAY9Xtgwfoqw117117",
+		"item_date": "2014-05-29 00:00:00",
+		"title": "Legacy AdMob Sunset and Legacy SDK Deprecation Reminder",
+		"url": "https://www.blogger.com/feeds/7815614485808579332/posts/default/8254169381649273717",
+		"domain": "www.blogger.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-blogger-comfeeds7815614485808579332postsdefault8254169381649273717.png"
+	},
+	{
+		"curated_id": "Rzb6HSuwV2FgHpj2qkM123B3lNe426mXknNpfg5UoZPJiuGcwhHiH123BUeZoU5d6a116N123e7jtj4vfKe2gWjdfAVqTw117117",
+		"item_date": "2014-05-30 00:00:00",
+		"title": "Changes to the IMA SDK for iOS",
+		"url": "https://www.blogger.com/feeds/7815614485808579332/posts/default/5031968498788541624",
+		"domain": "www.blogger.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-blogger-comfeeds7815614485808579332postsdefault5031968498788541624.png"
+	},
+	{
+		"curated_id": "r4F2tgfVPSmbO7GVMXLvXR4Ly9w2tJ2gg9kR91tjkGMpwzIdCSodoxjt7fBis116P5pX3jx1236XF4IdO72kPCH71g117117",
+		"item_date": "2014-06-02 00:00:00",
+		"title": "Streamlining The Evernote Cloud SDK for iOS",
+		"url": "http://blog.evernote.com/tech/2014/06/02/evernote-cloud-sdk-for-ios/",
+		"domain": "blog.evernote.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-evernote-comtech20140602evernote-cloud-sdk-for-ios.png"
+	},
+	{
+		"curated_id": "UUb4kxqHh2p116NOLsmC8Syv7ag70zy9Tswfk19UEW8N9u5nNSW123123Ybr9QvHMVqHAmWzdu44cQAvMUtrLnvbom123A117117",
+		"item_date": "2013-12-15 00:00:00",
+		"title": "Announcing App42 Windows Phone SDK support for Unity",
+		"url": "http://blogs.shephertz.com/2013/12/16/announcing-app42-windows-phon-sdk-support-for-unity/",
+		"domain": "blogs.shephertz.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blogs-shephertz-com20131216announcing-app42-windows-phon-sdk-support-for-unity.png"
+	},
+	{
+		"curated_id": "6LJzDW44SQKca32eDBrPZYLoGQcCkAbShy16SbSIlFB116Jr9kQBy3IutKgcn9IzEs5LEP4DibR9uphqt2yt1jjg117117",
+		"item_date": "2013-10-25 00:00:00",
+		"title": "SDK Testing and Debugging",
+		"url": "https://my.webtrends.com/release-notes",
+		"domain": "my.webtrends.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/developer-webtrends-comcommunitydcblog20131025sdk-testing-and-debugging.png"
+	},
+	{
+		"curated_id": "t3Hv7rBuqSx9YuI3pz123tOEjR2Go8XO63lBwGqzxSv97dvMIXbmqsq5KaXZa9A0dIBcurdm116oHcBrs7yGl5j8HA117117",
+		"item_date": "2013-10-01 00:00:00",
+		"title": "SDK 21 Beta",
+		"url": "http://blog.burstly.com/sdk-2-1-beta/",
+		"domain": "blog.burstly.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-burstly-comsdk-2-1-beta.png"
+	},
+	{
+		"curated_id": "FldXnJ123fZlzv3nl0xxU2P9weU6Qe123OpdJmDu5GZGwQNmoPtgJZXtpT7dJLJW116EZ0zLpW6gM3jUWPFqfCGi5bOQ117117",
+		"item_date": "2013-10-07 00:00:00",
+		"title": "SDKs or APIs Whats the Right Choice for Your Developer Community",
+		"url": "http://www.apiacademy.co/blogs/sdks-or-apis-whats-the-right-choice-for-your-developer-community/",
+		"domain": "www.apiacademy.co",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-layer7tech-comblogsindex-phpsdks-or-apis-whats-the-right-choice-for-your-developer-community.png"
+	},
+	{
+		"curated_id": "EWEWp116j5vF8nSKXLoxOauRiYYShwLjJmg9JtIPj8UpHMeQjeDoYekiyqPklC6116uo116KXVKxxbek4hZTPNrnEg4w117117",
+		"item_date": "2013-10-06 07:10:43",
+		"title": "When SDKs Are Better Than APIs",
+		"url": "http://www.programmableweb.com/news/when-sdks-are-better-apis/analysis/2013/10/04",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-com20131004when-sdks-are-better-than-apis.png"
+	},
+	{
+		"curated_id": "7CLJRYnEubGUhk116f2mMnkpcD123IsWvbExa58jbS7eqs123cdkFjoFEi3wHxrCZDmm1Pvw6mP0MwptbFfM123vP0cKZA117117",
+		"item_date": "2013-09-10 00:00:00",
+		"title": "The Splunk SDK for Python gets modular input support",
+		"url": "http://blogs.splunk.com/2013/09/10/the-splunk-sdk-for-python-gets-modular-input-support/",
+		"domain": "blogs.splunk.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blogs-splunk-com20130910the-splunk-sdk-for-python-gets-modular-input-support.png"
+	},
+	{
+		"curated_id": "VBGjSwuMth7bIKfjdQohgkn52VBXaF12334btb123UrVk03cMlm59zSpM93116CPkU6Qk7ecaihV96QD4s1gaGuMwm8A117117",
+		"item_date": "2013-08-13 00:00:00",
+		"title": "Build Social Enterprise Apps with Yammer Mobile SDKs",
+		"url": "https://about.yammer.com//blog/2013/08/build-social-enterprise-apps-yammer-mobile-sdks.html",
+		"domain": "about.yammer.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/about-yammer-comblog201308build-social-enterprise-apps-yammer-mobile-sdks-html.png"
+	},
+	{
+		"curated_id": "nNH4DNmEXtPgdN123ToPT8UevKrDzGpChWCARZN0Uf16HTWCLI1S2y6ngbpDhYnCQ9qo118Ey9pS2y123fVq8nJqYQ117117",
+		"item_date": "2013-07-11 00:00:00",
+		"title": "Presenting our SDK at RuhrJUG Essen",
+		"url": "http://www.elastic.io/blog/",
+		"domain": "www.elastic.io",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-elastic-iopost55169598940presenting-our-sdk-at-ruhrjug-essen.png"
+	},
+	{
+		"curated_id": "yDZh2524jR9ESRQbMtQIbO8apKMvehLJ123DHnuHPRHjM29cJQ6Uh7116moEvdfNVIYATzSNx7szS7AyMAcNt5pbpA117117",
+		"item_date": "2013-07-08 00:00:00",
+		"title": "Comment on Taking Corona SDK to the Next Level by Ted Patrick",
+		"url": "http://jessewarden.com/2013/07/taking-corona-sdk-to-the-next-level.html/comment-page-1",
+		"domain": "jessewarden.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/jessewarden-com201307taking-corona-sdk-to-the-next-level-htmlcomment-page-1.png"
+	},
+	{
+		"curated_id": "Krd2i51NobGMgWvs7CXMBUhOub1JkNfTXKmwpZMUVKKCVnZ4YO8d5dOEo66PexgXnfvPc6It045UEuZq2VPoAA117117",
+		"item_date": "2013-06-21 00:00:00",
+		"title": "New iOS SDK release  now supporting iOS 7",
+		"url": "http://blog.scringo.com/ios7-beta-build/",
+		"domain": "blog.scringo.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-scringo-comblogios7-beta-build.png"
+	},
+	{
+		"curated_id": "hWjLq1PRuI9123123MFLMQOdT8PP77vjf1pvyor56nxIBRCIiXao123UE5gK2O9h8CDyXtMhK2Z1164IDzi5LCw4A4ZSgg117117",
+		"item_date": "2013-06-18 00:00:00",
+		"title": "Android SDK Update Corona  Marmalade support Offline Payments And More",
+		"url": "http://blog.fortumo.com/android-sdk-update-corona-marmalade-support-offline-payments-and-more/",
+		"domain": "blog.fortumo.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9984_blog_fortumo_com.png"
+	},
+	{
+		"curated_id": "VF75AfkPRT14UOi3sg2ShU123Iy6V123Bq3U116EJxTemBtdQOueOaG3m2Fc7dUXE1164ORGUhibdSQcEn5cbPkDtC4kug117117",
+		"item_date": "2013-05-24 00:00:00",
+		"title": "Playing with the Splunk C SDKfrom PowerShell",
+		"url": "http://blogs.splunk.com/2013/05/24/playing-with-the-splunk-c-sdk-from-powershell/",
+		"domain": "blogs.splunk.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blogs-splunk-com20130524playing-with-the-splunk-c-sdk-from-powershell.png"
+	},
+	{
+		"curated_id": "qtUISEruvxwpKuIo0O9mQxYHh2AIAZO5f1Dd7ewm1233YjEn3cDyiscK116Y24D6EX2y9123LK7Ec116FRj6Vb8msWJGlQ117117",
+		"item_date": "2013-04-23 00:00:00",
+		"title": "Introducing the iOS SDK Beta Program",
+		"url": "https://blog.stackmob.com/2013/04/introducing-the-ios-sdk-beta-program/",
+		"domain": "blog.stackmob.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7927_blog_stackmob_com.png"
+	},
+	{
+		"curated_id": "3yIUIzgjyDXVbVgUcbTBfo1g25mqXgzNKRzY2MGNYLU116UcNOk9LalRZ123FLnSJ7JlHhI123HdmR88qA5JmFbUrZCQ117117",
+		"item_date": "2013-04-09 00:00:00",
+		"title": "JavaScript SDK 090 Released",
+		"url": "https://blog.stackmob.com/2013/04/js-sdk-0-9-0-released/",
+		"domain": "blog.stackmob.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7664_blog_stackmob_com.png"
+	},
+	{
+		"curated_id": "9ng6Q46YjIO2zLf2XhA2A4zcwuI123SXRkHfjUzPykWtdsL4GrhOnd9GURtCthkrRx0116rBfXGrOylTUXd4tJILig117117",
+		"item_date": "2013-04-19 00:00:00",
+		"title": "How to perform Callbacks with GroupDocs PHP SDK",
+		"url": "http://www.groupdocs.com/blog/how-to-perform-callbacks-with-groupdocs-php-sdk",
+		"domain": "www.groupdocs.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7585_groupdocs_com.png"
+	},
+	{
+		"curated_id": "XpDDYY15pYelZq6H76FmV1qJFzbDBF5OnLOEIj04116M123Kznt2oRBekbAZ9kECIUponhbqe4FGfnEN7iuY6Yycsw117117",
+		"item_date": "2013-04-09 00:00:00",
+		"title": "The Herding and Migrating of Sample Code",
+		"url": "http://blog.evernote.com/tech/2013/04/09/the-herding-and-migrating-of-sample-code/",
+		"domain": "blog.evernote.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7464_blog_evernote_com.png"
+	},
+	{
+		"curated_id": "o9mxer0nOeTe9YEFaB8JWOydE2WpghEn4LVBprMQ3123Vdu7mEMk1160NaICCRacX123GWzsOPGOQWsmj116S3pSrHBEjQ117117",
+		"item_date": "2013-03-12 00:00:00",
+		"title": "iOS SDK 151",
+		"url": "http://quickblox.com/blog/2013/03/ios-sdk-1-5-1/",
+		"domain": "quickblox.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "Vh3116tF1F3vmiF12OiAr7GTwgeU8w6Lem123WUavwkYC5uGVRbn78wfgzkhlIPqv61Xp1pVReznra57wBFGmSxVTg117117",
+		"item_date": "2013-02-21 00:00:00",
+		"title": "IMA HTML5 SDK v3 released",
+		"url": "http://googleadsdeveloper.blogspot.com/2013/02/ima-html5-sdk-v3-released.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "eCH6DLrMmrgoJVAN4X4r8z57RuE5VTnCu6NDrgov116srMdo6jgiv6ExBWVKEwb7gAaVe3dqw3LjgjX1ra123n0N7Q117117",
+		"item_date": "2013-01-17 00:00:00",
+		"title": "Generic vs generated SDK",
+		"url": "http://apiomat.org/docs/Generated-SDKs.html",
+		"domain": "apiomat.org",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "lq9w5e6nAgONyxF2gCjvdnpR6NYh1HpnEXRnWujtvNVc9AtUXGEjXp116kryxZjXYQpWHnW62RtmjaUkFQkoWuvg117117",
+		"item_date": "2013-01-16 00:00:00",
+		"title": "Mobeelizers SDKs are Open Source What are the benefits of that",
+		"url": "http://mobeelizer.com/blog/2013/01/mobeelizers-sdks-are-open-source-what-are-the-benefits-of-that/",
+		"domain": "mobeelizer.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "9SAhG2wSgPaW0my8o1165wqn2r8ADdVxSGpqNp12mjGjSnwGDVnc9JdwDZuUX7tD4LcJFaHX0WanEvaDUWxdDCrA117117",
+		"item_date": "2013-01-16 00:00:00",
+		"title": "iOS SDK 141",
+		"url": "http://quickblox.com/blog/2013/01/ios-sdk-1-4-1/",
+		"domain": "quickblox.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "C452myIMcW2f2457ypZ1lWmGXSNemkPsSbxjmPe1167jLroOH5LkTZQGKwvD2oSbN116eHKWiQrQSPuiXJwnRtGojQ117117",
+		"item_date": "2013-01-28 00:00:00",
+		"title": "Ruby and Python SDK Updates",
+		"url": "http://blog.evernote.com/tech/2013/01/28/ruby-and-python-sdk-updates-introducing-kentaro-suzuki/",
+		"domain": "blog.evernote.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "Cz123E0xWvQylIAYeZAb28BbrHITxxIvaxbXhu6PTKoB116wTTo2rI4OVW5UiMuJ0cmyrx8rIr0KuwcBjKvfECJrXA117117",
+		"item_date": "2012-12-12 00:00:00",
+		"title": "iOS SDK 14",
+		"url": "http://quickblox.com/blog/2012/12/ios-sdk-1-4/",
+		"domain": "quickblox.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "FKQeui116t123d7V0Nb0vN4Ac87zjePQJ1ftnSTS3PE116RQpiSg9OkENdqL116jQo4CschK7giKVycjVXoK1yYYX52NMg117117",
+		"item_date": "2012-05-07 11:48:45",
+		"title": "Cloud API Security Panel at Infosec",
+		"url": "http://www.programmableweb.com/news/cloud-api-security-panel-infosec/2012/05/07",
+		"domain": "www.programmableweb.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
 	},
 	{
@@ -909,6 +2397,14 @@
 		"title": "Google Plugin for Eclipse now provides richer tooling for Cloud SQL and Google APIs",
 		"url": "https://developers.googleblog.com/2012/05/google-plugin-for-eclipse-now-provides.html",
 		"domain": "developers.googleblog.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+	},
+	{
+		"curated_id": "7NxOIxXkZFwuRMCCQbvvImfhU2bU6KtvombXAxm81X6ooY3fIvkKGSNG9YOrJZndUxFVBlcUAt4hlwDXwPjOog117117",
+		"item_date": "2012-04-26 20:49:20",
+		"title": "John Sheehan  The API Developer Experience Baseline",
+		"url": "http://john-sheehan.com/post/21850777760/the-api-developer-experience-baseline",
+		"domain": "john-sheehan.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
 	}
 ]
