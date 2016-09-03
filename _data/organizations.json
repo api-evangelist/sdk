@@ -6,19 +6,20 @@
 		"details": "When you use APIMATIC to manage SDKs, they provide you with an editor for adding, editing, and deleting the details of each API. When you bundles this with their multi-format API definition format import and export, the platform quickly becomes an API design tool as well as a platform for generating your SDKs.",
 		"website": "https://www.apimatic.io/",
 		"twitter": "https://twitter.com/apimatic",
-		"github": "",
+		"github": "https://github.com/apimatic",
 		"apisjson_url": "",
 		"sdksio_url": "",
 		"postman_url": "",
-		"portal_url": "",
+		"portal_url": "https://github.com/apimatic",
 		"base_url": "",
-		"blog": "",
+		"blog": "https://apimatic.io/blog",
 		"blogrss": "",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apimatic-logo.png",
 		"tags": [
 			"SDK",
+			"My API Stack",
 			"Design"
 		]
 	},
@@ -89,13 +90,36 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
 		"tags": [
-			"SDKs",
+			"SDK",
+			"SDK"
+		]
+	},
+	{
+		"id": "WzalvI5wnosx4R91w4zj6F6wzAtRulccX7Vrt20KocozIlYm116rFDxCsYjNmj0116ptv123WnKlxgk0sKr4fBdxNmIg117117",
+		"name": "SDK Critic",
+		"summary": "SDK Critic is a rating and review website for iOS and OS X frameworks. Consult SDK Critic to determine how hesitant you should be about using an unfamiliar framework and which parts of it you should be particularly wary of, based on the consensus of the developer community.",
+		"details": "SDK Critic is a rating and review website for iOS and OS X frameworks. Consult SDK Critic to determine how hesitant you should be about using an unfamiliar framework and which parts of it you should be particularly wary of, based on the consensus of the developer community.",
+		"website": "http://www.sdkcritic.com/",
+		"twitter": "",
+		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
+		"blog": "",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
+		"logo_width": "150",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
+		"tags": [
+			"SDK",
 			"SDK"
 		]
 	},
 	{
 		"id": "db4123Owz123iHWUrSeM3jUKa12323Fii5siUV3jkS9mIb7vOVU1LKRNhnzwi3Kbs51if2NXhXktRSriPV0RpNFBtgUg117117",
-		"name": "SDKs.io",
+		"name": "SDKS.IO",
 		"summary": "SDKS.IO is, at heart, a store for SDKs allowing people to create their own, download other SDKs and, most importantly, search through our database of SDKs. We automatically look through existing API repositories including Mashape to bring you a comprehensive list of the SDK world.",
 		"details": "SDKS.IO is, at heart, a store for SDKs allowing people to create their own, download other SDKs and, most importantly, search through our database of SDKs. We automatically look through existing API repositories including Mashape to bring you a comprehensive list of the SDK world.",
 		"website": "http://sdks.io/",
@@ -113,6 +137,34 @@
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdks-io-logo.png",
 		"tags": [
 			"SDK"
+		]
+	},
+	{
+		"id": "T5jtVcjKzQqGqYtWLioGSlx4apnXCFA29hdB81167QTbJS9pvaOkhTNSJoNgFg7glmr0Kp116Hxt61BQXLN123DXrjgQ117117",
+		"name": "VersionEye",
+		"summary": "Notification System for Software Libraries. Follow your libraries and get notified about new versions. Stay up-to-date! Over 200K Java, Ruby, Python, PHP, Clojure u0026amp; Node.JS Libraries. VersionEye can monitor your Software Project on GitHub and notify you about outdated dependencies. This tool helps you to stay up-to-date. Never miss a version! Donu0026rsquo;t waste your time with manually checking ",
+		"details": "Notification System for Software Libraries. Follow your libraries and get notified about new versions. Stay up-to-date! Over 200K Java, Ruby, Python, PHP, Clojure u0026amp; Node.JS Libraries. VersionEye can monitor your Software Project on GitHub and notify you about outdated dependencies. This tool helps you to stay up-to-date. Never miss a version! Donu0026rsquo;t waste your time with manually checking dependencies. Save Time u0026amp; Money.",
+		"website": "http://www.versioneye.com/apijson",
+		"twitter": "https://twitter.com/VersionEye",
+		"github": "https://github.com/versioneye",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/versioneye",
+		"base_url": "",
+		"blog": "http://versioneye.wordpress.com/",
+		"blogrss": "",
+		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1595_logo.jpg",
+		"logo_width": "100",
+		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1595_logo.jpg",
+		"tags": [
+			"Social",
+			"SDK",
+			"Repository",
+			"Programming",
+			"Notifications",
+			"Notifications",
+			"Code"
 		]
 	}
 ]
