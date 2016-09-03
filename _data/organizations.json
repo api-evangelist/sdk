@@ -90,30 +90,6 @@
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
 		"tags": [
-			"SDK",
-			"SDK"
-		]
-	},
-	{
-		"id": "WzalvI5wnosx4R91w4zj6F6wzAtRulccX7Vrt20KocozIlYm116rFDxCsYjNmj0116ptv123WnKlxgk0sKr4fBdxNmIg117117",
-		"name": "SDK Critic",
-		"summary": "SDK Critic is a rating and review website for iOS and OS X frameworks. Consult SDK Critic to determine how hesitant you should be about using an unfamiliar framework and which parts of it you should be particularly wary of, based on the consensus of the developer community.",
-		"details": "SDK Critic is a rating and review website for iOS and OS X frameworks. Consult SDK Critic to determine how hesitant you should be about using an unfamiliar framework and which parts of it you should be particularly wary of, based on the consensus of the developer community.",
-		"website": "http://www.sdkcritic.com/",
-		"twitter": "",
-		"github": "",
-		"apisjson_url": "",
-		"sdksio_url": "",
-		"postman_url": "",
-		"portal_url": "",
-		"base_url": "",
-		"blog": "",
-		"blogrss": "",
-		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
-		"logo_width": "150",
-		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sdk-critic.png",
-		"tags": [
-			"SDK",
 			"SDK"
 		]
 	},
