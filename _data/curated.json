@@ -1,5 +1,85 @@
 [
 	{
+		"curated_id": "ZVfq3bBa1GfyyeCRv7lOiOtGSGDfg1166fEE5ZKYegN7NlvQfPrHmIdOCLmD1ki6c8zvEf116sA3uouHyqAbh7nHLQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Google launches Daydream VR SDK out of beta",
+		"url": "http://www.zdnet.com/article/google-launches-daydream-vr-sdk-out-of-beta/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "022EHdiWa2a6F8u5e8Otw61PrQHRHD1yF9AULk0jQvXvyoq5a1TgvuaBnxiGjdPZ8oTI3cOsbfAK3IxZscPysQ117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Google VR SDK graduates out of beta",
+		"url": "https://developers.googleblog.com/2016/09/google-vr-sdk-graduates-out-of-beta.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "COiGNRGO0k0tOb4ErHvjkj6xdyN135T1RRbGzU09L123xtWF8oEolXU7C116CuZY7kH116IBVHrySmvszOrBzEVkeiqg117117",
+		"item_date": "2016-09-21 10:15:34",
+		"title": "Native code generation at Facebook  Building Apollo  Medium",
+		"url": "https://medium.com/apollo-stack/native-code-generation-at-facebook-7d6d0db4f3ee#.tx3tt4qqm",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JsrI8Qq5MGNh9h1gTCXc123UO21N59vaNG4m3A6PRinJRg116UYYS3RppLkIUQpZm123a9krRExv96Em7jZmsc0qEV2w117117",
+		"item_date": "2016-09-13 03:31:51",
+		"title": "Tweet Announcing the official DNSimple API v2 Nodejs client httpstco9qiPGLfyGV ",
+		"url": "https://twitter.com/dnsimple/statuses/775643148303396864",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "q3d6YlPu4d8hbyB54HUz7cdRDC4aVmvUCK5P123w1qRNIb88gFb4GZZtCF5cBBFOsDjItHkvVlN6123npXsION2rCw117117",
+		"item_date": "2016-09-15 00:00:00",
+		"title": "Twitter039s MoPub Shrinks Android and iOS SDKs",
+		"url": "http://www.programmableweb.com/news/twitters-mopub-shrinks-android-and-ios-sdks/2016/09/15",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "07HrKL9vRMtHIZA8trAVUnPVLx0nJSpyRAcbO1168sbVMpXpvUEnE08Y5116Cqebl116FnXiTnha1232EZGwnT3sj2blrg117117",
+		"item_date": "2016-09-16 00:00:00",
+		"title": "Use Google Mobile Ads SDK 7110 to update apps for iOS 10",
+		"url": "http://googleadsdeveloper.blogspot.com/2016/09/use-google-mobile-ads-sdk-7110-to.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "VAqjVyfgUHpismD7zWHV5aiJIdffdQ1vHc123HJ0R0YNN1r9Z116GJuB9VgivAutIC1qa3i4cqQxGlHRLiHiwqUoCQ117117",
+		"item_date": "2016-09-12 00:00:00",
+		"title": "Running Powershell on Google Cloud SDK",
+		"url": "https://cloudplatform.googleblog.com/2016/09/running-Powershell-on-Google-Cloud-SDK.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A8fjTnxh123K9ismXJbE116HqYcz9RDObM9OcyG66WKgBh7l1162pusfUrLfMjogZsXQ1C1ZXKURgOYOmK0m2N9SjC116Q117117",
+		"item_date": "2016-09-07 12:26:22",
+		"title": "Tweet We are excited to announce that Braintree merchants will soon be able to accept Apple Pay on the web through our SDK httpstco235tSXBn6r",
+		"url": "https://twitter.com/braintree/statuses/773603332883488768",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ejX4THA0FFwExMFrMSIaP1Kbes8J7zoWPz9vItQD5xKtMwnGRpRmsDjP9zg6031Itc6WmDQmOmS7Naq13116DXOA117117",
+		"item_date": "2016-09-07 13:00:43",
+		"title": "Tweet The Stormpath Java SDK is now at 10 More info ampamp the full Java SDK 10 feature list here httpstco2p6wlOnBZ7",
+		"url": "https://twitter.com/goStormpath/statuses/773611979189739520",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "V9Sk2t27cpyYVwcyGo41235xdprRXE4RfO8WGYMpyuJv5ZGAmGJY8cVOxdJdsMh0a2C0xv82WT6cyaGzkaHDsOBg117117",
+		"item_date": "2016-09-08 08:09:01",
+		"title": "Tweet The new PHP helper library is available now We rebuilt it based on your feedback ampamp we autogenerate the libraries httpstcolPMWQyJyMq",
+		"url": "https://twitter.com/twilio/statuses/773900956417167360",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5Da116U63872z116WxiorQMtG8VgfwQSCQwIyOEjGU8vbku0jxfZpWZWLHB0on1R116p2Mig43oZ3aqOr123QoNWausWdQ117117",
 		"item_date": "2016-09-02 00:00:00",
 		"title": "Announcement Brightcove Native Player SDKs deprecating support for Widevine Classic",
@@ -19,8 +99,8 @@
 		"curated_id": "bsk8Y116lV8HolWzJA16NEHIUHhYaPt1bDTU1TqlMI12302OUDcZ3WMq123cIXeQitVBGW4ubtth2BzmEcAEWJwyNUWg117117",
 		"item_date": "2016-09-02 00:00:00",
 		"title": "Content Security DRM with the Native Player SDKs",
-		"url": "Content Security (DRM) with the Native Player SDKs",
-		"domain": "",
+		"url": "http://docs.brightcove.com/en/perform/mobile-sdks/guides/drm.html",
+		"domain": "docs.brightcove.com",
 		"image": ""
 	},
 	{
@@ -768,27 +848,11 @@
 		"image": ""
 	},
 	{
-		"curated_id": "HtkoDqgdx5xtPHssRyZML5J123O8EYmb2KCtSrdtwIComjR0GanFSVc116P56Uch6JyHo28UaE2bd72svmHjjnMTOg117117",
-		"item_date": "2016-02-03 00:00:00",
-		"title": "Embedding Your Language SDKs in Your Apiary Documentation Using APIMATIC",
-		"url": "https://dzone.com/articles/embedding-your-language-sdks-in-your-apiary-docume",
-		"domain": "dzone.com",
-		"image": ""
-	},
-	{
 		"curated_id": "AL6K889pf6rzfFxAG2QpUm123123kWzy6Cx1hlIMqaP1zV9EomvHuI0x3aGl35VSNq9PDYwfesTrG3u2jZipqXxy7A117117",
 		"item_date": "2016-02-03 00:00:00",
 		"title": "JW Player Mobile SDKs Now Featuring AVPlayer and ID3 Timed Metadata",
 		"url": "http://www.jwplayer.com/blog/jw-player-mobile-sdks-now-featuring-avplayer-and-id3-timed-metadata/",
 		"domain": "www.jwplayer.com",
-		"image": ""
-	},
-	{
-		"curated_id": "C116cVuIAFDvvO1C4wiVWZyMhPRFHLkjLq3rHATs53Il0GycaAracQVCC4b8ew5ergLFQxOpyGJVf4bbovh6MemA117117",
-		"item_date": "2016-01-26 00:00:00",
-		"title": "Embedding Your Language SDKs In Your Apiary Documentation Using APIMATIC",
-		"url": "http://apievangelist.com/2016/01/27/embedding-your-language-sdks-in-your-apiary-documentation-using-apimatic/",
-		"domain": "apievangelist.com",
 		"image": ""
 	},
 	{
