@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "HK2Z123EDRbcv4iI4IQBm3wdpKhx2zCS1T123B5nzG3ODkQKp8mxFOv1167I9ETjdUWN8JFma4sDEDYFMNwqnZbdga116g117117",
+		"item_date": "2016-11-11 00:00:00",
+		"title": "Overview Brightcove Player SDK for Android",
+		"url": "http://docs.brightcove.com/en/video-cloud/mobile-sdks/brightcove-player-sdk-for-android/index.html#Connected_TV_Set_top_boxes",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "y8HRut116ogZlPE0f116H1FjMzgGqfx2iXXrSlY2upTU5u9lHyhs71evLtvPPBhUb0p116jqI5vWVUWflSnbYtxf6M116g117117",
+		"item_date": "2016-11-11 00:00:00",
+		"title": "The Brightcove Native Player SDKs",
+		"url": "https://support.brightcove.com/en/video-cloud/docs/brightcove-native-player-sdks#tvdevices",
+		"domain": "support.brightcove.com",
+		"image": ""
+	},
+	{
 		"curated_id": "rte4zit5uRi19fEOiZyjj3XSXMejybDemn116xFud1S5O9LD116FY5BKhylV0B7BO6fvPzmxNBxBDOdqWR9trRAZHA117117",
 		"item_date": "2016-10-31 00:00:00",
 		"title": "Dropbox Nodejs SDK  The Easiest Way to Integrate the Dropbox API",
