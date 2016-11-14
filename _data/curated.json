@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "DsqWL1jBFpxr3MtB1HvFpEvtI38gziYLJBaeNs5Ttt123Ze79vD4bE7Cvqu4J116H5uYkcOvRufWWa3hLc5bcD4omg117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "SDK Patterns For Accelerating API Integration",
+		"url": "https://tyk.io/2016/11/09/sdk-patterns-api-guide/",
+		"domain": "tyk.io",
+		"image": ""
+	},
+	{
 		"curated_id": "HK2Z123EDRbcv4iI4IQBm3wdpKhx2zCS1T123B5nzG3ODkQKp8mxFOv1167I9ETjdUWN8JFma4sDEDYFMNwqnZbdga116g117117",
 		"item_date": "2016-11-11 00:00:00",
 		"title": "Overview Brightcove Player SDK for Android",
@@ -13,6 +21,22 @@
 		"title": "The Brightcove Native Player SDKs",
 		"url": "https://support.brightcove.com/en/video-cloud/docs/brightcove-native-player-sdks#tvdevices",
 		"domain": "support.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Ibvht3FVlCqLzHEu4LFX8wDT8zgOjDq11k3GUCLMXJ2RcV6PCAjgr7L123qo2Ky79yWowxhJqQDZ1123yA91MHcrbQ117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "Arrow Alloy SDK Example",
+		"url": "https://www.appcelerator.com/blog/2016/11/arrow-alloy-sdk-example/",
+		"domain": "www.appcelerator.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NJX123miitcpOSop6mpwOeNE3nFVyeqZMblPez9UhSoPhwdiJWvH123S5bU123hJ8XsZPvwseAjiHZDcOA26xhSCtV6g117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "Legacy mobile SDKs now sunset",
+		"url": "https://medium.com/intercom-developers/legacy-mobile-sdks-now-sunset-9c24495a65a2",
+		"domain": "medium.com",
 		"image": ""
 	},
 	{
