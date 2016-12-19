@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "R0FHiioyYKEy5kduankNdKaGcAhNso123IdqNqCUvqAasSFEdRiEtFxYg123gD8Bxeqa9srElK116GU123pwNTOQVqKtGQ117117",
+		"item_date": "2016-12-18 00:00:00",
+		"title": "CaptureManager SDK",
+		"url": "https://www.codeproject.com/Articles/1017223/CaptureManager-SDK",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3KYd5WGqe6atgmrCHH2O8zrHWyiJW6HGioxYDY1pFR9j3NYBWJTdpre9EkkDMpiAmK123a2Bw6R1Toe6yEpaY74w117117",
+		"item_date": "2016-12-17 09:01:37",
+		"title": "New Docker Images for Intercom SDKs",
+		"url": "https://medium.com/intercom-developers/new-docker-images-for-intercom-sdks-835810cc4ba1#.tsi8bkd1m",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dPqkv1HW4T61ZwNvC0RWwn7116aoETrbRt1NV6S2lmxC61234wJS53Cw8t0yxxm0DUGWn9VGm11RBb3s35hJRSvBcA117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "GameAnalytics SDK for Microsoft UWP Released",
+		"url": "https://blogs.windows.com/buildingapps/2016/12/15/gameanalytics-sdk-microsoft-uwp-released/",
+		"domain": "blogs.windows.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YrIws28fHWTVmi7S6UwsRxtv39eReyGrx116XjOYo123lwIuO2i1PWA6vmbrDZYgYznn4PuQD9eY93vtI5116m9anoSg117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "New Docker Images for Intercom SDKs",
+		"url": "https://medium.com/intercom-developers/new-docker-images-for-intercom-sdks-835810cc4ba1?source=rss----87f6a5352587---4",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
 		"curated_id": "DsqWL1jBFpxr3MtB1HvFpEvtI38gziYLJBaeNs5Ttt123Ze79vD4bE7Cvqu4J116H5uYkcOvRufWWa3hLc5bcD4omg117117",
 		"item_date": "2016-11-09 00:00:00",
 		"title": "SDK Patterns For Accelerating API Integration",
