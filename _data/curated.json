@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "KTp8MBo6TAT9YvZyyggt57KZQqKvfbeBB3IXINog5iF4yX6fbY59XHX4VYHYWphYiS123nu6Auetu64ytmAnyP3A117117",
+		"item_date": "2017-01-13 11:33:44",
+		"title": "Introducing Support for Java SDK Generation in Amazon API Gateway",
+		"url": "https://aws.amazon.com/blogs/developer/api-gateway-java-sdk/?adbsc=social_launches_20170113_69392506&adbid=819990834464497664&adbpl=tw&adbpr=66780587",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YNE2TV1ReIpoo5pyYeaOGM9sm1caoDI1whPEvyDEajLNkiVNp7n1PL2QW7lE7za3ma123ng85kzoQs0LE8umR2Og117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Apps metadata for API discovery and code generation",
+		"url": "https://docs.microsoft.com/en-us/azure/app-service-api/app-service-api-metadata",
+		"domain": "docs.microsoft.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Wlp4akEK7k0jb123Squ2dz74E7Udfn9123vmdtMHcPl9F7G8FgYBFDmwKZFYnthK2VfwqEw7phh4sf1123Op6Cb5ccVw117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "SDK Explained  Coding Craftsmanship",
+		"url": "https://codingcanvas.wordpress.com/2017/01/10/sdk-explained/",
+		"domain": "codingcanvas.wordpress.com",
+		"image": ""
+	},
+	{
 		"curated_id": "180RXLTIvzQOMdc116yptSnoplyqop0YjYE123UKG8KPdmr7BAudVET5LHzBHLSe116QpwxgkAYs3123vbwhQtgUGYAgCA117117",
 		"item_date": "2017-01-03 00:00:00",
 		"title": "CrossPlatform Mobile SDK Testing",
