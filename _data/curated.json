@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "ULjKkW2R123Wg6iejfZLRgzdxnW78BMqsAKl3S5VwIlRJRcQ4Nk8s116pxHOJ2Cv1KvL3Y8Q5Zmr116sDxvXfKrzU6yQ117117",
+		"item_date": "2017-03-10 11:56:03",
+		"title": "Announcing support for IAM users with MFA in the AWS SDK for golang",
+		"url": "https://aws.amazon.com/blogs/developer/assume-aws-iam-roles-with-mfa-using-the-aws-sdk-for-go/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f123j6QahN1qT5hvquVga116adg3vswxQhe0bJyXl73P123eHVs0oHBnPWwxGI4Jg9n33dHpU87FPw1162N0y7FhFvea6w117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "QuickBooks Online SDKs go Open Source",
+		"url": "https://developer.intuit.com/hub/blog/2017/03/06/quickbooks-online-sdks-go-open-source",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
 		"curated_id": "RHOvFOIx116zbyJE2nBq01LBDA2mWIz1kiMQ7lmTLy4l2116tTYPe4kytmsWpMAlppZTRBzp86fhqOz7WnS9sW87Xg117117",
 		"item_date": "2017-03-01 00:00:00",
 		"title": "Foursquare Releases Pilgrim SDK Allowing Third Parties to Access Its Location Intel",
