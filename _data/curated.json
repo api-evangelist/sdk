@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "xlyWnllEd4zacFxuSpDVYQLg6E4Bj9HjZs5UfSbOVbaNz1165LYUJJybnLAyFNAHwCkcGYH3yPQA281gtSFdNzhw117117",
+		"item_date": "2017-03-17 10:25:39",
+		"title": "Tweet The RedMonk Programming Language Rankings January 2017 httpstco9VrxFF7B3i",
+		"url": "https://twitter.com/redmonk/statuses/842789038725709826",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xiF4hWZsN1WZ73GAA4VNQUKmb7zRiOTbHqyTCsNX26f21AM5K8FbHBl1Ea7qlzLj116wj123Ky4aCX9GO3Ohi1239XMw117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "Demo  Mastering Code Review With GitLab",
+		"url": "https://about.gitlab.com/2017/03/17/demo-mastering-code-review-with-gitlab/",
+		"domain": "about.gitlab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MtZ3cRWsynepuJ116116KFuf0IMY3KFbxHEb0vU1bZt9XWwjkd0smeZJq18kP0qfzZCZCGuboclG0xYMgXyaVYUJXA117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "Snake Charmers Secret Metaprogramming the Python SDK",
+		"url": "https://www.contentful.com/blog/2017/03/17/snake-charmers-secret-metaprogramming-the-python-sdk/",
+		"domain": "www.contentful.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ULjKkW2R123Wg6iejfZLRgzdxnW78BMqsAKl3S5VwIlRJRcQ4Nk8s116pxHOJ2Cv1KvL3Y8Q5Zmr116sDxvXfKrzU6yQ117117",
 		"item_date": "2017-03-10 11:56:03",
 		"title": "Announcing support for IAM users with MFA in the AWS SDK for golang",
