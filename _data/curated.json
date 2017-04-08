@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "3wZspDvM7uBMSKelNLqgg123jXIDMffXAcYh8ctW41tlwjmiVMuwkdePG12383j6SINuTANdr6tuho116VKhFwEsgvag117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "Reminder to PHP users  upgrade to the new Ads PHP library",
+		"url": "http://feedproxy.google.com/~r/GoogleAdsDeveloperBlog/~3/B0s75zl3dyo/reminder-to-php-users-upgrade-to-new.html",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "diTJNUn3KnZl3OGwT1PyQ8GhhKh123wJpyw1NcqUjTAIYj6j7i5uUbj7DpaOZoqXrZOERfv116pRak7vusT8XwmGag117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "Playing streaming ads with the IMA SDK for Android",
+		"url": "http://feedproxy.google.com/~r/GoogleAdsDeveloperBlog/~3/dvWOftB7E2Y/playing-streaming-ads-with-ima-sdk-for.html",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
 		"curated_id": "NFE9AN4RdFV1237M0k2CkJvhs4n9IT4123UPyPalFR4he6Xne4BzJ8f0r123wccpQj3bYEj1VjFXzJM7A1cF116o4yyMRw117117",
 		"item_date": "2017-03-22 00:00:00",
 		"title": "How Much Does Your SDK Weigh mParticle",
