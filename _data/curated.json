@@ -1,18 +1,42 @@
 [
 	{
+		"curated_id": "123m44kjWsMQ116116FFY4YAHuAJtRWb1Tcs6LWpFa6gBEoNUjATtH116aeH4YHWc1AVxtH5P116dJ5hNcjI2R4soISJn123dA117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Maximo REST APIs examples",
+		"url": "http://maximodev.blogspot.com/2017/04/maximo-rest-apis-examples.html",
+		"domain": "maximodev.blogspot.com",
+		"image": ""
+	},
+	{
 		"curated_id": "3wZspDvM7uBMSKelNLqgg123jXIDMffXAcYh8ctW41tlwjmiVMuwkdePG12383j6SINuTANdr6tuho116VKhFwEsgvag117117",
 		"item_date": "2017-04-05 00:00:00",
 		"title": "Reminder to PHP users  upgrade to the new Ads PHP library",
-		"url": "http://feedproxy.google.com/~r/GoogleAdsDeveloperBlog/~3/B0s75zl3dyo/reminder-to-php-users-upgrade-to-new.html",
-		"domain": "feedproxy.google.com",
+		"url": "http://googleadsdeveloper.blogspot.com/2017/04/reminder-to-php-users-upgrade-to-new.html",
+		"domain": "googleadsdeveloper.blogspot.com",
 		"image": ""
 	},
 	{
 		"curated_id": "diTJNUn3KnZl3OGwT1PyQ8GhhKh123wJpyw1NcqUjTAIYj6j7i5uUbj7DpaOZoqXrZOERfv116pRak7vusT8XwmGag117117",
 		"item_date": "2017-04-06 00:00:00",
 		"title": "Playing streaming ads with the IMA SDK for Android",
-		"url": "http://feedproxy.google.com/~r/GoogleAdsDeveloperBlog/~3/dvWOftB7E2Y/playing-streaming-ads-with-ima-sdk-for.html",
-		"domain": "feedproxy.google.com",
+		"url": "http://googleadsdeveloper.blogspot.com/2017/04/playing-streaming-ads-with-ima-sdk-for.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CiGQsYGrD123RzD6npo6GnkOY9tqEBfAj8eeyPuHVR2UQ4ChCKqSQWLxc9JHEO6YD9Ky2Kf3vONHEDtGINk4BkFQ117117",
+		"item_date": "2017-04-03 00:00:00",
+		"title": "New Python Sample App for QuickBooks Online API",
+		"url": "https://developer.intuit.com/hub/blog/2017/04/03/new-python-sample-app-quickbooks-online-api",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "HtWUuY8p3QbwLNFRBIyicHB123yLIzeOuREmVH6V2qUB900Uu6Hf4v2f99CKXBTdNOJQ1164h2Q3iLI2euaPc7Wszg117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Introducing RateLimiter extension in AdWords API Java Client Library",
+		"url": "http://googleadsdeveloper.blogspot.com/2017/04/introducing-ratelimiter-extension-in.html",
+		"domain": "googleadsdeveloper.blogspot.com",
 		"image": ""
 	},
 	{
