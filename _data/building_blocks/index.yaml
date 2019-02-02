@@ -1,352 +1,165 @@
-- building_block_id: overview
-  type: SDK
-  category: Overview
-  name: Overview
-  description: 'Providing a single page with overview of samples, libraries, or SDKs.'
-  image: ''
-  tags: SDK
-- building_block_id: beta
-  type: SDK
-  category: Overview
-  name: Beta
-  description: 'Provide a beta program as part of language, mobile, or platform SDKs.'
-  image: ''
-  tags: SDK
-- building_block_id: crash-reporting
-  type: SDK
-  category: Overview
-  name: Crash Reporting
-  description: >-
-    Provide tooling and services to assist with crash reporting within language,
-    mobile, or platform SDKs.
-  image: ''
-  tags: SDK
-- building_block_id: cold-fusion
-  type: SDK
-  category: Language Samples
-  name: Cold Fusion
-  description: >-
-    An simple sample, for a specific API, available in the ColdFusion
-    programming language, with consideration specifically tailored for the
-    language.
-  image: ''
-  tags: SDK
-- building_block_id: php
-  type: SDK
-  category: Language SDKs
-  name: PHP
-  description: >-
-    An SDK available in the PHP programming language, with consideration
-    specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: python
-  type: SDK
-  category: Language SDKs
-  name: Python
-  description: >-
-    An SDK available in the Python programming language, with consideration
-    specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: ruby
-  type: SDK
-  category: Language SDKs
-  name: Ruby
-  description: >-
-    An SDK available in the Ruby programming language, with consideration
-    specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: node.js
-  type: SDK
-  category: Language SDKs
-  name: Node.js
-  description: >-
-    An SDK available in the Node.js programming language, with consideration
-    specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: c-sharp
-  type: SDK
-  category: Language SDKs
-  name: C Sharp
-  description: >-
-    An SDK available in the C Sharp / C# programming language, with
-    consideration specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: java
-  type: SDK
-  category: Language SDKs
-  name: Java
-  description: >-
-    An SDK available in the Java programming language, with consideration
-    specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: go
-  type: SDK
-  category: Language SDKs
-  name: Go
-  description: >-
-    An SDK available in the Go programming language, with consideration
-    specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: scala
-  type: SDK
-  category: Language SDKs
-  name: Scala
-  description: >-
-    An SDK available in the Scala programming language, with consideration
-    specifically tailored for the language.
-  image: ''
-  tags: SDK
-- building_block_id: mobile-overview
-  type: SDK
-  category: Mobile Solutions
-  name: Mobile Overview
-  description: >-
-    An overview page, dedicated to mobile application development, giving equal
-    time to each platform, including iOS, Android, and Windows.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: ios-sdk
-  type: SDK
-  category: Mobile Solutions
-  name: iOS SDK
-  description: >-
-    Providing mobile-focused SDKs for developers to build IOS mobile
-    applications on top of an API.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-iphone.png
-  tags: 'Management,SDK'
-- building_block_id: android-sdk
-  type: SDK
-  category: Mobile Solutions
-  name: Android SDK
-  description: >-
-    Providing mobile focused SDKs for developers to build Android mobile
-    applications on top of an API.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-android.jpg
-  tags: 'Management,SDK'
-- building_block_id: html5
-  type: SDK
-  category: Mobile Solutions
-  name: HTML5
-  description: >-
-    Providing mobile focused SDKs for developers to build HTML5 mobile
-    applications on top of an API.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html5.png
-  tags: 'Management,SDK'
-- building_block_id: appery.io
-  type: SDK
-  category: Mobile Solutions
-  name: Appery.io
-  description: >-
-    Providing mobile focused SDKs for developers to build mobile applications on
-    top of an API, using Appery.io.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-appery.png
-  tags: 'Management,SDK'
-- building_block_id: windows-mobile-sdk
-  type: SDK
-  category: Mobile Solutions
-  name: Windows Mobile SDK
-  description: >-
-    Providing mobile focused SDKs for developers to build Windows mobile
-    applications on top of an API.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: wordpress
-  type: SDK
-  category: Platform Development Kits (PDK)
-  name: Wordpress
-  description: >-
-    Providing ready to go WordPress integration, allowing developers, and
-    sometimes even non-developers to immediately put an API to use through their
-    WordPress site(s).
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: heroku
-  type: SDK
-  category: Platform Development Kits (PDK)
-  name: Heroku
-  description: >-
-    Providing ready to go Heroku integration, allowing developers, and sometimes
-    even non-developers to immediately put an API to use through their Heroku
-    platform account.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: drupal
-  type: SDK
-  category: Platform Development Kits (PDK)
-  name: Drupal
-  description: >-
-    Providing ready to go Drupal integration, allowing developers, and sometimes
-    even non-developers to immediately put an API to use through their Drupal
-    site(s).
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: salesforce
-  type: SDK
-  category: Platform Development Kits (PDK)
-  name: SalesForce
-  description: >-
-    Providing ready to go SalesForce integration, allowing developers, and
-    sometimes even non-developers to immediately put an API to use through their
-    SalesForce account.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: joomla
-  type: SDK
-  category: Platform Development Kits (PDK)
-  name: Joomla
-  description: >-
-    Providing ready to go Joomla integration, allowing developers, and sometimes
-    even non-developers to immediately put an API to use through their Joomla
-    account.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: google-app-engine
-  type: SDK
-  category: Platform Development Kits (PDK)
-  name: Google App Engine
-  description: >-
-    Providing ready to go Google App Engine integration, allowing developers,
-    and sometimes even non-developers to immediately put an API to use through
-    the Google Cloud platform.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: angular.js
-  type: SDK
-  category: Single Page Applications (SPA)
-  name: Angular.js
-  description: >-
-    Providing developers with AngularJS framework integration, allowing them to
-    build single page applications using API resources.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: react.js
-  type: SDK
-  category: Single Page Applications (SPA)
-  name: React.js
-  description: >-
-    Providing developers with React.js framework integration, allowing them to
-    build single page applications using API resources.
-  image: ''
-  tags: SDK
-- building_block_id: chrome-extension
-  type: SDK
-  category: Browser Development Kits (BDK)
-  name: Chrome Extension
-  description: >-
-    Providing ready to go Google Chrome browser integration, allowing
-    developers, and sometimes even non-developers to immediately put an API to
-    use in their browser, with a Google Chrome extension.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: firefox-addon
-  type: SDK
-  category: Browser Development Kits (BDK)
-  name: Firefox Add-On
-  description: >-
-    Providing ready to go Mozilla Firefox browser integration, allowing
-    developers, and sometimes even non-developers to immediately put an API to
-    use in their browser, with a Mozilla Firefox add-on.
-  image: ''
-  tags: 'Management,SDK'
-- building_block_id: advertising-development-kit-adk
-  type: SDK
-  category: Monetization Development Kit (MDK)
-  name: Advertising Development Kit (ADK)
-  description: >-
-    Providing a toolkit for integrating advertising opportunities directly into
-    language, mobile, and platform development kits.
-  image: ''
-  tags: SDK
-- building_block_id: list-sdk
-  type: SDK
-  category: Discovery
-  name: List SDK
-  description: >-
-    Are SDKs listed in an easy to find location, where developers can browse
-    them easily? A simple list goes a long way in making them found.
-  image: ''
-  tags: SDK
-- building_block_id: search-sdk
-  type: SDK
-  category: Discovery
-  name: Search SDK
-  description: >-
-    Is there the ability to search for SDKs, using a single index dedicated to
-    them, or possibly using Github's already available search mechanisms.
-  image: ''
-  tags: SDK
-- building_block_id: browse-sdk
-  type: SDK
-  category: Discovery
-  name: Browse SDK
-  description: >-
-    Is there a browseable directory of SDKs, that developers can use to find the
-    SDK that they need? Potentially giving more information than just a listing.
-  image: ''
-  tags: SDK
-- building_block_id: rating
-  type: SDK
-  category: Discovery
-  name: Rating
-  description: >-
-    Are SDKs rated, allowing for various quality considerations around their
-    value and usage in other API integrations, allowing developers to find the
-    best SDKs possible.
-  image: ''
-  tags: SDK
-- building_block_id: import-openapi-spec
-  type: SDK
-  category: Import / Export
-  name: Import OpenAPI Spec
-  description: >-
-    Allow for importing of API definitions using OpenAPI specification format,
-    for generation of SDKs.
-  image: ''
-  tags: SDK
-- building_block_id: import-raml
-  type: SDK
-  category: Import / Export
-  name: Import RAML
-  description: >-
-    Allow for importing of API definitions using RAML format, for generation of
-    SDKs.
-  image: ''
-  tags: SDK
-- building_block_id: import-api-blueprint
-  type: SDK
-  category: Import / Export
-  name: Import API Blueprint
-  description: >-
-    Allow for importing of API definitions using API Blueprint format, for
-    generation of SDKs.
-  image: ''
-  tags: SDK
-- building_block_id: import-wadl
-  type: SDK
-  category: Import / Export
-  name: Import WADL
-  description: >-
-    Allow for importing of API definitions using WADL format, for generation of
-    SDKs.
-  image: ''
-  tags: SDK
-- building_block_id: import-postman
-  type: SDK
-  category: Import / Export
-  name: Import Postman
-  description: >-
-    Allow for importing of API definitions using Postman format, for generation
-    of SDKs.
-  image: ''
-  tags: SDK
+- building_block_id: web-concepts
+  type: Definitions
+  category: Formats
+  name: Web Concepts
+  descripion: >-
+    APIs are built on the web, and there are numerous web concepts in play that
+    should be considered as part of the API design process.
+  logo: ''
+  tags: Definitions
+- building_block_id: specification
+  type: Definitions
+  category: Formats
+  name: Specification
+  descripion: >-
+    The root specification for the API definition format, providing a base set
+    of rules for all services and tools that employ the spec.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: schema
+  type: Definitions
+  category: Formats
+  name: Schema
+  descripion: >-
+    A representation of data model, used as part of an API request, or response,
+    usually in JSON, but increasingly YAML, and Markdown are also used.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: generator
+  type: Definitions
+  category: Tooling
+  name: Generator
+  descripion: >-
+    Generating an API definition format from an existing system or platform,
+    outputting the portable machine readable format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-generate.png
+  tags: Definitions
+- building_block_id: parser
+  type: Definitions
+  category: Tooling
+  name: Parser
+  descripion: >-
+    Parses a machine readable API definition and makes ready for use in specific
+    language, structure, or platform.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-parse.png
+  tags: Definitions
+- building_block_id: validator
+  type: Definitions
+  category: Tooling
+  name: Validator
+  descripion: >-
+    Validates an API definition against its formal specification and schema,
+    producing a valid or invalid response, with as much detail as possible.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-valid.png
+  tags: Definitions
+- building_block_id: converter
+  type: Definitions
+  category: Tooling
+  name: Converter
+  descripion: >-
+    The conversion of an API definition from one format into another, allowing
+    designers to share API definitions in any format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversion.png
+  tags: Definitions
+- building_block_id: commandline
+  type: Definitions
+  category: Tooling
+  name: Command-Line
+  descripion: The usage of machine readable API definitions at the command line.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: powershell
+  type: Definitions
+  category: Tooling
+  name: Powershell
+  descripion: The usage of machine readable API definitions via the powershell interface.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: aggregator
+  type: Definitions
+  category: Tooling
+  name: Aggregator
+  descripion: Aggregation of APIs using a machine readable API definition format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrow-aggregate.png
+  tags: Definitions
+- building_block_id: translator
+  type: Definitions
+  category: Tooling
+  name: Translator
+  descripion: >-
+    Being able to translate an API definition format from one format to another,
+    either manually or automatically.
+  logo: ''
+  tags: Definitions
+- building_block_id: merging
+  type: Definitions
+  category: Tooling
+  name: Merging
+  descripion: >-
+    Tooling or other APIs that provide for the merging of common API definition
+    formats, allowing the granularity of what elements get merged, or do not get
+    merged. Ideally, this is an API, as well as simple web-based or desktop
+    tooling for API providers and consumers.
+  logo: ''
+  tags: Definitions
+- building_block_id: diff
+  type: Definitions
+  category: Tooling
+  name: Diff
+  descripion: >-
+    Providing side by side comparison of two API definitions, programmatically
+    and visually helping identify between two API definitions. This allows for
+    API architects, designers, and consumers to understand the completeness of
+    two definitions, in relation to each other.
+  logo: ''
+  tags: Definitions
+- building_block_id: editors
+  type: Definitions
+  category: Environment
+  name: Editors
+  descripion: >-
+    API definition editor, allowing for the creation, import, and export of API
+    definition formats, providing a simple, IDE like API editing experience.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: ide-plugin
+  type: Definitions
+  category: Environment
+  name: IDE Plugin
+  descripion: >-
+    Providing integration with existing integrated development environments
+    (IDE), giving developers API discovery, documentation, and integration
+    tooling within the IDE.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: forms
+  type: Definitions
+  category: Environment
+  name: Forms
+  descripion: >-
+    Dynamically generating an HTML form from an API definition, allow for the
+    structure, and handling to be driven by an API definition.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forms.png
+  tags: Definitions
+- building_block_id: github
+  type: Definitions
+  category: Environment
+  name: GIthub
+  descripion: >-
+    Allowing for the import, publishing, and syncing of API definitions and
+    schemas to Github for forking, and management using the social coding
+    platform.
+  logo: ''
+  tags: Definitions
