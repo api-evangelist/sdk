@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - SDKs
-  - Code Generation
-  - Client Libraries
   - API Tooling
+  - Client Libraries
+  - Code Generation
+  - SDKs
 url: https://raw.githubusercontent.com/api-evangelist/sdk/refs/heads/main/apis.yml
 created: '2026-03-25'
 modified: '2026-03-27'
