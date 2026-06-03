@@ -1,0 +1,120 @@
+meta:
+  name: SDKs
+  description: A curated index of services, tooling, and open source solutions for
+    generating API SDKs, client libraries, and code from API specifications. This
+    collection covers SDK generation platforms, open source code generators, RPC frameworks,
+    and schema-driven toolchains across the SDK lifecycle stop.
+  tags:
+  - API Tooling
+  - Client Libraries
+  - Code Generation
+  - SDKs
+  portal: null
+  github: null
+  repo: sdk
+services_tools:
+- name: APIMatic
+  repo: https://github.com/api-evangelist/apimatic
+  apisio: https://providers.apis.io/providers/apimatic/
+- name: Apollo
+  repo: https://github.com/api-evangelist/apollo
+  apisio: https://providers.apis.io/providers/apollo/
+- name: Apache Thrift
+  repo: https://github.com/api-evangelist/thrift
+  apisio: https://providers.apis.io/providers/thrift/
+- name: AutoRest
+  repo: https://github.com/api-evangelist/autorest
+  apisio: https://providers.apis.io/providers/autorest/
+- name: Buf
+  repo: https://github.com/api-evangelist/buf
+  apisio: https://providers.apis.io/providers/buf/
+- name: Cap'n Proto
+  repo: https://github.com/api-evangelist/capn-proto
+  apisio: https://providers.apis.io/providers/capn-proto/
+- name: Connect-RPC
+  repo: https://github.com/api-evangelist/connect-rpc
+  apisio: https://providers.apis.io/providers/connect-rpc/
+- name: Feign
+  repo: https://github.com/api-evangelist/feign
+  apisio: https://providers.apis.io/providers/feign/
+- name: Fern
+  repo: https://github.com/api-evangelist/fern
+  apisio: https://providers.apis.io/providers/fern/
+- name: Genql
+  repo: https://github.com/api-evangelist/genql
+  apisio: https://providers.apis.io/providers/genql/
+- name: GraphQL Code Generator
+  repo: https://github.com/api-evangelist/graphql-codegen
+  apisio: https://providers.apis.io/providers/graphql-codegen/
+- name: gRPC
+  repo: https://github.com/api-evangelist/grpc
+  apisio: https://providers.apis.io/providers/grpc/
+- name: Hey API
+  repo: https://github.com/api-evangelist/hey-api
+  apisio: https://providers.apis.io/providers/hey-api/
+- name: Kiota
+  repo: https://github.com/api-evangelist/kiota
+  apisio: https://providers.apis.io/providers/kiota/
+- name: Konfig
+  repo: https://github.com/api-evangelist/konfig
+  apisio: https://providers.apis.io/providers/konfig/
+- name: Liblab
+  repo: https://github.com/api-evangelist/liblab
+  apisio: https://providers.apis.io/providers/liblab/
+- name: NSwag
+  repo: https://github.com/api-evangelist/nswag
+  apisio: https://providers.apis.io/providers/nswag/
+- name: oapi-codegen
+  repo: https://github.com/api-evangelist/oapi-codegen
+  apisio: https://providers.apis.io/providers/oapi-codegen/
+- name: Ogen
+  repo: https://github.com/api-evangelist/ogen
+  apisio: https://providers.apis.io/providers/ogen/
+- name: OpenAPI Generator
+  repo: https://github.com/api-evangelist/openapi-generator
+  apisio: https://providers.apis.io/providers/openapi-generator/
+- name: OpenAPI TypeScript Codegen
+  repo: https://github.com/api-evangelist/openapi-typescript-codegen
+  apisio: https://providers.apis.io/providers/openapi-typescript-codegen/
+- name: Orval
+  repo: https://github.com/api-evangelist/orval
+  apisio: https://providers.apis.io/providers/orval/
+- name: Protocol Buffers
+  repo: https://github.com/api-evangelist/protobuf
+  apisio: https://providers.apis.io/providers/protobuf/
+- name: Refitter
+  repo: https://github.com/api-evangelist/refitter
+  apisio: https://providers.apis.io/providers/refitter/
+- name: Relay Compiler
+  repo: https://github.com/api-evangelist/relay-compiler
+  apisio: https://providers.apis.io/providers/relay-compiler/
+- name: RestSharp
+  repo: https://github.com/api-evangelist/restsharp
+  apisio: https://providers.apis.io/providers/restsharp/
+- name: Retrofit
+  repo: https://github.com/api-evangelist/retrofit
+  apisio: https://providers.apis.io/providers/retrofit/
+- name: Sideko
+  repo: https://github.com/api-evangelist/sideko
+  apisio: https://providers.apis.io/providers/sideko/
+- name: Smithy
+  repo: https://github.com/api-evangelist/smithy
+  apisio: https://providers.apis.io/providers/smithy/
+- name: Speakeasy
+  repo: https://github.com/api-evangelist/speakeasy
+  apisio: https://providers.apis.io/providers/speakeasy/
+- name: Stainless
+  repo: https://github.com/api-evangelist/stainless
+  apisio: https://providers.apis.io/providers/stainless/
+- name: Swagger Codegen
+  repo: https://github.com/api-evangelist/swagger-codegen
+  apisio: https://providers.apis.io/providers/swagger-codegen/
+- name: tRPC
+  repo: https://github.com/api-evangelist/trpc
+  apisio: https://providers.apis.io/providers/trpc/
+- name: Twirp
+  repo: https://github.com/api-evangelist/twirp
+  apisio: https://providers.apis.io/providers/twirp/
+features: []
+use_cases: []
+integrations: []
