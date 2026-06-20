@@ -6,7 +6,7 @@ description: >-
   covers SDK generation platforms, open source code generators, RPC frameworks,
   and schema-driven toolchains across the SDK lifecycle stop.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - API Tooling
   - Client Libraries
