@@ -1,0 +1,31 @@
+related:
+- name: Pro-Code API Composition
+  url: https://pro-code-api-composition.apievangelist.com
+  icon: https://pro-code-api-composition.apievangelist.com/icon.png
+  description: An index of pro-code API composition service and tooling repos being tracked by the API
+    Evangelist network, covering workflow engines, code-first platforms, serverless…
+- name: Clients
+  url: https://clients.apievangelist.com
+  icon: https://clients.apievangelist.com/icon.png
+  description: This is the index of API client, HTTP client, and API consumer tools repos being tracked
+    by the API Evangelist network. The collection includes command-line HTTP clients, GUI…
+- name: IDE
+  url: https://ide.apievangelist.com
+  icon: https://ide.apievangelist.com/icon.png
+  description: An index and topic collection covering integrated development environments (IDEs), code
+    editors, and cloud workspaces with APIs. This topic captures the editors, IDEs, and…
+- name: API Clients
+  url: https://api-clients.apievangelist.com
+  icon: https://api-clients.apievangelist.com/icon.png
+  description: An index and topic collection covering API clients, the developer tools used to inspect,
+    debug, exercise, and document APIs interactively. API clients include desktop and web…
+- name: Command Line Interface
+  url: https://cli.apievangelist.com
+  icon: https://cli.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API command line interfaces,
+    HTTP clients, and terminal-based API tools. This collection covers HTTP clients,…
+- name: Encryption
+  url: https://encryption.apievangelist.com
+  icon: https://encryption.apievangelist.com/icon.png
+  description: An index and topic collection covering encryption services, key management systems (KMS),
+    hardware security modules (HSM), envelope encryption, end-to-end encryption SDKs,…
