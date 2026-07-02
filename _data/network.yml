@@ -1,9 +1,4 @@
 related:
-- name: Pro-Code API Composition
-  url: https://pro-code-api-composition.apievangelist.com
-  icon: https://pro-code-api-composition.apievangelist.com/icon.png
-  description: An index of pro-code API composition service and tooling repos being tracked by the API
-    Evangelist network, covering workflow engines, code-first platforms, serverless…
 - name: Clients
   url: https://clients.apievangelist.com
   icon: https://clients.apievangelist.com/icon.png
