@@ -2,7 +2,7 @@
 title: 'Stateless MCP: A Step-by-Step Guide for Clients'
 link: https://www.arcade.dev/blog/supporting-stateless-mcp-client-checklist/
 published: '2026-07-28'
-provider: arcade
-repo: https://github.com/api-evangelist/arcade
+provider: arcade-dev
+repo: https://github.com/api-evangelist/arcade-dev
 domain: www.arcade.dev
 ---
