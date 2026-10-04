@@ -11,6 +11,11 @@ tags:
   - API Tooling
   - Client Libraries
   - Code Generation
+  - SDK
+tags_raw:
+  - API Tooling
+  - Client Libraries
+  - Code Generation
   - SDKs
 url: https://raw.githubusercontent.com/api-evangelist/sdk/refs/heads/main/apis.yml
 created: '2026-03-25'
