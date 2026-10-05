@@ -1,5 +1,6 @@
 aid: sdk
 name: SDKs
+kind: topic
 description: >-
   A curated index of services, tooling, and open source solutions for generating
   API SDKs, client libraries, and code from API specifications. This collection
