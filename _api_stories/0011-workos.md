@@ -1,8 +1,7 @@
 ---
-title: The MCP SDK just shipped DPoP and scope challenges. Here's what to do about
-  it.
-link: https://workos.com/blog/mcp-sdk-dpop-and-scope-challenges
-published: '2026-09-29'
+title: 'Figma MCP 403 Forbidden: Why client_name allowlists fail'
+link: https://workos.com/blog/figma-mcp-403-forbidden-client-name
+published: '2026-10-05'
 provider: workos
 repo: https://github.com/api-evangelist/workos
 domain: workos.com
