@@ -6,7 +6,7 @@ meta:
     and schema-driven toolchains across the SDK lifecycle stop.
   tags:
   - API Tooling
-  - Client Libraries
+  - Client Library
   - Code Generation
   - SDK
   portal: null
